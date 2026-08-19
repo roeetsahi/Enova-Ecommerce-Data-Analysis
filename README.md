@@ -95,7 +95,9 @@ Just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently dr
 #### 2. Accessories: High Volume, Low Yield
 The Accessories category (Samsung Cables and Webcams) generates high unit volume with minimal financial return. In 2020, these items drove 21.5% of unit volume but only 2% of revenue. By 2022, this operational drag widened, consuming 32% of total volume for just 4% of revenue. This high-volume, low-yield profile inflates logistics overhead with negligible financial impact.
 
-<img width="1616" height="840" alt="image" src="https://github.com/user-attachments/assets/2296c5b7-eba4-42b2-b694-31a669e68a60" />
+
+<img width="1294" height="688" alt="image" src="https://github.com/user-attachments/assets/57217228-2c79-470a-a223-7d3806263d8a" />
+
 
 #### 3. High Apple Reliance and Zero Mobile Penetration
 While the Apple ecosystem dominates the business, driving ~50% of total revenue, the enterprise entirely misses the core mobile market. For four consecutive years, iPhone sales have flatlined at <1% of total revenue, highlighting a massive missed cross-selling opportunity.
