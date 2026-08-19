@@ -20,7 +20,10 @@ To leverage the company's previously underutilized historical data (2019–2022)
 ## About the Data & Methodology
 Enova's database structure as seen below consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total of over 108,000 rows, each row representing a transaction record.
 
-![ERD Diagram](insert_image_link_here.png)
+<img width="602" height="366" alt="ERD" src="https://github.com/user-attachments/assets/b4f8d433-de4b-4dbe-8d42-10c63d1e9f65" />
+<img width="785" height="440" alt="ERD2" src="https://github.com/user-attachments/assets/a48c8279-bd20-4611-83f3-e86b58fb1210" />
+
+
 
 **Data Governance & Integrity:**
 To ensure high data integrity and prevent analytical bias, a rigorous data cleaning process was executed prior to analysis. Please review the **[Data Cleaning & Preparation Log](link_to_markdown_file_here.md)** for the complete methodology. 
@@ -29,7 +32,8 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 
 ## Executive Summary - Overview of Findings
 
-![OVERALL KPIS](insert_image_link_here.png)
+<img width="1379" height="145" alt="KPIS" src="https://github.com/user-attachments/assets/403bbcf9-4e2c-401f-b2e0-c7313986eab4" />
+
 
 **Between 2019 and 2022, Enova Electronics generated approximately $28M in total sales across ~93,000 orders, with an overall Average Order Value (AOV) of $302. Catalyzed by the COVID-19 lockdowns and pivot to remote environments, 2020 revenues scaled by 163% year-over-year to $10.2M. However, beginning in Q2 2021, the enterprise entered a sustained contraction, recording 21 consecutive months of year-over-year revenue declines through the end of 2022.**
 **While total 2022 revenue remained above pre-pandemic levels, momentum collapsed by year-end. Q4 2022 sales plummeted 45% against the Q4 2019 baseline, leaving the company fundamentally weaker entering 2023.**
@@ -53,9 +57,11 @@ Beyond these macro-trends, the following critical inefficiencies and strategic o
 #### 1. The 2020 Historic Expansion
 As global COVID-19 lockdowns forced an abrupt transition to remote work and distance learning, alongside a mass shift from physical retail to digital commerce, Enova experienced an unprecedented expansion in 2020. Compared to the 2019 baseline, total annual revenue scaled by 163% to ~$10.2M, powered by "Dual-Engine" growth: order volume doubled to ~29K, and AOV surged by 30% to $351. Notably, this dominance was absolute across the timeline - every single month of 2020 outperformed its 2019 counterpart across all primary KPIs, culminating in a historic monthly revenue peak of $1.25M in December. 
 
-![2020 KPI Cards](insert_image_link_here.png)
-![Total Revenue Trajectory](insert_image_link_here.png)
-![Monthly Year-over-Year Variance](insert_image_link_here.png)
+<img width="1379" height="147" alt="KPIS 2020" src="https://github.com/user-attachments/assets/5d635439-9976-4e9e-ade7-97c8a2c785eb" />
+
+<img width="602" height="312" alt="REVENUE LINE" src="https://github.com/user-attachments/assets/cbb8022d-f82c-4ede-a3c6-52b22c447cc1" />
+
+<img width="602" height="312" alt="YOY METRICS" src="https://github.com/user-attachments/assets/9c01ecfb-04cf-40d2-9123-8bea53f94c67" />
 
 #### 2. The 2021-2022 Post-Surge Contraction
 Beginning in April 2021, revenue entered a sustained contraction, recording 21 consecutive months of YoY declines through the very end of 2022, culminating in a severe 46% annual revenue drop versus 2021. This downturn began as a natural market normalization, but severely accelerated throughout 2022, broadly attributed to macroeconomic headwinds such as peak inflation, rising interest rates, and an escalating shift back to physical retail. As consumer spending power weakened, the market ultimately contracted in October 2022 at a lifetime low of ~$178K.
@@ -77,7 +83,7 @@ The brand follows a predictable annual 'Dual-Peak' cycle. The primary peak occur
 #### 5. February and October Troughs
 Enova also experiences two predictable cooling-off periods. October revenues consistently decline (averaging -31% vs. September), an understandable drop following the back-to-school peak, and consumers strategically delaying spending ahead of Black Friday and Holiday sales. Similarly, February represents the bottom of the post-holiday trough, typically dropping 32% below January (across 2019, 2021–2022). However, 2020 presented a stark anomaly where February revenue actually grew by 4%, driven by the onset of COVID-19.
 
-![Annual Revenue Seasonality](insert_image_link_here.png)
+<img width="1380" height="713" alt="SEASONALITY" src="https://github.com/user-attachments/assets/b5f3bba3-9e00-4bea-8775-44976883d004" />
 
 ###  Product
 
@@ -87,7 +93,7 @@ Just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently dr
 #### 2. Accessories: High Volume, Low Yield
 The Accessories category (Samsung Cables and Webcams) generates high unit volume with minimal financial return. In 2020, these items drove 21.5% of unit volume but only 2% of revenue. By 2022, this operational drag widened, consuming 32% of total volume for just 4% of revenue. This high-volume, low-yield profile inflates logistics overhead with negligible financial impact.
 
-![Concentration Risk Charts](insert_image_link_here.png)
+<img width="1380" height="713" alt="STACKED BAR" src="https://github.com/user-attachments/assets/050e4b1c-8965-403e-a078-0265ccdd64f0" />
 
 #### 3. High Apple Reliance and Zero Mobile Penetration
 While the Apple ecosystem dominates the business, driving ~50% of total revenue, the enterprise entirely misses the core mobile market. For four consecutive years, iPhone sales have flatlined at <1% of total revenue, highlighting a massive missed cross-selling opportunity.
@@ -100,19 +106,21 @@ While the Apple ecosystem dominates the business, driving ~50% of total revenue,
 #### 4. The High Cost of Premium Returns
 While the ~12% return rates for MacBook Air and ThinkPad laptops align with industry benchmarks, their high retail prices drain over $1.1M in refunded value, causing substantial margin erosion. Additionally, despite a healthy ~6% return rate, the 27in Gaming Monitor's massive order volume drives another ~$643K in refunds.
 
-![Profitability Leaks - Returns](insert_image_link_here.png)
+<img width="602" height="312" alt="REFUND" src="https://github.com/user-attachments/assets/0ca54ecc-2311-4e52-af1c-2951d2a24174" />
 
 ###  Loyalty Program 
 
 #### 1. The Rise and Sharp Retraction of Loyalty Revenue Share
 The Loyalty Program evolved from a marginal initiative (yielding a single-digit revenue share in the first eight months of 2019) into a dominant business driver, peaking at 63% of total revenue in April 2022. However, this momentum experienced a sharp reversal, with the member-driven revenue share contracting to 30% by December 2022. 
 
-![Growth & Collapse Area Chart](insert_image_link_here.png)
+<img width="602" height="343" alt="REVENUE SHARE" src="https://github.com/user-attachments/assets/53ceab4c-9693-44d3-90f0-85b8debeccfb" />
 
 #### 2. The AOV Inflection: Loyalty as a Premium Engine
 Following non-member AOV dominance through mid-2021, Q3 2021 marked an inflection point where Loyalty members became our premium engine. Throughout 2022, members demonstrated stronger spending resilience during the market cooldown, maintaining a $274 AOV - an 11% premium over non-members ($247). Despite this strong annual average, a quarterly breakdown reveals a sharp reversal in Q4 2022, with non-members again outpacing Loyalty ($300 vs. $267), signaling emerging instability in the program.
 
 ![AOV Line Chart](insert_image_link_here.png)
+<img width="602" height="312" alt="AOV LINE" src="https://github.com/user-attachments/assets/d143d808-2697-4398-9846-3c07e468d924" />
+
 
 #### 3. The Member Velocity Advantage in Buying Cycles
 Following the 2020 pandemic peak, average days between orders for returning customers increased for both loyalty segments. However, loyalty members demonstrated greater behavioral resilience, maintaining a significant velocity gap over non-members across the entire 2020-2022 period. This advantage peaked at a 75-day lead in 2021 (202 vs. 277, ~27% faster) and remained robust at a ~70-day advantage in 2022 (326 vs. 395, ~17% faster). 
