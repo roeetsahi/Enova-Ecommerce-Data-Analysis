@@ -59,21 +59,16 @@ As global COVID-19 lockdowns forced an abrupt transition to remote work and dist
 
 <img width="1648" height="969" alt="image" src="https://github.com/user-attachments/assets/002dad6a-64e6-4023-80bc-7cc0d3c8f2ea" />
 
-<img width="1306" height="737" alt="image" src="https://github.com/user-attachments/assets/b122b440-c630-4671-955a-ba17658ba123" />
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/002dad6a-64e6-4023-80bc-7cc0d3c8f2ea" width="49%" />
-  <img src="https://github.com/user-attachments/assets/b122b440-c630-4671-955a-ba17658ba123" width="49%" />
-</p>
-
-
 #### 2. The 2021-2022 Post-Surge Contraction
 Beginning in April 2021, revenue entered a sustained contraction, recording 21 consecutive months of YoY declines through the very end of 2022, culminating in a severe 46% annual revenue drop versus 2021. This downturn began as a natural market normalization, but severely accelerated throughout 2022, broadly attributed to macroeconomic headwinds such as peak inflation, rising interest rates, and an escalating shift back to physical retail. As consumer spending power weakened, the market ultimately contracted in October 2022 at a lifetime low of ~$178K.
+
+<img width="1314" height="739" alt="image" src="https://github.com/user-attachments/assets/f960c63f-49fb-49ac-8724-d6a5a4e9d6fe" />
+
 
 #### 3. Deceptive 2022 Growth Against 2019 Baseline
 Although 2022’s total revenue remained above the pre-COVID 2019 baseline, this surplus was entirely front-loaded in Q1. Fueled by the ‘Omicron’ variant outbreak, Q1 2022 yielded a 91% increase versus Q1 2019. However, as post-pandemic normalization and the aforementioned macroeconomic headwinds took effect, momentum deteriorated into a severe Q4 contraction. Sales dropped 45% compared to Q4 2019, marking Q4 2022 as the lowest-performing quarter in the four-year period ($648K). Furthermore, 2022's annual AOV regressed to $261, falling below the 2019 baseline of $270. Ultimately, this dying momentum and loss of pricing power left the enterprise fundamentally weaker entering 2023 than it was before the pandemic.
 
-| Metric | 2019 (Baseline) | 2022 (Actual) | Variance |
+| Metric | 2019 (Baseline) | 2022 | Variance |
 | :--- | :---: | :---: | :---: |
 | **Q1 Revenue** | $884K | $1.69M | 🟢 +91% |
 | **Q4 Revenue** | $1.18M | $648K | 🔴 -45% |
