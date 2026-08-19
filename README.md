@@ -20,10 +20,9 @@ To leverage the company's previously underutilized historical data (2019–2022)
 ## About the Data & Methodology
 Enova's database structure as seen below consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total of over 108,000 rows, each row representing a transaction record.
 
-<img width="602" height="366" alt="ERD" src="https://github.com/user-attachments/assets/b4f8d433-de4b-4dbe-8d42-10c63d1e9f65" />
+<p align="center">
 <img width="785" height="440" alt="ERD2" src="https://github.com/user-attachments/assets/a48c8279-bd20-4611-83f3-e86b58fb1210" />
-
-
+</p>
 
 **Data Governance & Integrity:**
 To ensure high data integrity and prevent analytical bias, a rigorous data cleaning process was executed prior to analysis. Please review the **[Data Cleaning & Preparation Log](link_to_markdown_file_here.md)** for the complete methodology. 
@@ -32,15 +31,14 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 
 ## Executive Summary - Overview of Findings
 
-<img width="1379" height="145" alt="KPIS" src="https://github.com/user-attachments/assets/403bbcf9-4e2c-401f-b2e0-c7313986eab4" />
+<img width="1407" height="177" alt="image" src="https://github.com/user-attachments/assets/fcffd680-5654-4f09-bdc1-a24c0a149443" />
+
 
 
 **Between 2019 and 2022, Enova Electronics generated approximately $28M in total sales across ~93,000 orders, with an overall Average Order Value (AOV) of $302. Catalyzed by the COVID-19 lockdowns and pivot to remote environments, 2020 revenues scaled by 163% year-over-year to $10.2M. However, beginning in Q2 2021, the enterprise entered a sustained contraction, recording 21 consecutive months of year-over-year revenue declines through the end of 2022.**
 **While total 2022 revenue remained above pre-pandemic levels, momentum collapsed by year-end. Q4 2022 sales plummeted 45% against the Q4 2019 baseline, leaving the company fundamentally weaker entering 2023.**
-
-#### Key Business & Operational Highlights
-Beyond these macro-trends, the following critical inefficiencies and strategic opportunities were identified across the core business segments *(refer to the Deep Dive sections below for comprehensive charts and insights)*:
-
+<br>
+<br>
 * **Seasonal Dynamics:** Revenue follows an annual "Dual-Peak" cycle driven by September (back-to-school and tech launches) and December (holiday sales), offset by troughs in October and February.
 * **Product Concentration Risk:** The enterprise suffers from a severe lack of diversification, with just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently driving ~85% of total annual revenue, leaving the portfolio highly vulnerable to supply chain disruptions.
 * **Loyalty Program Contraction & Retention Failure:** Following a Q2 2022 revenue share peak of 63%, the program sharply contracted to just 30% by year-end. While members exhibit faster repurchase cycles (fewer days between repeat orders), the program fails to drive mass repeat volume, as non-members consistently outpace enrolled users in annual repeat rates (closing 2022 at ~10% vs. ~4%).
@@ -57,11 +55,17 @@ Beyond these macro-trends, the following critical inefficiencies and strategic o
 #### 1. The 2020 Historic Expansion
 As global COVID-19 lockdowns forced an abrupt transition to remote work and distance learning, alongside a mass shift from physical retail to digital commerce, Enova experienced an unprecedented expansion in 2020. Compared to the 2019 baseline, total annual revenue scaled by 163% to ~$10.2M, powered by "Dual-Engine" growth: order volume doubled to ~29K, and AOV surged by 30% to $351. Notably, this dominance was absolute across the timeline - every single month of 2020 outperformed its 2019 counterpart across all primary KPIs, culminating in a historic monthly revenue peak of $1.25M in December. 
 
-<img width="1379" height="147" alt="KPIS 2020" src="https://github.com/user-attachments/assets/5d635439-9976-4e9e-ade7-97c8a2c785eb" />
+<img width="1379" height="147" alt="image" src="https://github.com/user-attachments/assets/e1119a29-6ddc-49a7-8dff-019b59839801" />
 
-<img width="602" height="312" alt="REVENUE LINE" src="https://github.com/user-attachments/assets/cbb8022d-f82c-4ede-a3c6-52b22c447cc1" />
+<img width="1648" height="969" alt="image" src="https://github.com/user-attachments/assets/002dad6a-64e6-4023-80bc-7cc0d3c8f2ea" />
 
-<img width="602" height="312" alt="YOY METRICS" src="https://github.com/user-attachments/assets/9c01ecfb-04cf-40d2-9123-8bea53f94c67" />
+<img width="1306" height="737" alt="image" src="https://github.com/user-attachments/assets/b122b440-c630-4671-955a-ba17658ba123" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/002dad6a-64e6-4023-80bc-7cc0d3c8f2ea" width="49%" />
+  <img src="https://github.com/user-attachments/assets/b122b440-c630-4671-955a-ba17658ba123" width="49%" />
+</p>
+
 
 #### 2. The 2021-2022 Post-Surge Contraction
 Beginning in April 2021, revenue entered a sustained contraction, recording 21 consecutive months of YoY declines through the very end of 2022, culminating in a severe 46% annual revenue drop versus 2021. This downturn began as a natural market normalization, but severely accelerated throughout 2022, broadly attributed to macroeconomic headwinds such as peak inflation, rising interest rates, and an escalating shift back to physical retail. As consumer spending power weakened, the market ultimately contracted in October 2022 at a lifetime low of ~$178K.
