@@ -5,12 +5,17 @@ Founded in 2018, Enova Electronics is a global e-commerce company selling popula
 
 To leverage the company's previously underutilized historical data (2019–2022), this project was initiated to uncover insights and deliver actionable recommendations that directly address core stakeholder requests (detailed below) across sales trends, product performance, loyalty program effectiveness, regional dynamics, and marketing channel optimization.
 
-## Stakeholder Objectives & Focus Areas 
+<details>
+<summary><b>Stakeholder Objectives</b></summary>
+<br>
+
 * **Sales Trends & Seasonality:** Examine the overall sales trends between 2019 and 2022, and understand the key factors driving sales performance. Identify seasonal peak periods and troughs, and determine how they can be leveraged.
 * **Product Performance:** Analyze the overall performance of our product lines, including the financial impact of returns. Identify any vulnerabilities within the current catalog, and highlight opportunities for strategic optimization.
 * **Loyalty Program Effectiveness:** We drive our loyalty program via aggressive sign-up discounts and mass emails, but suspect it isn't generating genuine retention. Compare member versus non-member purchasing behavior to assess true customer value. Furthermore, how can we streamline enrollment, protect margins, and increase long-term stickiness?
 * **Regional Performance:** Evaluate our global sales distribution and determine how customer purchasing power differs across all regions. What region-specific strategies should we deploy to maximize revenue potential in each market?
 * **Marketing Channel Optimization:** Ahead of budget allocations, evaluate our marketing efficiency. Identify our most profitable acquisition sources and highlight underleveraged channels representing missed growth opportunities.
+
+</details>
 
 ## About the Data & Methodology
 Enova's database structure as seen below consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total of over 108,000 rows, each row representing a transaction record.
@@ -18,17 +23,18 @@ Enova's database structure as seen below consists of four tables: `orders`, `cus
 ![ERD Diagram](insert_image_link_here.png)
 
 **Data Governance & Integrity:**
-To ensure high data integrity and prevent analytical bias, a rigorous data cleaning process was executed prior to analysis. Please review the **[Data Cleaning & Preparation Log](link_to_markdown_file_here.md)** for the complete methodology (including Deduplication, SCD Loyalty handling, and tracking gap consolidation). 
+To ensure high data integrity and prevent analytical bias, a rigorous data cleaning process was executed prior to analysis. Please review the **[Data Cleaning & Preparation Log](link_to_markdown_file_here.md)** for the complete methodology. 
 
 ---
 
 ## Executive Summary - Overview of Findings
 
-Between 2019 and 2022, Enova Electronics generated approximately $28M in total sales across ~93,000 orders, with an overall Average Order Value (AOV) of $302. Catalyzed by the COVID-19 lockdowns and pivot to remote environments, 2020 revenues scaled by 163% year-over-year to $10.2M. However, beginning in Q2 2021, the enterprise entered a sustained contraction, recording 21 consecutive months of year-over-year revenue declines through the end of 2022. 
+![OVERALL KPIS](insert_image_link_here.png)
 
+**Between 2019 and 2022, Enova Electronics generated approximately $28M in total sales across ~93,000 orders, with an overall Average Order Value (AOV) of $302. Catalyzed by the COVID-19 lockdowns and pivot to remote environments, 2020 revenues scaled by 163% year-over-year to $10.2M. However, beginning in Q2 2021, the enterprise entered a sustained contraction, recording 21 consecutive months of year-over-year revenue declines through the end of 2022.**
 **While total 2022 revenue remained above pre-pandemic levels, momentum collapsed by year-end. Q4 2022 sales plummeted 45% against the Q4 2019 baseline, leaving the company fundamentally weaker entering 2023.**
 
-### Key Business & Operational Highlights
+#### Key Business & Operational Highlights
 Beyond these macro-trends, the following critical inefficiencies and strategic opportunities were identified across the core business segments *(refer to the Deep Dive sections below for comprehensive charts and insights)*:
 
 * **Seasonal Dynamics:** Revenue follows an annual "Dual-Peak" cycle driven by September (back-to-school and tech launches) and December (holiday sales), offset by troughs in October and February.
