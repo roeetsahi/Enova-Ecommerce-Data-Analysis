@@ -82,7 +82,10 @@ The brand follows a predictable annual 'Dual-Peak' cycle. The primary peak occur
 #### 5. February and October Troughs
 Enova also experiences two predictable cooling-off periods. October revenues consistently decline (averaging -31% vs. September), an understandable drop following the back-to-school peak, and consumers strategically delaying spending ahead of Black Friday and Holiday sales. Similarly, February represents the bottom of the post-holiday trough, typically dropping 32% below January (across 2019, 2021–2022). However, 2020 presented a stark anomaly where February revenue actually grew by 4%, driven by the onset of COVID-19.
 
-<img width="1380" height="713" alt="SEASONALITY" src="https://github.com/user-attachments/assets/b5f3bba3-9e00-4bea-8775-44976883d004" />
+<img width="1643" height="975" alt="image" src="https://github.com/user-attachments/assets/7ab7cda4-1e81-4813-8f7e-91346886dea0" />
+
+<br>
+<br>
 
 ###  Product
 
@@ -92,7 +95,7 @@ Just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently dr
 #### 2. Accessories: High Volume, Low Yield
 The Accessories category (Samsung Cables and Webcams) generates high unit volume with minimal financial return. In 2020, these items drove 21.5% of unit volume but only 2% of revenue. By 2022, this operational drag widened, consuming 32% of total volume for just 4% of revenue. This high-volume, low-yield profile inflates logistics overhead with negligible financial impact.
 
-<img width="1380" height="713" alt="STACKED BAR" src="https://github.com/user-attachments/assets/050e4b1c-8965-403e-a078-0265ccdd64f0" />
+<img width="1616" height="840" alt="image" src="https://github.com/user-attachments/assets/2296c5b7-eba4-42b2-b694-31a669e68a60" />
 
 #### 3. High Apple Reliance and Zero Mobile Penetration
 While the Apple ecosystem dominates the business, driving ~50% of total revenue, the enterprise entirely misses the core mobile market. For four consecutive years, iPhone sales have flatlined at <1% of total revenue, highlighting a massive missed cross-selling opportunity.
@@ -105,7 +108,8 @@ While the Apple ecosystem dominates the business, driving ~50% of total revenue,
 #### 4. The High Cost of Premium Returns
 While the ~12% return rates for MacBook Air and ThinkPad laptops align with industry benchmarks, their high retail prices drain over $1.1M in refunded value, causing substantial margin erosion. Additionally, despite a healthy ~6% return rate, the 27in Gaming Monitor's massive order volume drives another ~$643K in refunds.
 
-<img width="602" height="312" alt="REFUND" src="https://github.com/user-attachments/assets/0ca54ecc-2311-4e52-af1c-2951d2a24174" />
+<img width="1381" height="740" alt="image" src="https://github.com/user-attachments/assets/489ee6ea-ac30-4268-8ea6-de4d9408a860" />
+
 
 ###  Loyalty Program 
 
