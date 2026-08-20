@@ -174,8 +174,6 @@ Enova's marketing measurement has been heavily concentrated in the 'Direct' chan
 #### 2. The 2022 'Unknown' Surge
 The 'Unknown' channel experienced a critical systemic surge in 2022, surging from a negligible baseline of ~0.1% (2019) to 5% in both total revenue ($226K) and order volume (869 transactions). A monthly drill-down reveals this failure was primarily concentrated between May and October, where 'Unknown' attribution consistently exceeded 5% of monthly revenue - peaking in August at a critical 12% (Revenue) and 11% (Orders) indicating a systemic tracking rupture.
 
-<img width="943" height="737" alt="image" src="https://github.com/user-attachments/assets/11597f83-cee5-417f-b662-192ffecef9ca" />
-
 <img width="837" height="681" alt="image" src="https://github.com/user-attachments/assets/2173b09b-ca52-4f88-982b-d64b01b0c36b" />
 
 
