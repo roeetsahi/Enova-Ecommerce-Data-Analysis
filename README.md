@@ -136,11 +136,6 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
 
 **The side-by-side comparison below illustrates this exact paradox: while members repurchase at a much faster velocity (left), their overall mass-retention rate remains severely crippled compared to non-members (right):**
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e4dffe97-4335-492c-8491-722c413e0f5e" width="49%" align="top" />
-  <img src="https://github.com/user-attachments/assets/830f1e4c-e3c9-400b-b775-27a860ff842b" width="49%" align="top" />
-</p>
-
 <img width="1368" height="485" alt="image" src="https://github.com/user-attachments/assets/b3f2a8f9-180d-47bb-89ca-af7ad30f9837" />
 
 <img width="1377" height="473" alt="image" src="https://github.com/user-attachments/assets/36f4fe64-d7f3-4620-af9f-1a1742a65581" />
@@ -153,9 +148,9 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
 #### 1. Global Synchronization: Regional Data Validates Macro-Trends
 Regional analysis reveals near-perfect seasonal synchronization, confirming that the company’s volatility was driven by global market forces rather than localized issues. The historic macro boom of 2020 surged uniformly worldwide, with every territory exceeding >150% in annual revenue growth compared to 2019. Conversely, 2022 experienced a synchronized systemic contraction, with every region recording aggressive downward trajectories that culminated in unprecedented baseline lows in Q4 2022.
 
-![Global Synchronization Chart](insert_image_link_here.png)
+<img width="1475" height="752" alt="image" src="https://github.com/user-attachments/assets/4a9a5a27-acef-4ed7-b4ea-617bd8e36707" />
 
-#### 2. The North America Fortress: An Anchor with Gravitational Pull
+#### 2. The North America Fortress: NA Consistently Drives Over 50% of Global Revenue and Order Volume
 North America acts as the company's absolute anchor, consistently capturing over 50% of global revenue and volume annually. This dominance peaked in 2022, with NA driving ~55% of global revenue ($2.7M) and accounting for ~53% of total orders (10.1K) - nearly double the scale of EMEA, the company's second-largest region. In stark contrast, LATAM consistently lags as the smallest regional market, stagnating at just ~5% of global revenue.
 
 | Region | Total Revenue | Revenue Share (%) | Total Orders | Order Vol. Share (%) |
@@ -168,7 +163,7 @@ North America acts as the company's absolute anchor, consistently capturing over
 #### 3. The AOV Divergence: APAC's Premium Pivot vs. LATAM's Collapse
 While NA and LATAM led regional AOV in 2019, 2020 triggered a structural reversal as APAC surged to first place with a $375 record peak, retaining the top annual AOV spot ever since. Despite a surging US Dollar in 2022 - which drove widespread local currency depreciation, APAC retained its leadership at a $283 AOV, Proving robust organic demand and a strong product mix. APAC is also the sole region to outpace its pre-pandemic baseline (+14.6% vs 2019). Conversely, LATAM's 2022 AOV plummeted to $193 (-28.5% vs 2019), indicating deep structural or operational issues beyond just currency translation.
 
-![AOV Divergence Chart](insert_image_link_here.png)
+<img width="1378" height="754" alt="image" src="https://github.com/user-attachments/assets/0ae1a792-46af-4f84-8ad8-c64e4637b9e4" />
 
 ###  Marketing Channels
 
