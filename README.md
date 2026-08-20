@@ -55,7 +55,9 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 #### 1. The 2020 Historic Expansion
 As global COVID-19 lockdowns forced an abrupt transition to remote work and distance learning, alongside a mass shift from physical retail to digital commerce, Enova experienced an unprecedented expansion in 2020. Compared to the 2019 baseline, total annual revenue scaled by 163% to ~$10.2M, powered by "Dual-Engine" growth: order volume doubled to ~29K, and AOV surged by 30% to $351. Notably, this dominance was absolute across the timeline - every single month of 2020 outperformed its 2019 counterpart across all primary KPIs, culminating in a historic monthly revenue peak of $1.25M in December. 
 
-<img width="1379" height="147" alt="image" src="https://github.com/user-attachments/assets/e1119a29-6ddc-49a7-8dff-019b59839801" />
+<img width="1379" height="167" alt="image" src="https://github.com/user-attachments/assets/e1119a29-6ddc-49a7-8dff-019b59839801" />
+<br>
+<br>
 
 <img width="1648" height="969" alt="image" src="https://github.com/user-attachments/assets/002dad6a-64e6-4023-80bc-7cc0d3c8f2ea" />
 
@@ -118,24 +120,23 @@ While the ~12% return rates for MacBook Air and ThinkPad laptops align with indu
 #### 1. The Rise and Sharp Retraction of Loyalty Revenue Share
 The Loyalty Program evolved from a marginal initiative (yielding a single-digit revenue share in the first eight months of 2019) into a dominant business driver, peaking at 63% of total revenue in April 2022. However, this momentum experienced a sharp reversal, with the member-driven revenue share contracting to 30% by December 2022. 
 
-<img width="602" height="343" alt="REVENUE SHARE" src="https://github.com/user-attachments/assets/53ceab4c-9693-44d3-90f0-85b8debeccfb" />
+<img width="1307" height="751" alt="image" src="https://github.com/user-attachments/assets/dd14308c-703d-4e66-9451-3bd4593f154e" />
 
 #### 2. The AOV Inflection: Loyalty as a Premium Engine
 Following non-member AOV dominance through mid-2021, Q3 2021 marked an inflection point where Loyalty members became our premium engine. Throughout 2022, members demonstrated stronger spending resilience during the market cooldown, maintaining a $274 AOV - an 11% premium over non-members ($247). Despite this strong annual average, a quarterly breakdown reveals a sharp reversal in Q4 2022, with non-members again outpacing Loyalty ($300 vs. $267), signaling emerging instability in the program.
 
-![AOV Line Chart](insert_image_link_here.png)
-<img width="602" height="312" alt="AOV LINE" src="https://github.com/user-attachments/assets/d143d808-2697-4398-9846-3c07e468d924" />
+<img width="1381" height="758" alt="image" src="https://github.com/user-attachments/assets/70968ec4-4130-4a05-9515-b779861dff2d" />
 
 
 #### 3. The Member Velocity Advantage in Buying Cycles
 Following the 2020 pandemic peak, average days between orders for returning customers increased for both loyalty segments. However, loyalty members demonstrated greater behavioral resilience, maintaining a significant velocity gap over non-members across the entire 2020-2022 period. This advantage peaked at a 75-day lead in 2021 (202 vs. 277, ~27% faster) and remained robust at a ~70-day advantage in 2022 (326 vs. 395, ~17% faster). 
 
-![Velocity Slope Chart](insert_image_link_here.png)
+<img width="1291" height="760" alt="image" src="https://github.com/user-attachments/assets/0fd7f331-954e-4c94-8dc0-ab3498a9db59" />
 
 #### 4. The Loyalty Stickiness Paradox: Underperformance in Retention
 Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, their overall repeat rate remained consistently and severely lower than those of non-members. While member repeat rates slightly improved, growing from ~2.1% in 2020 to 4.1% in 2022, the program fundamentally struggles as a mass-retention tool. Non-members consistently outpaced members, closing 2022 with a 9.9% repeat rate (vs. 4.1%). This persistent volume gap strongly suggests a "Hit & Run" dynamic, where users exploit a one-time sign-up incentive but find insufficient ongoing value to remain engaged.
 
-![Retention Paradox Bar Chart](insert_image_link_here.png)
+<img width="916" height="721" alt="image" src="https://github.com/user-attachments/assets/f2a3d904-5a52-42ba-a96a-00c7cc6b68c1" />
 
 ###  Regional / Global Performance
 
