@@ -152,6 +152,8 @@ Regional analysis reveals near-perfect seasonal synchronization, confirming that
 #### 2. The North America Fortress: NA Consistently Drives Over 50% of Global Revenue and Order Volume
 North America acts as the company's absolute anchor, consistently capturing over 50% of global revenue and volume annually. This dominance peaked in 2022, with NA driving ~55% of global revenue ($2.7M) and accounting for ~53% of total orders (10.1K) - nearly double the scale of EMEA, the company's second-largest region. In stark contrast, LATAM consistently lags as the smallest regional market, stagnating at just ~5% of global revenue.
 
+**The North America Fortress: 2022 Regional Market Share Snapshot**
+
 | Region | Total Revenue | Revenue Share (%) | Total Orders | Order Vol. Share (%) |
 | :--- | :---: | :---: | :---: | :---: |
 |  **North America (NA)** | **$2,706K** | **55%** | **10.1K** | **53%** |
@@ -173,6 +175,9 @@ Enova's marketing measurement has been heavily concentrated in the 'Direct' chan
 The 'Unknown' channel experienced a critical systemic surge in 2022, surging from a negligible baseline of ~0.1% (2019) to 5% in both total revenue ($226K) and order volume (869 transactions). A monthly drill-down reveals this failure was primarily concentrated between May and October, where 'Unknown' attribution consistently exceeded 5% of monthly revenue - peaking in August at a critical 12% (Revenue) and 11% (Orders) indicating a systemic tracking rupture.
 
 <img width="943" height="737" alt="image" src="https://github.com/user-attachments/assets/11597f83-cee5-417f-b662-192ffecef9ca" />
+
+<img width="837" height="681" alt="image" src="https://github.com/user-attachments/assets/2173b09b-ca52-4f88-982b-d64b01b0c36b" />
+
 
 #### 3. The Email Trap: Scaling a Low-Margin Engine
 Email is Enova’s fastest-growing CRM channel, expanding consistently year-over-year and doubling its share in both order volume (from 11% to 20%) and revenue (from 8% to 16%) between 2019 and 2022. However, despite this massive expansion, the channel is poorly monetized. Email maintains a chronically stagnant, bottom-tier Average Order Value (AOV) across all four years, recording just $207 in 2022.
