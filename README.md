@@ -136,7 +136,6 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
 
 **The side-by-side comparison below illustrates this exact paradox: while members repurchase at a much faster velocity (left), their overall mass-retention rate remains severely crippled compared to non-members (right):**
 
-<img width="1368" height="485" alt="image" src="https://github.com/user-attachments/assets/b3f2a8f9-180d-47bb-89ca-af7ad30f9837" />
 
 <img width="1377" height="473" alt="image" src="https://github.com/user-attachments/assets/36f4fe64-d7f3-4620-af9f-1a1742a65581" />
 
@@ -173,7 +172,7 @@ Enova's marketing measurement has been heavily concentrated in the 'Direct' chan
 #### 2. The 2022 'Unknown' Surge
 The 'Unknown' channel experienced a critical systemic surge in 2022, surging from a negligible baseline of ~0.1% (2019) to 5% in both total revenue ($226K) and order volume (869 transactions). A monthly drill-down reveals this failure was primarily concentrated between May and October, where 'Unknown' attribution consistently exceeded 5% of monthly revenue - peaking in August at a critical 12% (Revenue) and 11% (Orders) indicating a systemic tracking rupture.
 
-![Marketing Channels Bars](insert_image_link_here.png)
+<img width="943" height="737" alt="image" src="https://github.com/user-attachments/assets/11597f83-cee5-417f-b662-192ffecef9ca" />
 
 #### 3. The Email Trap: Scaling a Low-Margin Engine
 Email is Enova’s fastest-growing CRM channel, expanding consistently year-over-year and doubling its share in both order volume (from 11% to 20%) and revenue (from 8% to 16%) between 2019 and 2022. However, despite this massive expansion, the channel is poorly monetized. Email maintains a chronically stagnant, bottom-tier Average Order Value (AOV) across all four years, recording just $207 in 2022.
@@ -181,7 +180,7 @@ Email is Enova’s fastest-growing CRM channel, expanding consistently year-over
 #### 4. The Missed Premium Opportunity of the Affiliate Channel
 The Affiliate channel consistently yields Enova’s highest yearly Average Order Value (AOV), reaching $359 in 2022 (a 24% growth from the $289 pre-COVID baseline). However, despite attracting premium buyers, order volume plummeted by 41% to just 379 orders in 2022, dragging its revenue share down from ~5% to a mere 3%. This sharp divergence exposes a severely under-leveraged premium channel and a critical missed growth opportunity.
 
-![Volume vs. Value Matrix](insert_image_link_here.png)
+<img width="815" height="744" alt="image" src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" />
 
 ---
 
