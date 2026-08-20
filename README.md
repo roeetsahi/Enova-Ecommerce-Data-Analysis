@@ -138,6 +138,19 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
 
 <img width="916" height="721" alt="image" src="https://github.com/user-attachments/assets/f2a3d904-5a52-42ba-a96a-00c7cc6b68c1" />
 
+#### 3. The Member Velocity Advantage in Buying Cycles
+Following the 2020 pandemic peak, average days between orders for returning customers increased for both loyalty segments. However, loyalty members demonstrated greater behavioral resilience, maintaining a significant velocity gap over non-members across the entire 2020-2022 period. This advantage peaked at a 75-day lead in 2021 (202 vs. 277, ~27% faster) and remained robust at a ~70-day advantage in 2022 (326 vs. 395, ~17% faster). 
+
+#### 4. The Loyalty Stickiness Paradox: Underperformance in Retention
+Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, their overall repeat rate remained consistently and severely lower than those of non-members. While member repeat rates slightly improved, growing from ~2.1% in 2020 to 4.1% in 2022, the program fundamentally struggles as a mass-retention tool. Non-members consistently outpaced members, closing 2022 with a 9.9% repeat rate (vs. 4.1%). This persistent volume gap strongly suggests a "Hit & Run" dynamic, where users exploit a one-time sign-up incentive but find insufficient ongoing value to remain engaged.
+
+**The side-by-side comparison below illustrates this exact paradox: while members repurchase at a much faster velocity (left), their overall mass-retention rate remains severely crippled compared to non-members (right):**
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fd7f331-954e-4c94-8dc0-ab3498a9db59" width="49%" />
+  <img src="https://github.com/user-attachments/assets/f2a3d904-5a52-42ba-a96a-00c7cc6b68c1" width="49%" />
+</p>
+
 ###  Regional / Global Performance
 
 #### 1. Global Synchronization: Regional Data Validates Macro-Trends
