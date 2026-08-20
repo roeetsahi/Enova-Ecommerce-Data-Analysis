@@ -141,7 +141,11 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
   <img src="https://github.com/user-attachments/assets/830f1e4c-e3c9-400b-b775-27a860ff842b" width="49%" align="top" />
 </p>
 
-<img width="915" height="715" alt="image" src="https://github.com/user-attachments/assets/830f1e4c-e3c9-400b-b775-27a860ff842b" />
+<img width="1368" height="485" alt="image" src="https://github.com/user-attachments/assets/b3f2a8f9-180d-47bb-89ca-af7ad30f9837" />
+
+<img width="1377" height="473" alt="image" src="https://github.com/user-attachments/assets/36f4fe64-d7f3-4620-af9f-1a1742a65581" />
+
+
 
 
 ###  Regional / Global Performance
