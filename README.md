@@ -254,32 +254,32 @@ Implement a mandatory 'Return Reason' field to enable robust Root Cause Analysis
 * **Packaging Upgrades:** Reinforcing transit packaging if transit damage is identified as a primary driver.
 
 ### Loyalty Program
-**1. Delaying Financial Discounts to the Second Order**
+**1. Delaying Financial Discounts to the Second Order:**
 Execute a phased transition to replace the immediate sign-up discount with "soft" perks (e.g., free express shipping). Financial incentives (e.g., X% off) will only unlock upon the second purchase to filter out 'discount hunters' and ensure margin is invested exclusively in proven retention.
 
-**2. Replacing Mass Mailings with Smart Lifecycle Flows**
+**2. Replacing Mass Mailings with Smart Lifecycle Flows:**
 Replace generic mass mailings with personalized Lifecycle Flows to prevent email fatigue. For example, a laptop buyer should receive immediate cross-sell campaigns for complementary accessories, while promotions for additional laptops are suppressed and retargeted strictly based on the category's Repurchase Interval.
 
-**3. Highlighting Benefits & Eliminating Registration Friction**
+**3. Highlighting Benefits & Eliminating Registration Friction:**
 Highlight program benefits directly within the checkout flow to capture returning guest shoppers. Replace the multi-field registration form with rapid enrollment (Google/Apple Login) featuring a one-click marketing opt-in to eliminate drop-offs.
 
 ### Regions
-**1. North America: Leveraging Massive Volume to Drive Cart Value**
+**1. North America: Leveraging Massive Volume to Drive Cart Value:**
 Implement strategic, one-click cross-sell bundles at checkout to drive immediate AOV lift per transaction and capitalize on NA's massive traffic volume, addressing the erosion of NA's AOV below its pre-pandemic baseline.
 
-**2. Scaling the APAC Premium Engine & Playbook Development**
+**2. Scaling the APAC Premium Engine & Playbook Development:**
 Prioritize acquisition budgets toward APAC to capitalize on its highest-AOV status. Leverage the underutilized Affiliate channel (tech reviewers) to attract high-intent buyers for premium hardware. Analyze APAC’s successful product/marketing mix to create a replicable "Premium Playbook" for EMEA and NA.
 
-**3. LATAM: Macro-Adjusted Diagnostic & Strategic Containment**
+**3. LATAM: Macro-Adjusted Diagnostic & Strategic Containment:**
 * **Phase 1 (Macro-Adjusted Rapid Diagnostic):** Isolate the 2022 macroeconomic FX (foreign exchange) erosion. Quantify if the remaining AOV decline stems from internal failures (aggressive discounting) or external structural shifts (eroded purchasing power).
 * **Phase 2 (Budget Reallocation):** If the contraction is structural with no operational quick-fix, freeze LATAM's proactive acquisition spend and reallocate this capital to scale APAC's premium engine.
 
 ### Marketing Channels
-**1. Resolving Data Blindness: Fixing 'Direct' & 'Unknown' Tracking Failures**
+**1. Resolving Data Blindness: Fixing 'Direct' & 'Unknown' Tracking Failures:**
 Perform a landing-page audit to deconstruct the 'Direct' misattribution ‘black box’ and isolate genuine direct traffic. Implement automated monitoring for UTM stripping and tag failures. Utilize a Data Quality Issue Log (DQIL) to assign engineering ownership and fix the May-October 2022 'Unknown' tracking rupture.
 
-**2. Shifting the Email Channel from Volume to Premium Value**
+**2. Shifting the Email Channel from Volume to Premium Value:**
 Conduct a Promo-Code Analysis to phase out the margin-eroding discounts driving Email's low AOV ($207). Pivot the strategy from pushing low-priced accessories to the masses, toward cross-selling exclusive, high-tier hardware bundles to our existing CRM audience. 
 
-**3. Scaling the Affiliate Engine Through High-Intent Reviewer Partnerships**
+**3. Scaling the Affiliate Engine Through High-Intent Reviewer Partnerships:**
 Reallocate budget from underperforming channels (e.g., Social Media) toward high-impact partnerships with professional tech reviewers, unlocking an untapped high-ticket audience. This expansion must be strictly governed by a margin analysis comparing acquisition costs against cart value.
