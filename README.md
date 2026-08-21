@@ -29,7 +29,7 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 
 ---
 
-## Executive Summary - Overview of Findings
+# Executive Summary - Overview of Findings
 
 <img width="1407" height="177" alt="image" src="https://github.com/user-attachments/assets/fcffd680-5654-4f09-bdc1-a24c0a149443" />
 
@@ -50,7 +50,7 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 
 ## Insights Deep Dive
 
-###  Overall Sales Trends & Seasonality 
+### Overall Sales Trends & Seasonality
 
 #### 1. The 2020 Historic Expansion
 As global COVID-19 lockdowns forced an abrupt transition to remote work and distance learning, alongside a mass shift from physical retail to digital commerce, Enova experienced an unprecedented expansion in 2020. Compared to the 2019 baseline, total annual revenue scaled by 163% to ~$10.2M, powered by "Dual-Engine" growth: order volume doubled to ~29K, and AOV surged by 30% to $351. Notably, this dominance was absolute across the timeline - every single month of 2020 outperformed its 2019 counterpart across all primary KPIs, culminating in a historic monthly revenue peak of $1.25M in December. 
@@ -185,6 +185,17 @@ The Affiliate channel consistently yields Enova’s highest yearly Average Order
 
 <img width="815" height="744" alt="image" src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" width="75%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" width="60%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" width="50%">
+</p>
 ---
 
 ## Executive Recommendations Summary 
