@@ -67,7 +67,7 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 
 ---
 
-## Insights Deep Dive
+# Insights Deep Dive
 
 ### Overall Sales Trends & Seasonality
 
@@ -211,7 +211,7 @@ The Affiliate channel consistently yields Enova’s highest yearly Average Order
 
 ---
 
-## Recommendations: Executive Summary
+# Recommendations: Executive Summary
 To maximize long-term profitability and address core stakeholder objectives, we must pivot from volume-chasing acquisition toward strict capital efficiency via four strategic shifts:
 
 * **Capital & Regional Optimization:** Reallocate active acquisition budgets from seasonal demand troughs to high-intent seasonal peaks, and conditionally shift capital from contracting markets (LATAM, pending structural diagnostic) to our highest-AOV APAC premium engine.
@@ -221,7 +221,7 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 
 ---
 
-## Recommendations: Strategic Deep Dive
+# Recommendations: Strategic Deep Dive
 
 ### Overall Sales Trends: Seasonality & Promotional Strategy
 *Strategic Direction: Maximize acquisition budgets during high-intent peaks, and pivot to low-CAC retention channels during demand troughs.*
