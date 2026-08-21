@@ -1,25 +1,5 @@
 # Enova Electronics: Strategic Data Analysis & Actionable Recommendations
 
-## Table of Contents
-* [Project Background](#project-background)
-* [About the Data & Methodology](#about-the-data--methodology)
-* [Insights: Executive Summary](#insights-executive-summary)
-* [Insights: Strategic Deep Dive](#insights-strategic-deep-dive)
-* ↳ [Overall Sales Trends & Seasonality](#overall-sales-trends--seasonality)
-* ↳ [Product Performance](#product-performance)
-* ↳ [Loyalty Program Evaluation](#loyalty-program-evaluation)
-* ↳ [Regional Dynamics](#regional-dynamics)
-* ↳ [Marketing Channel Efficiency](#marketing-channel-efficiency)
-* [Recommendations: Executive Summary](#recommendations-executive-summary)
-* [Recommendations: Strategic Deep Dive](#recommendations-strategic-deep-dive)
-* ↳ [Overall Sales Trends: Seasonality & Promotional Strategy](#overall-sales-trends-seasonality--promotional-strategy)
-* ↳ [Products](#products)
-* ↳ [Loyalty Program](#loyalty-program)
-* ↳ [Regions](#regions)
-* ↳ [Marketing Channels](#marketing-channels)
-
----
-
 ## Project Background
 Founded in 2018, Enova Electronics is a global e-commerce company selling popular tech hardware and accessories worldwide.
 
@@ -48,6 +28,25 @@ Enova's database structure as seen below consists of four tables: `orders`, `cus
 To ensure high data integrity and prevent analytical bias, a rigorous data cleaning process was executed prior to analysis. Please review the **[Data Cleaning & Preparation Log](link_to_markdown_file_here.md)** for the complete methodology. 
 
 ---
+
+## Table of Contents
+* [Executive Summary - Overview of Findings](#executive-summary---overview-of-findings)
+* [Insights Deep Dive](#insights-deep-dive)
+  * [Overall Sales Trends & Seasonality](#overall-sales-trends--seasonality)
+  * [Product Performance](#product-performance)
+  * [Loyalty Program Evaluation](#loyalty-program-evaluation)
+  * [Regional Dynamics](#regional-dynamics)
+  * [Marketing Channel Efficiency](#marketing-channel-efficiency)
+* [Recommendations: Executive Summary](#recommendations-executive-summary)
+* [Recommendations: Strategic Deep Dive](#recommendations-strategic-deep-dive)
+  * [Overall Sales Trends: Seasonality & Promotional Strategy](#overall-sales-trends-seasonality--promotional-strategy)
+  * [Products](#products)
+  * [Loyalty Program](#loyalty-program)
+  * [Regions](#regions)
+  * [Marketing Channels](#marketing-channels)
+
+---
+
 
 # Executive Summary - Overview of Findings
 
