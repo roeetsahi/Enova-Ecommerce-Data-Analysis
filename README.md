@@ -1,4 +1,24 @@
-# Enova Electronics: E-commerce Data Analysis & Strategic Insights
+# Enova Electronics: Strategic Data Analysis & Actionable Recommendations
+
+## Table of Contents
+* [Project Background](#project-background)
+* [About the Data & Methodology](#about-the-data--methodology)
+* [Insights: Executive Summary](#insights-executive-summary)
+* [Insights: Strategic Deep Dive](#insights-strategic-deep-dive)
+* ↳ [Overall Sales Trends & Seasonality](#overall-sales-trends--seasonality)
+* ↳ [Product Performance](#product-performance)
+* ↳ [Loyalty Program Evaluation](#loyalty-program-evaluation)
+* ↳ [Regional Dynamics](#regional-dynamics)
+* ↳ [Marketing Channel Efficiency](#marketing-channel-efficiency)
+* [Recommendations: Executive Summary](#recommendations-executive-summary)
+* [Recommendations: Strategic Deep Dive](#recommendations-strategic-deep-dive)
+* ↳ [Overall Sales Trends: Seasonality & Promotional Strategy](#overall-sales-trends-seasonality--promotional-strategy)
+* ↳ [Products](#products)
+* ↳ [Loyalty Program](#loyalty-program)
+* ↳ [Regions](#regions)
+* ↳ [Marketing Channels](#marketing-channels)
+
+---
 
 ## Project Background
 Founded in 2018, Enova Electronics is a global e-commerce company selling popular tech hardware and accessories worldwide.
@@ -89,7 +109,7 @@ Enova also experiences two predictable cooling-off periods. October revenues con
 <br>
 <br>
 
-###  Product
+###  Product Performance
 
 #### 1. Severe Product Concentration Risk
 Just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently drive ~85% of annual revenue. Similarly, on the operational side, over 85% of annual unit volume comes from a nearly identical, narrow subset (Gaming Monitor, AirPods, and Samsung Cables). This extreme lack of diversification makes the enterprise highly vulnerable to supply chain disruptions, price wars, and heavy vendor concentration. 
@@ -115,7 +135,7 @@ While the ~12% return rates for MacBook Air and ThinkPad laptops align with indu
 <img width="1381" height="740" alt="image" src="https://github.com/user-attachments/assets/489ee6ea-ac30-4268-8ea6-de4d9408a860" />
 
 
-###  Loyalty Program 
+###  Loyalty Program Evaluation 
 
 #### 1. The Rise and Sharp Retraction of Loyalty Revenue Share
 The Loyalty Program evolved from a marginal initiative (yielding a single-digit revenue share in the first eight months of 2019) into a dominant business driver, peaking at 63% of total revenue in April 2022. However, this momentum experienced a sharp reversal, with the member-driven revenue share contracting to 30% by December 2022. 
@@ -142,7 +162,7 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
 
 
 
-###  Regional / Global Performance
+###  Regional Dynamics
 
 #### 1. Global Synchronization: Regional Data Validates Macro-Trends
 Regional analysis reveals near-perfect seasonal synchronization, confirming that the company’s volatility was driven by global market forces rather than localized issues. The historic macro boom of 2020 surged uniformly worldwide, with every territory exceeding >150% in annual revenue growth compared to 2019. Conversely, 2022 experienced a synchronized systemic contraction, with every region recording aggressive downward trajectories that culminated in unprecedented baseline lows in Q4 2022.
@@ -166,7 +186,7 @@ While NA and LATAM led regional AOV in 2019, 2020 triggered a structural reversa
 
 <img width="1378" height="754" alt="image" src="https://github.com/user-attachments/assets/0ae1a792-46af-4f84-8ad8-c64e4637b9e4" />
 
-###  Marketing Channels
+###  Marketing Channel Efficiency
 
 #### 1. The 'Direct' Black Box Attribution Failure
 Enova's marketing measurement has been heavily concentrated in the 'Direct' channel, peaking in 2019 at 86% of revenue and 83% of order volume, diluting steadily to a still-implausible 76% of revenue ($3.7M) and 73% of orders (13.8K) in 2022. While a dominant Direct share can suggest strong organic brand loyalty, this extreme concentration is highly unrealistic for a global electronics e-commerce retailer (Healthy Direct benchmarks rarely exceed 20-30%). Instead, the data architecture indicates a systemic misattribution, wherein the 'Direct' channel acts as a catch-all for untracked acquisition sources - absorbing not only genuine direct visits but also high-intent acquisition channels like Organic (SEO) and Paid Search. Their complete absence confirms a severe tracking failure that obscures our true Customer Acquisition Cost (CAC) and risks massive budget misallocation.
@@ -189,16 +209,10 @@ The Affiliate channel consistently yields Enova’s highest yearly Average Order
   <img src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" width="75%">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" width="60%">
-</p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" width="50%">
-</p>
 ---
 
-## Executive Recommendations Summary 
+## Recommendations: Executive Summary
 To maximize long-term profitability and address core stakeholder objectives, we must pivot from volume-chasing acquisition toward strict capital efficiency via four strategic shifts:
 
 * **Capital & Regional Optimization:** Reallocate active acquisition budgets from seasonal demand troughs to high-intent seasonal peaks, and conditionally shift capital from contracting markets (LATAM, pending structural diagnostic) to our highest-AOV APAC premium engine.
@@ -208,9 +222,9 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 
 ---
 
-## Strategic Action Plan (Recommendations Deep Dive)
+## Recommendations: Strategic Deep Dive
 
-### 1. Overall Sales Trends: Seasonality & Promotional Strategy
+### Overall Sales Trends: Seasonality & Promotional Strategy
 *Strategic Direction: Maximize acquisition budgets during high-intent peaks, and pivot to low-CAC retention channels during demand troughs.*
 
 **A. Optimizing Peak Seasons (Maximizing AOV & Margins)**
@@ -222,7 +236,7 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 * **October Preemptive Demand Capture:** To mitigate the October revenue plunge, launch an "Early VIP Black Friday" campaign exclusively for Loyalty Members. This preemptive strike captures consumer holiday budgets before competitor saturation, elevates program exclusivity, and builds a high-intent, Zero-CAC email pipeline ahead of December's soaring CPC/CPM costs.
 * **February Inventory Liquidation:** Reposition the February trough as a strategic post-holiday clearance window. Execute targeted liquidation events by granting early access to Loyalty members before a general public release, efficiently clearing Q4 excess inventory.
 
-### 2. Products
+### Products
 **1. Mitigating Concentration Risk via Catalog Expansion**
 * **Leverage Samsung Brand Trust:** Capitalize on the growing, high-volume demand for Samsung accessories by introducing premium, higher-margin Samsung hardware (laptops, smartphones). *Implementation Note: Test via a Dropshipping or 3P Marketplace model first to validate demand.*
 * **Diversify Ecosystem Peripherals:** Based on site search demand, introduce complementary accessories for customized cross-selling: Input Devices (keyboards, mice), Connectivity & Audio (Apple cables, Samsung earbuds), and Workspace Essentials (microphones, laptop bags).
@@ -232,15 +246,15 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 * **Targeted CRM Cross-Selling:** Deploy campaigns targeting past MacBook and AirPods buyers to drive mobile sales.
 * **Ecosystem Bundles:** Launch margin-safe accessory bundles (e.g., iPhone + 50% off charger and case) paired with BNPL and Trade-in.
 
-**3. Liquidating & Delisting Bose Headphones**
+**3. Liquidating & Delisting Bose Headphones:**
 With near-zero demand for the Bose SoundSport, liquidate remaining inventory and permanently delist the SKU to eliminate overhead and free up warehouse capacity. 
 
-**4. Mitigating Returns via Root Cause Analysis**
+**4. Mitigating Returns via Root Cause Analysis:**
 Implement a mandatory 'Return Reason' field to enable robust Root Cause Analysis. Insights will unlock targeted operational fixes:
 * **PDP Enrichment:** Upgrading Product Detail Pages with high-resolution imagery and granular specs if returns stem from an 'expectation gap'.
 * **Packaging Upgrades:** Reinforcing transit packaging if transit damage is identified as a primary driver.
 
-### 3. Loyalty Program
+### Loyalty Program
 **1. Delaying Financial Discounts to the Second Order**
 Execute a phased transition to replace the immediate sign-up discount with "soft" perks (e.g., free express shipping). Financial incentives (e.g., X% off) will only unlock upon the second purchase to filter out 'discount hunters' and ensure margin is invested exclusively in proven retention.
 
@@ -250,7 +264,7 @@ Replace generic mass mailings with personalized Lifecycle Flows to prevent email
 **3. Highlighting Benefits & Eliminating Registration Friction**
 Highlight program benefits directly within the checkout flow to capture returning guest shoppers. Replace the multi-field registration form with rapid enrollment (Google/Apple Login) featuring a one-click marketing opt-in to eliminate drop-offs.
 
-### 4. Regions
+### Regions
 **1. North America: Leveraging Massive Volume to Drive Cart Value**
 Implement strategic, one-click cross-sell bundles at checkout to drive immediate AOV lift per transaction and capitalize on NA's massive traffic volume, addressing the erosion of NA's AOV below its pre-pandemic baseline.
 
@@ -261,7 +275,7 @@ Prioritize acquisition budgets toward APAC to capitalize on its highest-AOV stat
 * **Phase 1 (Macro-Adjusted Rapid Diagnostic):** Isolate the 2022 macroeconomic FX (foreign exchange) erosion. Quantify if the remaining AOV decline stems from internal failures (aggressive discounting) or external structural shifts (eroded purchasing power).
 * **Phase 2 (Budget Reallocation):** If the contraction is structural with no operational quick-fix, freeze LATAM's proactive acquisition spend and reallocate this capital to scale APAC's premium engine.
 
-### 5. Marketing Channels
+### Marketing Channels
 **1. Resolving Data Blindness: Fixing 'Direct' & 'Unknown' Tracking Failures**
 Perform a landing-page audit to deconstruct the 'Direct' misattribution ‘black box’ and isolate genuine direct traffic. Implement automated monitoring for UTM stripping and tag failures. Utilize a Data Quality Issue Log (DQIL) to assign engineering ownership and fix the May-October 2022 'Unknown' tracking rupture.
 
