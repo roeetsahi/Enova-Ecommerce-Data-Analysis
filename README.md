@@ -207,14 +207,6 @@ Email is Enova’s fastest-growing CRM channel, expanding consistently year-over
 #### 4. The Missed Premium Opportunity of the Affiliate Channel
 The Affiliate channel consistently yields Enova’s highest yearly Average Order Value (AOV), reaching $359 in 2022 (a 24% growth from the $289 pre-COVID baseline). However, despite attracting premium buyers, order volume plummeted by 41% to just 379 orders in 2022, dragging its revenue share down from ~5% to a mere 3%. This sharp divergence exposes a severely under-leveraged premium channel and a critical missed growth opportunity.
 
-<img width="815" height="744" alt="image" src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" />
-
-<img width="600" height="548" alt="image" src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" />
-
-<img width="1280" height="753" alt="image" src="https://github.com/user-attachments/assets/8886d7e5-a6a9-4b7f-b8ab-5ed16c07e1f9" />
-
-<img width="833" height="742" alt="image" src="https://github.com/user-attachments/assets/9eebfb7a-25de-47ae-b9c7-00601e730584" />
-
 <img width="970" height="746" alt="image" src="https://github.com/user-attachments/assets/5d336cbd-5d0e-4630-bc2c-4feaaf0bde62" />
 
 
