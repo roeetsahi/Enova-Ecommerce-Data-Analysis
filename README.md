@@ -80,6 +80,11 @@ As global COVID-19 lockdowns forced an abrupt transition to remote work and dist
 
 <img width="1648" height="969" alt="image" src="https://github.com/user-attachments/assets/002dad6a-64e6-4023-80bc-7cc0d3c8f2ea" />
 
+<img width="1345" height="757" alt="image" src="https://github.com/user-attachments/assets/654c257a-7136-4d53-b9e3-ae2af0a1dfd0" />
+
+<img width="1362" height="760" alt="image" src="https://github.com/user-attachments/assets/248b06b3-711d-45ab-bb1a-b916b2cf48fd" />
+
+
 #### 2. The 2021-2022 Post-Surge Contraction
 Beginning in April 2021, revenue entered a sustained contraction, recording 21 consecutive months of YoY declines through the very end of 2022, culminating in a severe 46% annual revenue drop versus 2021. This downturn began as a natural market normalization, but severely accelerated throughout 2022, broadly attributed to macroeconomic headwinds such as peak inflation, rising interest rates, and an escalating shift back to physical retail. As consumer spending power weakened, the market ultimately contracted in October 2022 at a lifetime low of ~$178K.
 
