@@ -9,6 +9,7 @@ Below is a summary of the key data transformations, categorized by their busines
 
 ## 2. Critical Data Integrity & Architecture Fixes
 * **Deduplication:** Applied strict row-level deduplication using a SQL CTE and `ROW_NUMBER()` window function, partitioned by all columns to safely collapse identical logging retries. [View the full SQL deduplication query here](sql_queries.sql).
+* **Deduplication:** Applied strict row-level deduplication using a SQL CTE and `ROW_NUMBER()` window function, partitioned by all columns to safely collapse identical logging retries. *(Note: This aggressive partitioning was required to resolve a broken granularity issue detailed in the Excel Issue Log Below).* 
 * **SCD Loyalty Ambiguity (Look-Ahead Bias Prevention):** Addressed users with fluctuating loyalty statuses by adopting a Dual-Attribution approach. Financial metrics were attributed to the point-in-time status, while behavioral metrics utilized an "Ever-Member" cohort logic to preserve tracking integrity.
 * **Account Creation Anomalies:** Identified users with overwritten `CREATED_ON` timestamps. Retained original values but excluded this field from time-based analyses to prevent misleading Lifetime Value (LTV) and Cohort Retention metrics.
 
