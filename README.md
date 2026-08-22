@@ -25,7 +25,7 @@ Enova's database structure as seen below consists of four tables: `orders`, `cus
 </p>
 
 **Data Governance & Integrity:**
-To ensure high data integrity and prevent analytical bias, a rigorous data cleaning process was executed prior to analysis. Please review the **[Data Cleaning & Preparation Log](link_to_markdown_file_here.md)** for the complete methodology. 
+To ensure high data integrity and prevent analytical bias, a rigorous data cleaning process was executed prior to analysis. Please review the **[Data Cleaning & Preparation Log](data-cleaning-log.md)** for the complete methodology. 
 
 ---
 
