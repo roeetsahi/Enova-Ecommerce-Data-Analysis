@@ -1,4 +1,4 @@
-# 🛠️ Data Cleaning & Preparation Log
+# Data Cleaning & Preparation Log
 
 Below is a summary of the key data transformations, categorized by their business and technical impact:
 
@@ -24,5 +24,7 @@ To facilitate advanced pivot analysis and dashboard visualizations, several core
 
 ---
 
-### Deep-Dive Issue Log & Raw Data
-For an in-depth, row-by-row breakdown of anomalies, magnitude percentages, unresolvable issues, and cross-functional team escalations, please download the [Full Excel Workbook (Data & Issue Log)](Enova_Data_and_Issue_Log.xlsx).
+### Deep-Dive Issue Log & Dataset
+
+* **[Data Quality Issue Log (Excel)](./Enova_Issue_Log.xlsx)** - An in-depth breakdown of anomalies, magnitude percentages, unresolvable issues, and cross-functional team escalations.
+* **[Enova Raw and Cleaned Data (XLSB)](./Enova_Raw_and_Cleaned_Data.xlsb)** - Contains the original RAW data alongside the final, cleaned dataset ready for analysis.
