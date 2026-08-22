@@ -1,4 +1,9 @@
 --  Missing a LINE_ITEM_ID, this CTE partitions by ALL 23 columns to safely collapse  a 14% exact-duplicate logging bug. This surgical deduplication is critical to  prevent severe revenue inflation and protect overall KPI integrity. 
+---- Deduplicating identical retries by partitioning across all columns.
+-- This approach is a necessary workaround due to a missing LINE_ITEM_ID (broken granularity).
+-- Creating a new deduplicated table by partitioning across all columns.
+-- This approach resolves a data granularity issue, fully documented in the Issue Log (Enova_Data_and_Issue_Log).
+
 CREATE TABLE orders_dataset_clean_no_duplicates AS
 SELECT *
 FROM (
