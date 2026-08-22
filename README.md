@@ -84,7 +84,6 @@ As global COVID-19 lockdowns forced an abrupt transition to remote work and dist
 #### 2. The 2021-2022 Post-Surge Contraction
 Beginning in April 2021, revenue entered a sustained contraction, recording 21 consecutive months of YoY declines through the very end of 2022, culminating in a severe 46% annual revenue drop versus 2021. This downturn began as a natural market normalization, but severely accelerated throughout 2022, broadly attributed to macroeconomic headwinds such as peak inflation, rising interest rates, and an escalating shift back to physical retail. As consumer spending power weakened, the market ultimately contracted in October 2022 at a lifetime low of ~$178K.
 
-<img width="1314" height="739" alt="image" src="https://github.com/user-attachments/assets/f960c63f-49fb-49ac-8724-d6a5a4e9d6fe" />
 
 <img width="1296" height="718" alt="image" src="https://github.com/user-attachments/assets/158637ec-72a0-48df-8ca8-71fe23c2000b" />
 
@@ -106,7 +105,6 @@ The brand follows a predictable annual 'Dual-Peak' cycle. The primary peak occur
 #### 5. February and October Troughs
 Enova also experiences two predictable cooling-off periods. October revenues consistently decline (averaging -31% vs. September), an understandable drop following the back-to-school peak, and consumers strategically delaying spending ahead of Black Friday and Holiday sales. Similarly, February represents the bottom of the post-holiday trough, typically dropping 32% below January (across 2019, 2021–2022). However, 2020 presented a stark anomaly where February revenue actually grew by 4%, driven by the onset of COVID-19.
 
-<img width="1643" height="975" alt="image" src="https://github.com/user-attachments/assets/7ab7cda4-1e81-4813-8f7e-91346886dea0" />
 
 <img width="1378" height="757" alt="image" src="https://github.com/user-attachments/assets/b9e35c1f-3c47-4ec6-a58c-de765011de8c" />
 
@@ -163,6 +161,8 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
 
 
 <img width="1377" height="473" alt="image" src="https://github.com/user-attachments/assets/36f4fe64-d7f3-4620-af9f-1a1742a65581" />
+
+<img width="1297" height="516" alt="image" src="https://github.com/user-attachments/assets/270213ed-bfcc-45a8-9c58-670955a5d825" />
 
 
 
