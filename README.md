@@ -211,7 +211,8 @@ The Affiliate channel consistently yields Enova’s highest yearly Average Order
 
 <img width="600" height="548" alt="image" src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" />
 
-<img width="500" height="456" alt="image" src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" />
+<img width="1280" height="753" alt="image" src="https://github.com/user-attachments/assets/8886d7e5-a6a9-4b7f-b8ab-5ed16c07e1f9" />
+
 
 
 ---
