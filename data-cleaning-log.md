@@ -8,7 +8,7 @@ Below is a summary of the key data transformations, categorized by their busines
 * **Text Consistency:** Standardized inconsistent naming conventions in `PRODUCT_NAME` (e.g., uniforming "27in 4K gaming monitor") and `REGION` (mapping "North America" to "NA").
 
 ## 2. Critical Data Integrity & Architecture Fixes
-* **Deduplication:** Applied strict row-level deduplication using a SQL CTE and `ROW_NUMBER()` window function, partitioned by all columns to safely collapse identical logging retries.
+* **Deduplication:** Applied strict row-level deduplication using a SQL CTE and `ROW_NUMBER()` window function, partitioned by all columns to safely collapse identical logging retries. [View the full SQL deduplication query here](SQL queries.sql).
 * **SCD Loyalty Ambiguity (Look-Ahead Bias Prevention):** Addressed users with fluctuating loyalty statuses by adopting a Dual-Attribution approach. Financial metrics were attributed to the point-in-time status, while behavioral metrics utilized an "Ever-Member" cohort logic to preserve tracking integrity.
 * **Account Creation Anomalies:** Identified users with overwritten `CREATED_ON` timestamps. Retained original values but excluded this field from time-based analyses to prevent misleading Lifetime Value (LTV) and Cohort Retention metrics.
 
@@ -21,3 +21,8 @@ To facilitate advanced pivot analysis and dashboard visualizations, several core
 * **Binary Classification:** Created a boolean `REFUNDED` flag (1/0) based on the presence of a refund date, streamlining the calculation of refund rates across different operational dimensions.
 * **Operational KPIs:** Engineered new duration metrics including `DAYS_TO_SHIP` (Ship Date - Purchase Date) and `RETURN_WINDOW` (Refund Date - Delivery Date) to allow for deeper operational analysis.
 * **Dimensional Lookups:** Enriched the core transactional dataset by importing complete `REGION` and `COUNTRY_NAME` dimensions via XLOOKUP from mapping tables.
+
+---
+
+### Deep-Dive Issue Log & Raw Data
+For an in-depth, row-by-row breakdown of anomalies, magnitude percentages, unresolvable issues, and cross-functional team escalations, please download the [Full Excel Workbook (Data & Issue Log)](Enova_Data_and_Issue_Log.xlsx).
