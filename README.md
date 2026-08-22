@@ -18,7 +18,7 @@ To leverage the company's previously underutilized historical data (2019–2022)
 </details>
 
 ## About the Data & Methodology
-Enova's database structure as seen below consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total of over 108,000 rows, each row representing a transaction record.
+Enova's database structure, as seen below, consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total of over 108,000 rows, each row representing a transaction record.
 
 <p align="center">
 <img width="785" height="440" alt="ERD2" src="https://github.com/user-attachments/assets/a48c8279-bd20-4611-83f3-e86b58fb1210" />
