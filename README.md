@@ -159,9 +159,6 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
 
 **The side-by-side comparison below illustrates this exact paradox: while members repurchase at a much faster velocity (left), their overall mass-retention rate remains severely crippled compared to non-members (right):**
 
-
-<img width="1377" height="473" alt="image" src="https://github.com/user-attachments/assets/36f4fe64-d7f3-4620-af9f-1a1742a65581" />
-
 <img width="1297" height="516" alt="image" src="https://github.com/user-attachments/assets/270213ed-bfcc-45a8-9c58-670955a5d825" />
 
 
@@ -173,6 +170,9 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
 Regional analysis reveals near-perfect seasonal synchronization, confirming that the company’s volatility was driven by global market forces rather than localized issues. The historic macro boom of 2020 surged uniformly worldwide, with every territory exceeding >150% in annual revenue growth compared to 2019. Conversely, 2022 experienced a synchronized systemic contraction, with every region recording aggressive downward trajectories that culminated in unprecedented baseline lows in Q4 2022.
 
 <img width="1475" height="752" alt="image" src="https://github.com/user-attachments/assets/4a9a5a27-acef-4ed7-b4ea-617bd8e36707" />
+
+<img width="1502" height="755" alt="image" src="https://github.com/user-attachments/assets/845bfaff-1279-4dc8-929e-c57de5c35f69" />
+
 
 #### 2. The North America Fortress: NA Consistently Drives Over 50% of Global Revenue and Order Volume
 North America acts as the company's absolute anchor, consistently capturing over 50% of global revenue and volume annually. This dominance peaked in 2022, with NA driving ~55% of global revenue ($2.7M) and accounting for ~53% of total orders (10.1K) - nearly double the scale of EMEA, the company's second-largest region. In stark contrast, LATAM consistently lags as the smallest regional market, stagnating at just ~5% of global revenue.
@@ -209,11 +209,6 @@ Email is Enova’s fastest-growing CRM channel, expanding consistently year-over
 The Affiliate channel consistently yields Enova’s highest yearly Average Order Value (AOV), reaching $359 in 2022 (a 24% growth from the $289 pre-COVID baseline). However, despite attracting premium buyers, order volume plummeted by 41% to just 379 orders in 2022, dragging its revenue share down from ~5% to a mere 3%. This sharp divergence exposes a severely under-leveraged premium channel and a critical missed growth opportunity.
 
 <img width="815" height="744" alt="image" src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" />
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/618d178b-8983-4239-a2b5-a6b7b925ba1e" width="75%">
-</p>
-
 
 ---
 
