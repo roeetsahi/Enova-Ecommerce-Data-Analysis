@@ -156,6 +156,36 @@ GROUP BY 1
 ORDER BY 1;
 
 
+-- 7. Monthly Revenue Share (Loyalty Members vs. Non-Members) Throughout All Years
+
+WITH MonthlyLoyaltyRev AS (
+	-- Aggregate revenue per month and loyalty status
+    SELECT
+        DATE_TRUNC('month', purchase_date) AS month_year,
+        loyalty_program,
+        SUM(usd_price) AS total_revenue
+    FROM orders_final
+    WHERE purchase_date IS NOT NULL
+    GROUP BY 1, 2
+),
+MonthlyLoyaltyShare AS (
+	-- percentage share of revenue per month
+    SELECT
+        month_year,
+        loyalty_program,
+        100.0 * total_revenue / NULLIF(SUM(total_revenue) OVER (PARTITION BY month_year), 0) AS rev_share
+    FROM MonthlyLoyaltyRev
+)
+--Pivoting the results
+SELECT
+    TO_CHAR(month_year, 'Mon-YYYY') AS "Month",
+    ROUND(MAX(CASE WHEN loyalty_program = 1 THEN rev_share END), 2) || '%' AS "Loyalty Share",
+    ROUND(MAX(CASE WHEN loyalty_program = 0 THEN rev_share END), 2) || '%' AS "Non-Loyalty Share"
+FROM MonthlyLoyaltyShare
+GROUP BY month_year
+ORDER BY month_year ASC;
+
+
 
 
 
