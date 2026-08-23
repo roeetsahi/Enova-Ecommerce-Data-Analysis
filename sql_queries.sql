@@ -13,19 +13,14 @@ WITH YearlyFinancials AS (
 -- Format output and calculate YoY growth
 SELECT 
     purchase_year AS "Year",
-    
     '$' || ROUND(total_revenue / 1000000.0, 2) || 'M' AS "Revenue",
     ROUND(100.0 * (total_revenue - LAG(total_revenue) OVER(ORDER BY purchase_year)) / NULLIF(LAG(total_revenue) OVER(ORDER BY purchase_year), 0), 1) || '%' AS "Rev_YoY%",
-    
     total_orders AS "Orders",
     ROUND(100.0 * (total_orders - LAG(total_orders) OVER(ORDER BY purchase_year)) / NULLIF(LAG(total_orders) OVER(ORDER BY purchase_year), 0), 1) || '%' AS "Ord_YoY%",
-    
     '$' || ROUND(aov, 0) AS "AOV",
     ROUND(100.0 * (aov - LAG(aov) OVER(ORDER BY purchase_year)) / NULLIF(LAG(aov) OVER(ORDER BY purchase_year), 0), 1) || '%' AS "AOV_YoY%"
-    
 FROM YearlyFinancials
 ORDER BY "Year";
-
 
 --2.Regional AOV & MOV Comparison (2019 vs. 2022)
 WITH OrderValues AS (
@@ -61,6 +56,9 @@ FROM AggregatedMetrics
 GROUP BY 1
 ORDER BY MAX(CASE WHEN purchase_year = 2019 THEN aov END) DESC
 
+
+
+	
 
 
 
