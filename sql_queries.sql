@@ -22,6 +22,8 @@ SELECT
 FROM YearlyFinancials
 ORDER BY "Year";
 
+
+
 --2.Regional AOV & MOV Comparison (2019 vs. 2022)
 WITH OrderValues AS (
 	-- Aggregate total spend per individual order
@@ -57,6 +59,7 @@ GROUP BY 1
 ORDER BY MAX(CASE WHEN purchase_year = 2019 THEN aov END) DESC
 
 
+	
 -- 3. Regional AOV vs. Global Baseline (2022 Gap Analysis)
 WITH RegionalMetrics AS (
     -- total revenue and orders per region
@@ -98,6 +101,7 @@ GROUP BY 1
 ORDER BY "Return Rate (%)" DESC;
 
 
+
 -- 5. Customer Buying Behavior: First vs. Returning Orders (Loyalty vs. non-loyalty)
 WITH CustomerOrderRank AS (
 	-- Rank sequential orders per customer
@@ -132,6 +136,7 @@ GROUP BY 1, 2
 ORDER BY 1, 2;
 
 
+
 -- 6.Top 3 Peak Months by Marketing Channel
 WITH ChannelMonthlyRevenue AS (
     -- Calculate and rank monthly revenue per marketing channel
@@ -156,8 +161,8 @@ GROUP BY 1
 ORDER BY 1;
 
 
--- 7. Monthly Revenue Share (Loyalty Members vs. Non-Members) Throughout All Years
 
+-- 7. Monthly Revenue Share (Loyalty Members vs. Non-Members) Throughout All Years
 WITH MonthlyLoyaltyRev AS (
 	-- Aggregate revenue per month and loyalty status
     SELECT
@@ -187,7 +192,6 @@ ORDER BY month_year ASC;
 
 
 
-
 -- 8. Data Governance & Architecture: Creating a new deduplicated table by applying strict row-level partitioning across all columns.
 -- Note: Due to granularity limitations (lack of LINE_ITEM_ID / QUANTITY), this full-column partition safely removes logging duplicates without dropping valid multi-item orders.
 -- (For a full technical and business explanation, see the Data Quality Issue Log).
@@ -207,7 +211,7 @@ FROM (
                 LOYALTY_PROGRAM, CREATED_ON
             ORDER BY ORDER_ID
         ) as rn
-    FROM orders
+    FROM orders -- The original raw table.
 ) sub
 WHERE rn = 1;
 
