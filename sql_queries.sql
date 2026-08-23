@@ -98,6 +98,40 @@ GROUP BY 1
 ORDER BY "Return Rate (%)" DESC;
 
 
+-- 5. Customer Buying Behavior: First vs. Returning Orders (Loyalty vs. non-loyalty)
+WITH CustomerOrderRank AS (
+	-- Rank sequential orders per customer
+    SELECT 
+		user_id, purchase_date, order_id, usd_price, loyalty_program,
+        EXTRACT(YEAR FROM purchase_date) AS purchase_year,
+        DENSE_RANK() OVER (PARTITION BY user_id ORDER BY purchase_date, order_id) as order_rank
+    FROM orders_final
+    WHERE purchase_date IS NOT NULL
+),
+YearlyLoyaltyMetrics AS (
+	-- Calculate orders and AOV per year, order type, and loyalty status
+    SELECT
+        purchase_year,
+        CASE WHEN order_rank = 1 THEN 'First Order' ELSE 'Returning Order' END AS order_type,
+        loyalty_program,
+        COUNT(DISTINCT order_id) AS total_orders,
+        SUM(usd_price)::numeric / NULLIF(COUNT(DISTINCT order_id), 0) AS aov
+    FROM CustomerOrderRank
+    GROUP BY 1, 2, 3
+)
+-- Pivot data for direct side-by-side comparison
+SELECT
+    purchase_year,
+    order_type,
+    MAX(CASE WHEN loyalty_program = 1 THEN total_orders END) AS "Member Orders",
+    MAX(CASE WHEN loyalty_program = 0 THEN total_orders END) AS "Guest Orders",
+    '$' || ROUND(MAX(CASE WHEN loyalty_program = 1 THEN aov END)) AS "Member AOV",
+    '$' || ROUND(MAX(CASE WHEN loyalty_program = 0 THEN aov END)) AS "Guest AOV"
+FROM YearlyLoyaltyMetrics
+GROUP BY 1, 2
+ORDER BY 1, 2;
+
+
 
 
 
