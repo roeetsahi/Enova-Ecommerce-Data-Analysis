@@ -1,5 +1,4 @@
---Annual Performance and YoY Growth (Revenue, Orders, AOV)
-
+--1. Annual Performance and YoY Growth (Revenue, Orders, AOV)
 WITH YearlyFinancials AS (
     -- Calculate base metrics per year
     SELECT 
@@ -28,6 +27,39 @@ FROM YearlyFinancials
 ORDER BY "Year";
 
 
+--2.Regional AOV & MOV Comparison (2019 vs. 2022)
+WITH OrderValues AS (
+	-- Aggregate total spend per individual order
+    SELECT 
+        order_id,
+        EXTRACT(YEAR FROM purchase_date) AS purchase_year,
+        region,
+        SUM(usd_price) AS order_value
+    FROM orders_final
+    WHERE EXTRACT(YEAR FROM purchase_date) IN (2019, 2022)
+      AND region IS NOT NULL
+    GROUP BY 1, 2, 3
+),
+AggregatedMetrics AS (
+    -- Calculate AOV & MOV
+    SELECT
+        region,
+        purchase_year,
+        SUM(order_value)::numeric / NULLIF(COUNT(DISTINCT order_id), 0) AS aov,
+        PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY order_value) AS mov
+    FROM OrderValues
+    GROUP BY 1, 2
+)
+SELECT
+    -- Pivot data for side-by-side yearly comparison
+    region,
+    '$' || ROUND(MAX(CASE WHEN purchase_year = 2019 THEN aov END)) AS "2019_AOV",
+    '$' || ROUND(MAX(CASE WHEN purchase_year = 2019 THEN mov END)) AS "2019_MOV",
+    '$' || ROUND(MAX(CASE WHEN purchase_year = 2022 THEN aov END)) AS "2022_AOV",
+    '$' || ROUND(MAX(CASE WHEN purchase_year = 2022 THEN mov END)) AS "2022_MOV"
+FROM AggregatedMetrics
+GROUP BY 1
+ORDER BY MAX(CASE WHEN purchase_year = 2019 THEN aov END) DESC
 
 
 
