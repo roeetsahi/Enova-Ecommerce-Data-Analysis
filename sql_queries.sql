@@ -57,7 +57,7 @@ GROUP BY 1
 ORDER BY MAX(CASE WHEN purchase_year = 2019 THEN aov END) DESC
 
 
--- Regional AOV vs. Global Baseline (2022 Gap Analysis)
+-- 3. Regional AOV vs. Global Baseline (2022 Gap Analysis)
 WITH RegionalMetrics AS (
     -- total revenue and orders per region
     SELECT
@@ -84,7 +84,18 @@ SELECT
 FROM AOV_Comparison
 ORDER BY regional_aov DESC;
 
-	
+
+
+-- 4. Product-Level Return Rates & Financial Impact
+SELECT
+    product_name,
+    COUNT(order_id) AS "Total Orders",
+    SUM(refunded) AS "Total Returns",
+    ROUND(SUM(CASE WHEN refunded = 1 THEN usd_price ELSE 0 END)) AS "USD REFUNDED($)",
+    ROUND(SUM(refunded) * 100.0 / NULLIF(COUNT(order_id), 0), 2) AS "Return Rate (%)"
+FROM orders_final
+GROUP BY 1
+ORDER BY "Return Rate (%)" DESC;
 
 
 
