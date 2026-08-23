@@ -1,4 +1,62 @@
---  Missing a LINE_ITEM_ID, this CTE partitions by ALL 23 columns to safely collapse  a 14% exact-duplicate logging bug. This surgical deduplication is critical to  prevent severe revenue inflation and protect overall KPI integrity. 
+--Annual Performance and YoY Growth (Revenue, Orders, AOV)
+
+WITH YearlyFinancials AS (
+    -- Calculate base metrics per year
+    SELECT 
+        EXTRACT(YEAR FROM purchase_date) AS purchase_year,
+        SUM(usd_price) AS total_revenue,
+        COUNT(DISTINCT order_id) AS total_orders,
+        SUM(usd_price)::numeric / NULLIF(COUNT(DISTINCT order_id), 0) AS aov
+    FROM orders_final
+    WHERE purchase_date IS NOT NULL
+    GROUP BY 1
+)
+-- Format output and calculate YoY growth
+SELECT 
+    purchase_year AS "Year",
+    
+    '$' || ROUND(total_revenue / 1000000.0, 2) || 'M' AS "Revenue",
+    ROUND(100.0 * (total_revenue - LAG(total_revenue) OVER(ORDER BY purchase_year)) / NULLIF(LAG(total_revenue) OVER(ORDER BY purchase_year), 0), 1) || '%' AS "Rev_YoY%",
+    
+    total_orders AS "Orders",
+    ROUND(100.0 * (total_orders - LAG(total_orders) OVER(ORDER BY purchase_year)) / NULLIF(LAG(total_orders) OVER(ORDER BY purchase_year), 0), 1) || '%' AS "Ord_YoY%",
+    
+    '$' || ROUND(aov, 0) AS "AOV",
+    ROUND(100.0 * (aov - LAG(aov) OVER(ORDER BY purchase_year)) / NULLIF(LAG(aov) OVER(ORDER BY purchase_year), 0), 1) || '%' AS "AOV_YoY%"
+    
+FROM YearlyFinancials
+ORDER BY "Year";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--10.  Missing a LINE_ITEM_ID, this CTE partitions by ALL 23 columns to safely collapse  a 14% exact-duplicate logging bug. This surgical deduplication is critical to  prevent severe revenue inflation and protect overall KPI integrity. 
 ---- Deduplicating identical retries by partitioning across all columns.
 -- This approach is a necessary workaround due to a missing LINE_ITEM_ID (broken granularity).
 -- Creating a new deduplicated table by partitioning across all columns.
