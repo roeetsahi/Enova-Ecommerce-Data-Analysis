@@ -59,10 +59,15 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 <br>
 <br>
 * **Seasonal Dynamics:** Revenue follows an annual "Dual-Peak" cycle driven by September (back-to-school and tech launches) and December (holiday sales), offset by troughs in October and February.
+<br>
 * **Product Concentration Risk:** The enterprise suffers from a severe lack of diversification, with just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently driving ~85% of total annual revenue, leaving the portfolio highly vulnerable to supply chain disruptions.
+<br>
 * **Loyalty Program Contraction & Retention Failure:** Following a Q2 2022 revenue share peak of 63%, the program sharply contracted to just 30% by year-end. While members exhibit faster repurchase cycles (fewer days between repeat orders), the program fails to drive mass repeat volume, as non-members consistently outpace enrolled users in annual repeat rates (closing 2022 at ~10% vs. ~4%).
-* **Regional Dynamics & Pricing Divergence:** North America acts as the absolute operational anchor, consistently driving >50% of global revenue and order volume annually. APAC solidified its position as the premium leader at an AOV of $283 in 2022, standing as the sole region to outpace its pre-COVID baseline (+14.6%), while LATAM plummeted to an all-time global low of $193 AOV.
+<br>
+* **Regional Dynamics & Pricing Divergence:** North America acts as the absolute operational anchor, consistently driving >50% of global revenue and order volume annually. APAC solidified its position as the premium leader at an AOV of $283 in 2022, standing as the sole region to outpace its pre-COVID AOV baseline (+14.6%), while LATAM plummeted to an all-time global low of $193 AOV.
+<br>
 * **The 'Direct' Attribution Black Box:** A systemic tracking failure causes the 'Direct' channel to implausibly absorb >75% of annual revenue. Acting as a catch-all for untracked sources (like Organic SEO and Paid Search), this blind spot completely obscures Customer Acquisition Cost (CAC) and risks massive budget misallocation.
+<br>
 * **Marketing Mix Inefficiencies:** While Email doubled its share of both order volume (~20%) and revenue (~16%) by 2022, it remains poorly monetized, consistently yielding the lowest AOV across all channels ($207 in 2022). In contrast, the Affiliate channel consistently yields the highest premium AOV ($359 in 2022) but is severely under-leveraged, with its order share shrinking to just 2%, exposing a critical missed growth opportunity.
 
 ---
