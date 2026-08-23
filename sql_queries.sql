@@ -57,8 +57,35 @@ GROUP BY 1
 ORDER BY MAX(CASE WHEN purchase_year = 2019 THEN aov END) DESC
 
 
+-- Regional AOV vs. Global Baseline (2022 Gap Analysis)
+WITH RegionalMetrics AS (
+    -- total revenue and orders per region
+    SELECT
+        COALESCE(region, 'Unknown') AS region,
+        SUM(usd_price) AS total_revenue,
+        COUNT(DISTINCT order_id) AS total_orders
+    FROM orders_final
+    WHERE EXTRACT(YEAR FROM purchase_date) = 2022
+    GROUP BY 1
+),
+AOV_Comparison AS (
+    --  Regional AOV and Global AOV
+    SELECT
+        region,
+        total_revenue::numeric / NULLIF(total_orders, 0) AS regional_aov,
+        SUM(total_revenue) OVER()::numeric / NULLIF(SUM(total_orders) OVER(), 0) AS global_aov
+    FROM RegionalMetrics
+)
+-- calculate the performance gap against the global average
+SELECT
+    region AS "Region Name",
+    '$' || ROUND(regional_aov) AS "AOV 2022",
+    ROUND(((regional_aov - global_aov) / NULLIF(global_aov, 0)) * 100.0, 1) || '%' AS "Gap vs Global Avg"
+FROM AOV_Comparison
+ORDER BY regional_aov DESC;
 
 	
+
 
 
 
