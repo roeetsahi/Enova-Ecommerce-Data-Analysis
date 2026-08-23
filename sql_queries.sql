@@ -132,6 +132,28 @@ GROUP BY 1, 2
 ORDER BY 1, 2;
 
 
+-- 6.Top 3 Peak Months by Marketing Channel
+WITH ChannelMonthlyRevenue AS (
+    -- Calculate and rank monthly revenue per marketing channel
+    SELECT 
+        marketing_channel,
+        TO_CHAR(purchase_date, 'Mon-YYYY') AS month_label,
+        SUM(usd_price) AS total_revenue,
+        DENSE_RANK() OVER(PARTITION BY marketing_channel ORDER BY SUM(usd_price) DESC) AS revenue_rank
+    FROM orders_final
+    WHERE marketing_channel IS NOT NULL 
+      AND purchase_date IS NOT NULL
+    GROUP BY 1, 2
+)
+-- Pivot the top 3 months into a consolidated text format
+SELECT
+    marketing_channel AS "Marketing Channel",
+    MAX(CASE WHEN revenue_rank = 1 THEN month_label || ' : $' || ROUND(total_revenue / 1000.0, 1) || 'K' END) AS "1st Peak Month",
+    MAX(CASE WHEN revenue_rank = 2 THEN month_label || ' : $' || ROUND(total_revenue / 1000.0, 1) || 'K' END) AS "2nd Peak Month",
+    MAX(CASE WHEN revenue_rank = 3 THEN month_label || ' : $' || ROUND(total_revenue / 1000.0, 1) || 'K' END) AS "3rd Peak Month"
+FROM ChannelMonthlyRevenue
+GROUP BY 1
+ORDER BY 1;
 
 
 
