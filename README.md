@@ -263,10 +263,10 @@ Implement a mandatory 'Return Reason' field to enable robust Root Cause Analysis
 Execute a phased transition to replace the immediate sign-up discount with "soft" perks (e.g., free express shipping). Financial incentives (e.g., X% off) will only unlock upon the second purchase to filter out 'discount hunters' and ensure margin is invested exclusively in proven retention.
 
 **2. Replacing Mass Mailings with Smart Lifecycle Flows:**
-Replace generic mass mailings with personalized Lifecycle Flows to prevent email fatigue. For example, a laptop buyer should receive immediate cross-sell campaigns for complementary accessories, while promotions for additional laptops are suppressed and retargeted strictly based on the category's Repurchase Interval.
+Replace generic mass mailings with personalized Lifecycle Flows to reduce potential email fatigue. For example, a laptop buyer should receive immediate cross-sell campaigns for complementary accessories, while promotions for additional laptops are suppressed and retargeted strictly based on the category's Repurchase Interval.
 
 **3. Highlighting Benefits & Eliminating Registration Friction:**
-Highlight program benefits directly within the checkout flow to capture returning guest shoppers. Replace the multi-field registration form with rapid enrollment (Google/Apple Login) featuring a one-click marketing opt-in to eliminate drop-offs.
+Highlight program benefits directly within the checkout flow to capture returning guest shoppers. Replace the multi-field registration form with rapid enrollment (Google/Apple Login) featuring a one-click marketing opt-in to reduce enrollment friction.
 
 ### Regions
 **1. North America: Leveraging Massive Volume to Drive Cart Value:**
