@@ -142,7 +142,7 @@ While the ~12% return rates for MacBook Air and ThinkPad laptops align with indu
 ###  Loyalty Program Evaluation 
 
 #### 1. The Rise and Sharp Retraction of Loyalty Revenue Share
-The Loyalty Program evolved from a marginal initiative (yielding a single-digit revenue share in the first eight months of 2019) into a significant contributor to business revenue, peaking at 63% of total revenue in April 2022. However, this momentum experienced a sharp reversal, with the member-driven revenue share contracting to 30% by December 2022. 
+The Loyalty Program evolved from a marginal initiative (yielding a single-digit revenue share in the first eight months of 2019) into a significant contributor to business revenue, peaking at 63% of of monthly revenue in April 2022. However, this momentum experienced a sharp reversal, with the member-driven revenue share contracting to 30% by December 2022. 
 
 <img width="1307" height="751" alt="image" src="https://github.com/user-attachments/assets/dd14308c-703d-4e66-9451-3bd4593f154e" />
 
@@ -156,7 +156,7 @@ Following non-member AOV dominance through mid-2021, Q3 2021 marked an inflectio
 Following the 2020 pandemic peak, average days between orders for returning customers increased for both loyalty segments. However, loyalty members maintained a consistent repurchase-velocity advantage over non-members across the entire 2020-2022 period. This advantage peaked at a 75-day lead in 2021 (202 vs. 277, ~27% faster) and remained robust at a ~70-day advantage in 2022 (326 vs. 395, ~17% faster). 
 
 #### 4. The Loyalty Stickiness Paradox: Underperformance in Retention
-Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, their overall repeat rate remained consistently lower than that of non-members. While member repeat rates improved from ~2.1% in 2020 to 4.1% in 2022, a persistent retention gap remained. Non-members consistently outpaced members, closing 2022 with a 9.9% repeat rate versus 4.1%. This pattern raises the hypothesis that aggressive sign-up incentives may attract discount-driven enrollment without translating into proportional repeat purchasing, though further cohort analysis would be needed to validate the underlying cause. 
+Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, their annual repeat purchase rate remained consistently lower than that of non-members. While member repeat rates improved from ~2.1% in 2020 to 4.1% in 2022, a persistent retention gap remained. Non-members consistently outpaced members, closing 2022 with a 9.9% repeat rate versus 4.1%. This pattern raises the hypothesis that aggressive sign-up incentives may attract discount-driven enrollment without translating into proportional repeat purchasing, though further cohort analysis would be needed to validate the underlying cause. 
 
 **The side-by-side comparison below illustrates this exact paradox: while members repurchase at a much faster velocity (left), their overall repeat-purchase rate remains substantially lower than that of non-members (right):**
 
@@ -263,10 +263,10 @@ Implement a mandatory 'Return Reason' field to enable robust Root Cause Analysis
 Run a phased test that reduces immediate sign-up discounts for selected cohorts, replacing them with soft first-purchase perks (e.g., free express shipping) while unlocking stronger financial incentives upon the second purchase. Measure first-purchase conversion, second-purchase conversion, repeat rate, AOV, and margin against the existing incentive structure before broader rollout.
 
 **2. Replacing Mass Mailings with Smart Lifecycle Flows:**
-Replace generic mass mailings with personalized Lifecycle Flows to reduce potential email fatigue. For example, a laptop buyer should receive immediate cross-sell campaigns for complementary accessories, while promotions for additional laptops are suppressed and retargeted strictly based on the category's Repurchase Interval.
+Replace generic mass mailings with personalized Lifecycle Flows to reduce potential email fatigue. For example, a laptop buyer should receive immediate cross-sell campaigns for complementary accessories, while promotions for additional laptops are suppressed and retargeted closer to the category's observed Repurchase Interval.
 
 **3. Highlighting Benefits & Eliminating Registration Friction:**
-Highlight program benefits directly within the checkout flow to capture returning guest shoppers. Replace the multi-field registration form with rapid enrollment (Google/Apple Login) featuring a one-click marketing opt-in to reduce enrollment friction.
+Highlight program benefits directly within the checkout flow to capture returning guest shoppers. Test rapid-enrollment options such as Google/Apple Login with a one-click marketing opt-in to reduce enrollment friction.
 
 ### Regions
 **1. North America: Leveraging Massive Volume to Drive Cart Value:**
