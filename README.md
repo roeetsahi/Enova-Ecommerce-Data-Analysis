@@ -259,8 +259,8 @@ Implement a mandatory 'Return Reason' field to enable robust Root Cause Analysis
 * **Packaging Upgrades:** Reinforcing transit packaging if transit damage is identified as a primary driver.
 
 ### Loyalty Program
-**1. Delaying Financial Discounts to the Second Order:**
-Execute a phased transition to replace the immediate sign-up discount with "soft" perks (e.g., free express shipping). Financial incentives (e.g., X% off) will only unlock upon the second purchase to filter out 'discount hunters' and ensure margin is invested exclusively in proven retention.
+**1. Testing Second-Purchase Financial Incentives:**
+Run a phased test that reduces immediate sign-up discounts for selected cohorts, replacing them with soft first-purchase perks (e.g., free express shipping) while unlocking stronger financial incentives upon the second purchase. Measure first-purchase conversion, second-purchase conversion, repeat rate, AOV, and margin against the existing incentive structure before broader rollout.
 
 **2. Replacing Mass Mailings with Smart Lifecycle Flows:**
 Replace generic mass mailings with personalized Lifecycle Flows to reduce potential email fatigue. For example, a laptop buyer should receive immediate cross-sell campaigns for complementary accessories, while promotions for additional laptops are suppressed and retargeted strictly based on the category's Repurchase Interval.
