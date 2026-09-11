@@ -142,12 +142,12 @@ While the ~12% return rates for MacBook Air and ThinkPad laptops align with indu
 ###  Loyalty Program Evaluation 
 
 #### 1. The Rise and Sharp Retraction of Loyalty Revenue Share
-The Loyalty Program evolved from a marginal initiative (yielding a single-digit revenue share in the first eight months of 2019) into a dominant business driver, peaking at 63% of total revenue in April 2022. However, this momentum experienced a sharp reversal, with the member-driven revenue share contracting to 30% by December 2022. 
+The Loyalty Program evolved from a marginal initiative (yielding a single-digit revenue share in the first eight months of 2019) into a significant contributor to business revenue, peaking at 63% of total revenue in April 2022. However, this momentum experienced a sharp reversal, with the member-driven revenue share contracting to 30% by December 2022. 
 
 <img width="1307" height="751" alt="image" src="https://github.com/user-attachments/assets/dd14308c-703d-4e66-9451-3bd4593f154e" />
 
 #### 2. The AOV Inflection: Loyalty as a Premium Engine
-Following non-member AOV dominance through mid-2021, Q3 2021 marked an inflection point where Loyalty members became our premium engine. Throughout 2022, members demonstrated stronger spending resilience during the market cooldown, maintaining a $274 AOV - an 11% premium over non-members ($247). Despite this strong annual average, a quarterly breakdown reveals a sharp reversal in Q4 2022, with non-members again outpacing Loyalty ($300 vs. $267), signaling emerging instability in the program.
+Following non-member AOV dominance through mid-2021, Q3 2021 marked an inflection point where Loyalty members became our premium engine. Throughout 2022, members demonstrated stronger spending resilience during the market cooldown, maintaining a $274 AOV - an 11% premium over non-members ($247). Despite this strong annual average, a quarterly breakdown reveals a sharp reversal in Q4 2022, with non-members again outpacing Loyalty ($300 vs. $267), suggesting that the member AOV premium had reversed by year-end.
 
 <img width="1381" height="758" alt="image" src="https://github.com/user-attachments/assets/70968ec4-4130-4a05-9515-b779861dff2d" />
 
