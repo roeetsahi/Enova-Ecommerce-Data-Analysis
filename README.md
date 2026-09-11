@@ -147,7 +147,7 @@ The Loyalty Program evolved from a marginal initiative (yielding a single-digit 
 <img width="1307" height="751" alt="image" src="https://github.com/user-attachments/assets/dd14308c-703d-4e66-9451-3bd4593f154e" />
 
 #### 2. The AOV Inflection: Loyalty as a Premium Engine
-Following non-member AOV dominance through mid-2021, Q3 2021 marked an inflection point where Loyalty members became our premium engine. Throughout 2022, members demonstrated stronger spending resilience during the market cooldown, maintaining a $274 AOV - an 11% premium over non-members ($247). Despite this strong annual average, a quarterly breakdown reveals a sharp reversal in Q4 2022, with non-members again outpacing Loyalty ($300 vs. $267), suggesting that the member AOV premium had reversed by year-end.
+Following non-member AOV dominance through mid-2021, Q3 2021 marked an inflection point where Loyalty members began achieving a higher AOV than non-members. Across 2022 overall, members posted a $274 AOV, an 11% premium over non-members ($247). However, the quarterly breakdown shows this advantage was not sustained through year-end, with non-members again outpacing Loyalty in Q4 ($300 vs. $267). 
 
 <img width="1381" height="758" alt="image" src="https://github.com/user-attachments/assets/70968ec4-4130-4a05-9515-b779861dff2d" />
 
@@ -156,7 +156,7 @@ Following non-member AOV dominance through mid-2021, Q3 2021 marked an inflectio
 Following the 2020 pandemic peak, average days between orders for returning customers increased for both loyalty segments. However, loyalty members maintained a consistent repurchase-velocity advantage over non-members across the entire 2020-2022 period. This advantage peaked at a 75-day lead in 2021 (202 vs. 277, ~27% faster) and remained robust at a ~70-day advantage in 2022 (326 vs. 395, ~17% faster). 
 
 #### 4. The Loyalty Stickiness Paradox: Underperformance in Retention
-Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, their overall repeat rate remained consistently and severely lower than those of non-members. While member repeat rates slightly improved, growing from ~2.1% in 2020 to 4.1% in 2022, the program fundamentally struggles as a mass-retention tool. Non-members consistently outpaced members, closing 2022 with a 9.9% repeat rate (vs. 4.1%). This persistent volume gap strongly suggests a "Hit & Run" dynamic, where users exploit a one-time sign-up incentive but find insufficient ongoing value to remain engaged.
+ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, their overall repeat rate remained consistently lower than that of non-members.While member repeat rates improved from ~2.1% in 2020 to 4.1% in 2022, a persistent retention gap remained. Non-members consistently outpaced members, closing 2022 with a 9.9% repeat rate versus 4.1%. This pattern raises the hypothesis that aggressive sign-up incentives attract discount-driven enrollment without translating into proportional repeat purchasing, warranting further cohort analysis and testing.
 
 **The side-by-side comparison below illustrates this exact paradox: while members repurchase at a much faster velocity (left), their overall repeat-purchase rate remains substantially lower than that of non-members (right):**
 
