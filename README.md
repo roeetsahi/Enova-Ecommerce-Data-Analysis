@@ -153,7 +153,7 @@ Following non-member AOV dominance through mid-2021, Q3 2021 marked an inflectio
 
 
 #### 3. The Member Velocity Advantage in Buying Cycles
-Following the 2020 pandemic peak, average days between orders for returning customers increased for both loyalty segments. However, loyalty members demonstrated greater behavioral resilience, maintaining a significant velocity gap over non-members across the entire 2020-2022 period. This advantage peaked at a 75-day lead in 2021 (202 vs. 277, ~27% faster) and remained robust at a ~70-day advantage in 2022 (326 vs. 395, ~17% faster). 
+Following the 2020 pandemic peak, average days between orders for returning customers increased for both loyalty segments. However, loyalty members maintained a consistent repurchase-velocity advantage over non-members across the entire 2020-2022 period. This advantage peaked at a 75-day lead in 2021 (202 vs. 277, ~27% faster) and remained robust at a ~70-day advantage in 2022 (326 vs. 395, ~17% faster). 
 
 #### 4. The Loyalty Stickiness Paradox: Underperformance in Retention
 Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, their overall repeat rate remained consistently and severely lower than those of non-members. While member repeat rates slightly improved, growing from ~2.1% in 2020 to 4.1% in 2022, the program fundamentally struggles as a mass-retention tool. Non-members consistently outpaced members, closing 2022 with a 9.9% repeat rate (vs. 4.1%). This persistent volume gap strongly suggests a "Hit & Run" dynamic, where users exploit a one-time sign-up incentive but find insufficient ongoing value to remain engaged.
