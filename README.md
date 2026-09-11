@@ -158,7 +158,7 @@ Following the 2020 pandemic peak, average days between orders for returning cust
 #### 4. The Loyalty Stickiness Paradox: Underperformance in Retention
 Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, their overall repeat rate remained consistently and severely lower than those of non-members. While member repeat rates slightly improved, growing from ~2.1% in 2020 to 4.1% in 2022, the program fundamentally struggles as a mass-retention tool. Non-members consistently outpaced members, closing 2022 with a 9.9% repeat rate (vs. 4.1%). This persistent volume gap strongly suggests a "Hit & Run" dynamic, where users exploit a one-time sign-up incentive but find insufficient ongoing value to remain engaged.
 
-**The side-by-side comparison below illustrates this exact paradox: while members repurchase at a much faster velocity (left), their overall mass-retention rate remains severely crippled compared to non-members (right):**
+**The side-by-side comparison below illustrates this exact paradox: while members repurchase at a much faster velocity (left), their overall repeat-purchase rate remains substantially lower than that of non-members (right):**
 
 <img width="1297" height="516" alt="image" src="https://github.com/user-attachments/assets/270213ed-bfcc-45a8-9c58-670955a5d825" />
 
