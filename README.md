@@ -58,7 +58,7 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 **While total 2022 revenue remained above the 2019 pre-pandemic baseline, momentum weakened sharply by year-end. Q4 2022 sales fell 45% below Q4 2019,indicating a materially weaker year-end trajectory entering 2023.**
 <br>
 <br>
-* **Seasonal Dynamics:** Revenue follows an annual "Dual-Peak" cycle fueled by September (back-to-school and tech launches) and December (holiday sales), offset by troughs in October and February.
+* **Seasonal Dynamics:** Revenue follows a recurring annual "Dual-Peak" cycle, with September peaks aligned with back-to-school demand and major tech launches, and December peaks aligned with holiday-season demand, offset by recurring troughs in October and February.
 
 * **Product Concentration Risk:** The enterprise suffers from a severe lack of diversification, with just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently driving ~85% of total annual revenue, leaving the portfolio highly vulnerable to supply chain disruptions.
 * **Loyalty Program Contraction & Retention Underperformance:** Loyalty's monthly revenue share peaked at 63% in April 2022 before falling to 30% by year-end. While members exhibit faster repurchase cycles (fewer days between repeat orders), non-members consistently outpace enrolled users in annual repeat rates, closing 2022 at ~10% vs. ~4%.
