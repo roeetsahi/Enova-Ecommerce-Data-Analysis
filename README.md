@@ -195,16 +195,16 @@ While NA and LATAM led regional AOV in 2019, 2020 triggered a structural reversa
 #### 1. The 'Direct' Black Box Attribution Failure
 Enova's marketing attribution is heavily concentrated in the 'Direct' channel, which accounted for 86% of revenue and 83% of order volume in 2019 and remained dominant in 2022 at 76% of revenue ($3.7M) and 73% of orders (13.8K). Combined with the complete absence of Organic Search and Paid Search categories, this concentration raises significant attribution-quality concerns and suggests that Direct may be absorbing traffic from sources that are not being separately classified. This limits reliable channel-level performance analysis and prevents robust CAC or budget-allocation decisions.
 
-#### 2. The 2022 'Unknown' Surge
-The 'Unknown' channel experienced a critical systemic surge in 2022, surging from a negligible baseline of ~0.1% (2019) to 5% in both total revenue ($226K) and order volume (869 transactions). A monthly drill-down reveals this failure was primarily concentrated between May and October, where 'Unknown' attribution consistently exceeded 5% of monthly revenue - peaking in August at a critical 12% (Revenue) and 11% (Orders) indicating a systemic tracking rupture.
+#### 2. The 2022 'Unknown' Attribution Surge
+The 'Unknown' channel remained below 0.7% of both annual revenue and order volume share throughout 2019-2021, before rising to ~5% of both revenue ($226K) and order volume (869 orders) in 2022. A monthly drill-down shows that the increase was concentrated between May and October, when 'Unknown' consistently exceeded 5% of monthly revenue and peaked in August at 12% of revenue and 11% of orders. The abrupt timing and concentration indicate a material attribution anomaly rather than a gradual shift in channel mix.
 
 <img width="837" height="681" alt="image" src="https://github.com/user-attachments/assets/2173b09b-ca52-4f88-982b-d64b01b0c36b" />
 
 
-#### 3. The Email Trap: Scaling a Low-Margin Engine
+#### 3. Email Growth with Persistently Low AOV
 Email is Enova’s fastest-growing CRM channel, expanding consistently year-over-year and doubling its share in both order volume (from 11% to 20%) and revenue (from 8% to 16%) between 2019 and 2022. However, despite this massive expansion, the channel is poorly monetized. Email maintains a chronically stagnant, bottom-tier Average Order Value (AOV) across all four years, recording just $207 in 2022.
 
-#### 4. The Missed Premium Opportunity of the Affiliate Channel
+#### 4. Affiliate: High AOV, Declining Scale
 The Affiliate channel consistently yields Enova’s highest yearly Average Order Value (AOV), reaching $359 in 2022 (a 24% growth from the $289 pre-COVID baseline). However, despite attracting premium buyers, order volume plummeted by 41% to just 379 orders in 2022, dragging its revenue share down from ~5% to a mere 3%. This sharp divergence exposes a severely under-leveraged premium channel and a critical missed growth opportunity.
 
 <img width="970" height="746" alt="image" src="https://github.com/user-attachments/assets/5d336cbd-5d0e-4630-bc2c-4feaaf0bde62" />
