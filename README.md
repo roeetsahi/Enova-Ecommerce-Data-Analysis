@@ -228,10 +228,10 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 # Recommendations: Strategic Deep Dive
 
 ### Overall Sales Trends: Seasonality & Promotional Strategy
-*Strategic Direction: Maximize acquisition budgets during high-intent peaks, and pivot to low-CAC retention channels during demand troughs.*
+*Strategic Direction: Test incremental acquisition investment during historically stronger seasonal peaks, while shifting emphasis toward owned retention channels during recurring demand troughs.*
 
 **A. Optimizing Peak Seasons (Maximizing AOV & Margins)**
-* **December Peak - Optimization via Basket Expansion:** With purchase intent at its peak, leverage holiday traffic and the FOMO-driven gifting season by prioritizing basket expansion over broad site-wide discounts. Focus promotional efforts on strategic bundles, targeted cross-sells, and up-sells to drive AOV.
+* **December Peak - Optimization via Basket Expansion:** Given December's historically strongest revenue performance amid holiday-season demand, test basket-expansion tactics before relying on broad site-wide discounts. Evaluate strategic bundles, targeted cross-sells, and up-sells based on their impact on conversion, AOV, incremental revenue, and margin.
 * **September Peak - Phase 1 (Operational Post-Mortem):** Given the failed 2022 September peak, rather than attributing this collapse solely to macro-shifts, we must first conduct a rapid diagnostic to determine if this was a self-inflicted operational failure (inventory stock-outs, slashed acquisition budgets, or misaligned pricing strategies).
 * **September Peak - Phase 2 (Strategic Demand Capture):** Once internal bottlenecks are resolved, capitalize on September's historical momentum by launching student-targeted "Back-to-School" discounts and bundles on core hardware. Align promos with Apple's annual keynote to leverage organic industry buzz. To directly reduce price friction, prominently feature BNPL (Buy Now, Pay Later) and Trade-in options. 
 
