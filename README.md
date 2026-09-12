@@ -282,8 +282,8 @@ Prioritize acquisition budgets toward APAC to capitalize on its highest-AOV stat
 **1. Resolving Data Blindness: Fixing 'Direct' & 'Unknown' Tracking Failures:**
 Perform a landing-page audit to deconstruct the 'Direct' misattribution ‘black box’ and isolate genuine direct traffic. Implement automated monitoring for UTM stripping and tag failures. Utilize a Data Quality Issue Log (DQIL) to assign engineering ownership and fix the May-October 2022 'Unknown' tracking rupture.
 
-**2. Shifting the Email Channel from Volume to Premium Value:**
-Conduct a Promo-Code Analysis to phase out the margin-eroding discounts driving Email's low AOV ($207). Pivot the strategy from pushing low-priced accessories to the masses, toward cross-selling exclusive, high-tier hardware bundles to our existing CRM audience. 
+**2. Diagnosing and Improving Email Basket Value:**
+Segment Email-attributed orders by product mix, promotional/discount usage, Loyalty status, and basket composition to identify the drivers of its persistently low AOV. Based on the findings, test targeted basket-expansion strategies such as complementary cross-sells, bundles, and higher-value product recommendations, measuring their impact on conversion, AOV, incremental revenue, and margin against the existing Email baseline. 
 
 **3. Scaling the Affiliate Engine Through High-Intent Reviewer Partnerships:**
 Reallocate budget from underperforming channels (e.g., Social Media) toward high-impact partnerships with professional tech reviewers, unlocking an untapped high-ticket audience. This expansion must be strictly governed by a margin analysis comparing acquisition costs against cart value.
