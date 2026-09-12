@@ -73,7 +73,7 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 ### Overall Sales Trends & Seasonality
 
 #### 1. The 2020 Historic Expansion
-Against the backdrop of global COVID-19 lockdowns and the broader shift toward remote work, distance learning, and e-commerce, Enova experienced an unprecedented expansion in 2020. Compared to the 2019 baseline, total annual revenue scaled by 163% to ~$10.2M, powered by "Dual-Engine" growth: order volume doubled to ~29K, and AOV surged by 30% to $351. Notably, this dominance was absolute across the timeline - every single month of 2020 outperformed its 2019 counterpart across all primary KPIs, culminating in a four-year-period monthly revenue peak of $1.25M in December. 
+Against the backdrop of global COVID-19 lockdowns and the broader shift toward remote work, distance learning, and e-commerce, Enova experienced an unprecedented expansion in 2020. Compared to the 2019 baseline, total annual revenue scaled by 163% to ~$10.2M, powered by "Dual-Engine" growth: order volume doubled to ~29K, and AOV surged by 30% to $351. Notably, this dominance was absolute across the timeline - every single month of 2020 outperformed its 2019 counterpart across all primary KPIs, culminating in a four-year monthly revenue peak of $1.25M in December. 
 
 <img width="1379" height="167" alt="image" src="https://github.com/user-attachments/assets/e1119a29-6ddc-49a7-8dff-019b59839801" />
 <br>
@@ -232,7 +232,7 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 
 **A. Optimizing Peak Seasons (Maximizing AOV & Margins)**
 * **December Peak - Optimization via Basket Expansion:** Given December's historically strongest revenue performance amid holiday-season demand, test basket-expansion tactics before relying on broad site-wide discounts. Evaluate strategic bundles, targeted cross-sells, and up-sells based on their impact on conversion, AOV, incremental revenue, and margin.
-* **September Peak - Phase 1 (Operational Post-Mortem):** Given the missing 2022 September peak, rather than attributing the anomaly solely to external factors, conduct a targeted diagnostic to assess whether internal factors such as inventory availability, acquisition-spend changes, or pricing decisions contributed to the decline.
+* **September Peak - Phase 1 (Operational Diagnostic):** Given the missing 2022 September peak, rather than attributing the anomaly solely to external factors, conduct a targeted diagnostic to assess whether internal factors such as inventory availability, acquisition-spend changes, or pricing decisions contributed to the decline.
 * **September Peak - Phase 2 (Strategic Demand Capture):**  If the diagnostic identifies and resolves material internal constraints, test student-focused back-to-school/campus discounts and hardware bundles during the historically stronger September window. Consider timing selected promotions around major annual tech-launch events and testing BNPL or trade-in offers where relevant, measuring conversion, revenue, AOV, and margin against baseline performance. 
 
 **B. Mitigating Troughs (Turning Dips into Revenue Windows)**
