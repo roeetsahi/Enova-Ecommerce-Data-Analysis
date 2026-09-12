@@ -54,8 +54,8 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 
 
 
-**Between 2019 and 2022, Enova Electronics generated approximately $28M in total sales across ~93,000 orders, with an overall Average Order Value (AOV) of $302. Catalyzed by the COVID-19 lockdowns and pivot to remote environments, 2020 revenues scaled by 163% year-over-year to $10.2M. However, beginning in Q2 2021, the enterprise entered a sustained contraction, recording 21 consecutive months of year-over-year revenue declines through the end of 2022.**
-**While total 2022 revenue remained above pre-pandemic levels, momentum collapsed by year-end. Q4 2022 sales plummeted 45% against the Q4 2019 baseline, leaving the company fundamentally weaker entering 2023.**
+**Between 2019 and 2022, Enova Electronics generated approximately $28M in total sales across ~93,000 orders, with an overall Average Order Value (AOV) of $303. Amid COVID-era shifts toward remote work, distance learning, and e-commerce, 2020 revenue scaled by 163% year-over-year to ~$10.2M. However, beginning in Q2 2021, the business entered a sustained contraction, recording 21 consecutive months of YoY revenue declines through the end of 2022.**
+**While total 2022 revenue remained above the 2019 pre-pandemic baseline, momentum weakened sharply by year-end. Q4 2022 sales fell 45% below Q4 2019,indicating a materially weaker year-end trajectory entering 2023.**
 <br>
 <br>
 * **Seasonal Dynamics:** Revenue follows an annual "Dual-Peak" cycle fueled by September (back-to-school and tech launches) and December (holiday sales), offset by troughs in October and February.
