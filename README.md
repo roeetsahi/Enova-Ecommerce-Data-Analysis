@@ -205,7 +205,7 @@ The 'Unknown' channel remained below 0.7% of both annual revenue and order volum
 Email expanded consistently year-over-year, doubling its share of order volume from 11% to 20% and revenue from 8% to 16% between 2019 and 2022.However, it recorded the lowest AOV among tracked channels in every year, reaching just $207 in 2022. This indicates that Email's growing contribution to order volume has remained concentrated in comparatively lower-value baskets.
 
 #### 4. Affiliate: High AOV, Declining Scale
-The Affiliate channel consistently yields Enova’s highest yearly Average Order Value (AOV), reaching $359 in 2022 (a 24% growth from the $289 pre-COVID baseline). However, despite attracting premium buyers, order volume plummeted by 41% to just 379 orders in 2022, dragging its revenue share down from ~5% to a mere 3%. This sharp divergence exposes a severely under-leveraged premium channel and a critical missed growth opportunity.
+The Affiliate channel consistently generated Enova’s highest yearly AOV, reaching $359 in 2022, 24% above its $289 pre-COVID baseline. However, order volume fell 41% to just 379 orders in 2022, reducing its revenue share from ~5% to 3%. This combination of consistently high basket value and declining scale highlights a potential growth opportunity, subject to validation of channel scalability, acquisition economics, and partner-level performance before additional investment.
 
 <img width="970" height="746" alt="image" src="https://github.com/user-attachments/assets/5d336cbd-5d0e-4630-bc2c-4feaaf0bde62" />
 
