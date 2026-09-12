@@ -58,7 +58,7 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 **While total 2022 revenue remained above pre-pandemic levels, momentum collapsed by year-end. Q4 2022 sales plummeted 45% against the Q4 2019 baseline, leaving the company fundamentally weaker entering 2023.**
 <br>
 <br>
-* **Seasonal Dynamics:** Revenue follows an annual "Dual-Peak" cycle driven by September (back-to-school and tech launches) and December (holiday sales), offset by troughs in October and February.
+* **Seasonal Dynamics:** Revenue follows an annual "Dual-Peak" cycle fueled by September (back-to-school and tech launches) and December (holiday sales), offset by troughs in October and February.
 
 * **Product Concentration Risk:** The enterprise suffers from a severe lack of diversification, with just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently driving ~85% of total annual revenue, leaving the portfolio highly vulnerable to supply chain disruptions.
 * **Loyalty Program Contraction & Retention Underperformance:** Loyalty's monthly revenue share peaked at 63% in April 2022 before falling to 30% by year-end. While members exhibit faster repurchase cycles (fewer days between repeat orders), non-members consistently outpace enrolled users in annual repeat rates, closing 2022 at ~10% vs. ~4%.
@@ -83,7 +83,7 @@ As global COVID-19 lockdowns forced an abrupt transition to remote work and dist
 
 
 #### 2. The 2021-2022 Post-Surge Contraction
-Beginning in April 2021, revenue entered a sustained contraction, recording 21 consecutive months of YoY declines through the very end of 2022, culminating in a severe 46% annual revenue drop versus 2021. This downturn began as a natural market normalization, but severely accelerated throughout 2022, broadly attributed to macroeconomic headwinds such as peak inflation, rising interest rates, and an escalating shift back to physical retail. As consumer spending power weakened, the market ultimately contracted in October 2022 at a lifetime low of ~$178K.
+Beginning in April 2021, revenue entered a sustained contraction, recording 21 consecutive months of YoY declines through the very end of 2022, culminating in a severe 46% annual revenue drop versus 2021. The contraction coincided with post-pandemic normalization and a materially different 2022 macroeconomic environment, including elevated inflation,rising interest rates and an escalating shift back to physical retail. As consumer spending power weakened, the market ultimately contracted in October 2022 at a lifetime low of ~$178K.
 
 
 <img width="1296" height="718" alt="image" src="https://github.com/user-attachments/assets/158637ec-72a0-48df-8ca8-71fe23c2000b" />
@@ -98,7 +98,7 @@ Although 2022’s total revenue remained above the pre-COVID 2019 baseline, this
 | **Q4 Revenue** | $1.18M | $648K | 🔴 -45% |
 | **Annual AOV** | $270 | $261 | 🔴 -3% |
 
-#### Seasonality & Predictive Cycles
+#### Seasonality & Recurring Patterns
 
 #### 4. The "Dual-Peak" Cycle (Sep & Dec) & 2022 Anomaly
 The brand follows a predictable annual 'Dual-Peak' cycle. The primary peak occurs every December, driven by holiday sales, delivering a 46% average revenue surge from the October dip. This is complemented by a secondary peak in September fueled by 'back-to-school' demand and major tech product launches. However, 2022 fractured this pattern. While 2019–2021 averaged a 23% increase from July to September, the 2022 September spike completely vanished, contracting by 13.5% over the same period. 
