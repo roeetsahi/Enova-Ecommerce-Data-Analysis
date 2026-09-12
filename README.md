@@ -90,7 +90,7 @@ Beginning in April 2021, revenue entered a sustained contraction, recording 21 c
 
 
 #### 3. Deceptive 2022 Growth Against 2019 Baseline
-Although 2022’s total revenue remained above the pre-COVID 2019 baseline, this surplus was entirely front-loaded in Q1. Fueled by the ‘Omicron’ variant outbreak, Q1 2022 yielded a 91% increase versus Q1 2019. However, as post-pandemic normalization and the aforementioned macroeconomic headwinds took effect, momentum deteriorated into a severe Q4 contraction. Sales dropped 45% compared to Q4 2019, marking Q4 2022 as the lowest-performing quarter in the four-year period ($648K). Furthermore, 2022's annual AOV regressed to $261, falling below the 2019 baseline of $270. Ultimately, this dying momentum and loss of pricing power left the enterprise fundamentally weaker entering 2023 than it was before the pandemic.
+Although 2022’s total revenue remained above the pre-COVID 2019 baseline, this surplus was entirely front-loaded in Q1. Amid the Omicron wave, Q1 2022 revenue was 91% above Q1 2019. However, as the year progressed alongside post-pandemic normalization and mounting macroeconomic headwinds, this early advantage eroded. By Q4, sales had dropped 45% compared to Q4 2019, marking Q4 2022 as the lowest-performing quarter in the four-year period ($648K). Furthermore, 2022's annual AOV regressed to $261, falling below the 2019 baseline of $270, indicating a materially weaker exit trajectory entering 2023 than it was before the pandemic.
 
 | Metric | 2019 (Baseline) | 2022 | Variance |
 | :--- | :---: | :---: | :---: |
@@ -101,7 +101,7 @@ Although 2022’s total revenue remained above the pre-COVID 2019 baseline, this
 #### Seasonality & Recurring Patterns
 
 #### 4. The "Dual-Peak" Cycle (Sep & Dec) & 2022 Anomaly
-The brand follows a predictable annual 'Dual-Peak' cycle. The primary peak occurs every December, driven by holiday sales, delivering a 46% average revenue surge from the October dip. This is complemented by a secondary peak in September fueled by 'back-to-school' demand and major tech product launches. However, 2022 fractured this pattern. While 2019–2021 averaged a 23% increase from July to September, the 2022 September spike completely vanished, contracting by 13.5% over the same period. 
+The brand follows a recurring annual "Dual-Peak" pattern. December represents the primary peak, delivering an average 46% revenue increase from the October trough, consistent with holiday-season demand. September represents a secondary peak, aligning with the back-to-school period and major annual tech launches. However, 2022 broke this pattern. While 2019-2021 averaged a 23% increase from July to September, the 2022 September spike completely vanished, contracting by 13.5% over the same period. 
 
 #### 5. February and October Troughs
 Enova also experiences two predictable cooling-off periods. October revenues consistently decline (averaging -31% vs. September), an understandable drop following the back-to-school peak, and consumers strategically delaying spending ahead of Black Friday and Holiday sales. Similarly, February represents the bottom of the post-holiday trough, typically dropping 32% below January (across 2019, 2021–2022). However, 2020 presented a stark anomaly where February revenue actually grew by 4%, driven by the onset of COVID-19.
