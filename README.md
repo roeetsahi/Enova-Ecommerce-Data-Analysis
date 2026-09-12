@@ -55,7 +55,7 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 
 
 **Between 2019 and 2022, Enova Electronics generated approximately $28M in total sales across ~93,000 orders, with an overall Average Order Value (AOV) of $303. Amid COVID-era shifts toward remote work, distance learning, and e-commerce, 2020 revenue scaled by 163% year-over-year to ~$10.2M. However, beginning in Q2 2021, the business entered a sustained contraction, recording 21 consecutive months of YoY revenue declines through the end of 2022.**
-**While total 2022 revenue remained above the 2019 pre-pandemic baseline, momentum weakened sharply by year-end. Q4 2022 sales fell 45% below Q4 2019,indicating a materially weaker year-end trajectory entering 2023.**
+**While total 2022 revenue remained above the 2019 pre-pandemic baseline, momentum weakened sharply by year-end. Q4 2022 sales fell 45% below Q4 2019, indicating a materially weaker sales momentum entering 2023.**
 <br>
 <br>
 * **Seasonal Dynamics:** Revenue follows a recurring annual "Dual-Peak" cycle, with September peaks aligned with back-to-school demand and major tech launches, and December peaks aligned with holiday-season demand, offset by recurring troughs in October and February.
@@ -101,7 +101,7 @@ Although 2022’s total revenue remained above the pre-COVID 2019 baseline, this
 #### Seasonality & Recurring Patterns
 
 #### 4. The "Dual-Peak" Cycle (Sep & Dec) & 2022 Anomaly
-The brand follows a recurring annual "Dual-Peak" pattern. December represents the primary peak, delivering an average 46% revenue increase from the October trough, consistent with holiday-season demand. September represents a secondary peak, aligning with the back-to-school period and major annual tech launches. However, 2022 broke this pattern. While 2019-2021 averaged a 23% increase from July to September, the 2022 September spike completely vanished, contracting by 13.5% over the same period. 
+The brand follows a recurring annual "Dual-Peak" pattern. December represents the primary peak, delivering an average 46% revenue increase from the October trough, consistent with holiday-season demand. September represents a secondary peak, aligning with the back-to-school/campus demand and major annual tech launches. However, 2022 broke this pattern. While 2019-2021 averaged a 23% increase from July to September, the 2022 September spike completely vanished, contracting by 13.5% over the same period. 
 
 #### 5. February and October Troughs
 Enova also experiences two recurring cooling-off periods. October revenues consistently decline (averaging -31% vs. September),an understandable post-back-to-school drop that also coincides with the run-up to Black Friday and holiday promotions. Similarly, February represents the bottom of the post-holiday trough, typically dropping 32% below January across 2019, 2021 and 2022. However, 2020 presented a stark anomaly where February revenue actually grew by 4% versus January, coinciding with the early stages of the COVID-19 disruption.
