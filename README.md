@@ -104,8 +104,7 @@ Although 2022’s total revenue remained above the pre-COVID 2019 baseline, this
 The brand follows a recurring annual "Dual-Peak" pattern. December represents the primary peak, delivering an average 46% revenue increase from the October trough, consistent with holiday-season demand. September represents a secondary peak, aligning with the back-to-school period and major annual tech launches. However, 2022 broke this pattern. While 2019-2021 averaged a 23% increase from July to September, the 2022 September spike completely vanished, contracting by 13.5% over the same period. 
 
 #### 5. February and October Troughs
-Enova also experiences two predictable cooling-off periods. October revenues consistently decline (averaging -31% vs. September), an understandable drop following the back-to-school peak, and consumers strategically delaying spending ahead of Black Friday and Holiday sales. Similarly, February represents the bottom of the post-holiday trough, typically dropping 32% below January (across 2019, 2021–2022). However, 2020 presented a stark anomaly where February revenue actually grew by 4%, driven by the onset of COVID-19.
-
+Enova also experiences two recurring cooling-off periods. October revenues consistently decline (averaging -31% vs. September),an understandable post-back-to-school drop that also coincides with the run-up to Black Friday and holiday promotions. Similarly, February represents the bottom of the post-holiday trough, typically dropping 32% below January across 2019, 2021 and 2022. However, 2020 presented a stark anomaly where February revenue actually grew by 4% versus January, coinciding with the early stages of the COVID-19 disruption.
 
 <img width="1378" height="757" alt="image" src="https://github.com/user-attachments/assets/b9e35c1f-3c47-4ec6-a58c-de765011de8c" />
 
