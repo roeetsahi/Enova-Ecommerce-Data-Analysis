@@ -221,7 +221,7 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 * **Capital & Regional Optimization:** Reallocate active acquisition budgets from seasonal demand troughs to high-intent seasonal peaks, and conditionally shift capital from contracting markets (LATAM, pending structural diagnostic) to our highest-AOV APAC premium engine.
 * **Margin Protection & Risk Mitigation:** Diversify extreme product concentration through strategic catalog expansion, mandate return root-cause analysis to stop capital bleed from premium hardware, and deprioritize margin-eroding site-wide promotions in favor of strategic checkout cross-sells and bundles. 
 * **Loyalty Optimization & Retention:** Test a phased redesign of the Loyalty Program to protect margins and improve repeat purchasing by reducing reliance on aggressive sign-up discounts, shifting stronger financial incentives toward the second purchase, replacing mass emails with behavior-driven lifecycle campaigns, and streamlining enrollment via 1-click registration.
-* **Channel Optimization & Data Integrity:** Scale underleveraged, high-intent Affiliate partnerships to attract high-value customers, while urgently resolving 'Direct' channel attribution blindness to guarantee accurate ROI measurement.
+* **Channel Optimization & Data Integrity:** Prioritize attribution-quality improvements by addressing Direct and Unknown attribution gaps, diagnose the drivers of Email's persistently low AOV, and test incremental investment in the consistently high-AOV Affiliate channel, subject to validation of scalability and acquisition economics.
 
 ---
 
@@ -279,11 +279,11 @@ Prioritize acquisition budgets toward APAC to capitalize on its highest-AOV stat
 * **Phase 2 (Budget Reallocation):** If the contraction is structural with no operational quick-fix, freeze LATAM's proactive acquisition spend and reallocate this capital to scale APAC's premium engine.
 
 ### Marketing Channels
-**1. Resolving Data Blindness: Fixing 'Direct' & 'Unknown' Tracking Failures:**
-Perform a landing-page audit to deconstruct the 'Direct' misattribution ‘black box’ and isolate genuine direct traffic. Implement automated monitoring for UTM stripping and tag failures. Utilize a Data Quality Issue Log (DQIL) to assign engineering ownership and fix the May-October 2022 'Unknown' tracking rupture.
+**1. Resolving Attribution Blind Spots Across Direct & Unknown:**
+Audit Direct traffic using available landing-page, referrer, and campaign metadata to distinguish likely genuine direct visits from potentially unattributed traffic. Separately investigate the May-October 2022 Unknown surge for changes in campaign tagging, source-classification logic, or data ingestion. Implement automated monitoring for abnormal shifts in Direct/Unknown shares and maintain a Data Quality Issue Log (DQIL) with clear ownership to track attribution issues through remediation.
 
 **2. Diagnosing and Improving Email Basket Value:**
 Segment Email-attributed orders by product mix, promotional/discount usage, Loyalty status, and basket composition to identify the drivers of its persistently low AOV. Based on the findings, test targeted basket-expansion strategies such as complementary cross-sells, bundles, and higher-value product recommendations, measuring their impact on conversion, AOV, incremental revenue, and margin against the existing Email baseline. 
 
-**3. Scaling the Affiliate Engine Through High-Intent Reviewer Partnerships:**
+**3. Validating and Scaling the Affiliate Opportunity:**
 Reallocate budget from underperforming channels (e.g., Social Media) toward high-impact partnerships with professional tech reviewers, unlocking an untapped high-ticket audience. This expansion must be strictly governed by a margin analysis comparing acquisition costs against cart value.
