@@ -13,7 +13,7 @@ To leverage the company's previously underutilized historical data (2019–2022)
 * **Product Performance:** Analyze the overall performance of our product lines, including the financial impact of returns. Identify any vulnerabilities within the current catalog, and highlight opportunities for strategic optimization.
 * **Loyalty Program Effectiveness:** We drive our loyalty program via aggressive sign-up discounts and mass emails, but suspect it isn't generating genuine retention. Compare member versus non-member purchasing behavior to assess true customer value. Furthermore, how can we streamline enrollment, protect margins, and increase long-term stickiness?
 * **Regional Performance:** Evaluate our global sales distribution and determine how customer purchasing power differs across all regions. What region-specific strategies should we deploy to maximize revenue potential in each market?
-* **Marketing Channel Optimization:** Ahead of budget allocations, evaluate our marketing efficiency. Identify our most profitable acquisition sources and highlight underleveraged channels representing missed growth opportunities.
+* **Marketing Channel Optimization:** Ahead of budget allocations, evaluate channel performance across revenue, order volume, and AOV. Identify high-value channels, material shifts in the marketing mix, and opportunities to improve channel performance.
 
 </details>
 
