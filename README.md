@@ -63,7 +63,7 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 * **Product Concentration Risk:** The enterprise suffers from a severe lack of diversification, with just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently driving ~85% of total annual revenue, leaving the portfolio highly vulnerable to supply chain disruptions.
 * **Loyalty Program Contraction & Retention Underperformance:** Loyalty's monthly revenue share peaked at 63% in April 2022 before falling to 30% by year-end. While members exhibit faster repurchase cycles (fewer days between repeat orders), non-members consistently outpace enrolled users in annual repeat rates, closing 2022 at ~10% vs. ~4%.
 * **Regional Dynamics & Pricing Divergence:** North America acts as the absolute operational anchor, consistently driving >50% of global revenue and order volume annually. APAC solidified its position as the premium leader at an AOV of $283 in 2022, standing as the sole region to outpace its pre-COVID AOV baseline (+14.6%), while LATAM plummeted to an all-time global low of $193 AOV.
-* **The 'Direct' Attribution Black Box:** A systemic tracking failure causes the 'Direct' channel to implausibly absorb >75% of annual revenue. Acting as a catch-all for untracked sources (like Organic SEO and Paid Search), this blind spot completely obscures Customer Acquisition Cost (CAC) and risks massive budget misallocation.
+* **The 'Direct' Attribution Black Box:** Direct remained overwhelmingly dominant, accounting for 76% of revenue and 73% of orders in 2022, while Organic Search and Paid Search were absent from the channel taxonomy. This concentration raises significant attribution-quality concerns and limits reliable channel-level performance and budget-allocation analysis.
 * **Marketing Mix Divergence:** While Email doubled its share of both order volume (~20%) and revenue (~16%) by 2022, it consistently generated the lowest AOV across channels ($207 in 2022), indicating that its growing order contribution was concentrated in comparatively lower-value baskets. In contrast, Affiliate consistently generated the highest AOV ($359 in 2022), while its order share fell to just ~2%, highlighting a high-value but low-scale channel with potential for further growth, subject to scalability and unit-economics validation.
 
 ---
@@ -190,9 +190,9 @@ While NA and LATAM led regional AOV in 2019, 2020 triggered a structural reversa
 
 <img width="1378" height="754" alt="image" src="https://github.com/user-attachments/assets/0ae1a792-46af-4f84-8ad8-c64e4637b9e4" />
 
-###  Marketing Channel Efficiency
+###  Marketing Channel Performance & Attribution
 
-#### 1. The 'Direct' Black Box Attribution Failure
+#### 1. The 'Direct' Attribution Black Box
 Enova's marketing attribution is heavily concentrated in the 'Direct' channel, which accounted for 86% of revenue and 83% of order volume in 2019 and remained dominant in 2022 at 76% of revenue ($3.7M) and 73% of orders (13.8K). Combined with the complete absence of Organic Search and Paid Search categories, this concentration raises significant attribution-quality concerns and suggests that Direct may be absorbing traffic from sources that are not being separately classified. This limits reliable channel-level performance analysis and prevents robust CAC or budget-allocation decisions.
 
 #### 2. The 2022 'Unknown' Attribution Surge
@@ -202,10 +202,10 @@ The 'Unknown' channel remained below 0.7% of both annual revenue and order volum
 
 
 #### 3. Email Growth with Persistently Low AOV
-Email expanded consistently year-over-year, doubling its share of order volume from 11% to 20% and revenue from 8% to 16% between 2019 and 2022.However, it recorded the lowest AOV among tracked channels in every year, reaching just $207 in 2022. This indicates that Email's growing contribution to order volume has remained concentrated in comparatively lower-value baskets.
+Email expanded consistently year-over-year, doubling its share of order volume from 11% to 20% and revenue from 8% to 16% between 2019 and 2022. However, it recorded the lowest AOV among tracked channels in every year, reaching just $207 in 2022. This indicates that Email's growing contribution to order volume has remained concentrated in comparatively lower-value baskets.
 
 #### 4. Affiliate: High AOV, Declining Scale
-The Affiliate channel consistently generated Enova’s highest yearly AOV, reaching $359 in 2022, 24% above its $289 pre-COVID baseline. However, order volume fell 41% to just 379 orders in 2022, reducing its revenue share from ~5% to 3%. This combination of consistently high basket value and declining scale highlights a potential growth opportunity, subject to validation of channel scalability, acquisition economics, and partner-level performance before additional investment.
+The Affiliate channel consistently generated Enova’s highest yearly AOV, reaching $359 in 2022, 24% above its $289 pre-COVID baseline. However, order volume fell ~40% from the 2019 baseline to just 379 orders in 2022, reducing its revenue share from ~5% to 3%. This combination of consistently high basket value and declining scale highlights a potential growth opportunity, subject to validation of channel scalability, acquisition economics, and partner-level performance before additional investment.
 
 <img width="970" height="746" alt="image" src="https://github.com/user-attachments/assets/5d336cbd-5d0e-4630-bc2c-4feaaf0bde62" />
 
