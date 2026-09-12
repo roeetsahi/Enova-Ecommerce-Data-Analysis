@@ -228,7 +228,7 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 # Recommendations: Strategic Deep Dive
 
 ### Overall Sales Trends: Seasonality & Promotional Strategy
-*Strategic Direction: Test incremental acquisition investment during historically stronger seasonal peaks, while shifting emphasis toward owned retention channels during recurring demand troughs.*
+*Strategic Direction: Test incremental acquisition investment during historically stronger seasonal peaks, while focusing recurring demand troughs on owned retention channels and inventory-focused initiatives.*
 
 **A. Optimizing Peak Seasons (Maximizing AOV & Margins)**
 * **December Peak - Optimization via Basket Expansion:** Given December's historically strongest revenue performance amid holiday-season demand, test basket-expansion tactics before relying on broad site-wide discounts. Evaluate strategic bundles, targeted cross-sells, and up-sells based on their impact on conversion, AOV, incremental revenue, and margin.
