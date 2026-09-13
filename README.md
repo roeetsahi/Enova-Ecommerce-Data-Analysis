@@ -185,7 +185,7 @@ North America remained Enova's largest region throughout the period, contributin
 | APAC | $620K | 13% | 2.2K | 12% |
 | LATAM | $256K | 5% | 1.3K | 7% |
 
-#### 3. The AOV Divergence: APAC's Premium Pivot vs. LATAM's Collapse
+#### 3. Regional AOV Divergence: APAC Resilience vs. LATAM Deterioration
 While NA and LATAM led regional AOV in 2019, 2020 triggered a structural reversal as APAC surged to first place with a $375 record peak, retaining the top annual AOV spot ever since. Despite a surging US Dollar in 2022 - which drove widespread local currency depreciation, APAC retained its leadership at a $283 AOV, Proving robust organic demand and a strong product mix. APAC is also the sole region to outpace its pre-pandemic baseline (+14.6% vs 2019). Conversely, LATAM's 2022 AOV plummeted to $193 (-28.5% vs 2019), indicating deep structural or operational issues beyond just currency translation.
 
 <img width="1378" height="754" alt="image" src="https://github.com/user-attachments/assets/0ae1a792-46af-4f84-8ad8-c64e4637b9e4" />
