@@ -274,9 +274,9 @@ Given NA's position as Enova's largest market and its 2022 AOV of $268 remaining
 **2. Scaling the APAC Premium Engine & Playbook Development:**
 Prioritize acquisition budgets toward APAC to capitalize on its highest-AOV status. Leverage the underutilized Affiliate channel (tech reviewers) to attract high-intent buyers for premium hardware. Analyze APAC’s successful product/marketing mix to create a replicable "Premium Playbook" for EMEA and NA.
 
-**3. LATAM: Macro-Adjusted Diagnostic & Strategic Containment:**
-* **Phase 1 (Macro-Adjusted Rapid Diagnostic):** Isolate the 2022 macroeconomic FX (foreign exchange) erosion. Quantify if the remaining AOV decline stems from internal failures (aggressive discounting) or external structural shifts (eroded purchasing power).
-* **Phase 2 (Budget Reallocation):** If the contraction is structural with no operational quick-fix, freeze LATAM's proactive acquisition spend and reallocate this capital to scale APAC's premium engine.
+**3. LATAM: Time-Boxed AOV Diagnostic Before Capital Reallocation:**
+* **Phase 1 - Diagnostic:** Isolate the 2022 macroeconomic FX (foreign exchange) erosion. Quantify if the remaining AOV decline stems from internal failures (aggressive discounting) or external structural shifts (eroded purchasing power).
+* **Phase 2 - Capital Allocation:** If the contraction is structural with no operational quick-fix, freeze LATAM's proactive acquisition spend and reallocate this capital to scale APAC's premium engine.
 
 ### Marketing Channels
 **1. Resolving Attribution Blind Spots Across Direct & Unknown:**
