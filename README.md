@@ -166,8 +166,8 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
 
 ###  Regional Dynamics
 
-#### 1. Global Synchronization: Regional Data Validates Macro-Trends
-Regional analysis reveals near-perfect seasonal synchronization, confirming that the company’s volatility was driven by global market forces rather than localized issues. The historic macro boom of 2020 surged uniformly worldwide, with every territory exceeding >150% in annual revenue growth compared to 2019. Conversely, 2022 experienced a synchronized systemic contraction, with every region recording aggressive downward trajectories that culminated in unprecedented baseline lows in Q4 2022.
+#### 1. Broad Regional Co-Movement with LATAM Deviations
+Regional revenue trajectories moved broadly in tandem throughout the period, with North America, EMEA, and APAC showing strong alignment in monthly movements and recurring seasonal peaks and troughs. This pattern extended to the broader business cycle, with all four regions expanding sharply in 2020 and contracting again in 2022. LATAM generally followed the same direction but exhibited weaker month-to-month alignment and more frequent deviations from the common seasonal pattern.
 
 
 <img width="1502" height="755" alt="image" src="https://github.com/user-attachments/assets/845bfaff-1279-4dc8-929e-c57de5c35f69" />
@@ -186,7 +186,7 @@ North America remained Enova's largest region throughout the period, contributin
 | LATAM | $256K | 5% | 1.3K | 7% |
 
 #### 3. Regional AOV Divergence: APAC Resilience vs. LATAM Deterioration
-While NA and LATAM led regional AOV in 2019, 2020 triggered a structural reversal as APAC surged to first place with a $375 record peak, retaining the top annual AOV spot ever since. Despite a surging US Dollar in 2022 - which drove widespread local currency depreciation, APAC retained its leadership at a $283 AOV, Proving robust organic demand and a strong product mix. APAC is also the sole region to outpace its pre-pandemic baseline (+14.6% vs 2019). Conversely, LATAM's 2022 AOV plummeted to $193 (-28.5% vs 2019), indicating deep structural or operational issues beyond just currency translation.
+The regional AOV ranking shifted materially after 2019. APAC moved from the lowest AOV in 2019 ($247) to the highest in 2020 ($375) and retained the top annual AOV position through 2022. At $283 in 2022, APAC remained 14.6% above its 2019 baseline and was the only region to finish above its pre-COVID level. In contrast, LATAM declined from $270 to $193 over the same period, a 28.5% drop and the lowest regional annual AOV observed in the dataset.
 
 <img width="1378" height="754" alt="image" src="https://github.com/user-attachments/assets/0ae1a792-46af-4f84-8ad8-c64e4637b9e4" />
 
