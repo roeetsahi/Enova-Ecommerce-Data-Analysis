@@ -62,7 +62,7 @@ To ensure high data integrity and prevent analytical bias, a rigorous data clean
 
 * **Product Concentration Risk:** The enterprise suffers from a severe lack of diversification, with just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently driving ~85% of total annual revenue, leaving the portfolio highly vulnerable to supply chain disruptions.
 * **Loyalty Program Contraction & Retention Underperformance:** Loyalty's monthly revenue share peaked at 63% in April 2022 before falling to 30% by year-end. While members exhibit faster repurchase cycles (fewer days between repeat orders), non-members consistently outpace enrolled users in annual repeat rates, closing 2022 at ~10% vs. ~4%.
-* **Regional Scale & AOV Divergence:** Regional Scale & AOV Divergence: North America remained Enova’s largest market throughout 2019-2022, accounting for ~49-55% of annual revenue and more than 50% of order volume each year. APAC emerged as the AOV leader from 2020 onward, closing 2022 at $283 and standing as the only region above its 2019 AOV baseline (+14.6%). In contrast, LATAM fell to $193, 28.5% below 2019 and the lowest regional annual AOV in the four-year period.
+* **Regional Scale & AOV Divergence:** North America remained Enova’s largest market throughout 2019-2022, accounting for ~49-55% of annual revenue and more than 50% of order volume each year. APAC emerged as the AOV leader from 2020 onward, closing 2022 at $283 and standing as the only region above its 2019 AOV baseline (+14.6%). In contrast, LATAM fell to $193, 28.5% below 2019 and the lowest regional annual AOV in the four-year period.
 * **The 'Direct' Attribution Black Box:** Direct remained overwhelmingly dominant, accounting for 76% of revenue and 73% of orders in 2022, while Organic Search and Paid Search were absent from the channel taxonomy. This concentration raises significant attribution-quality concerns and limits reliable channel-level performance and budget-allocation analysis.
 * **Marketing Mix Divergence:** While Email doubled its share of both order volume (~20%) and revenue (~16%) by 2022, it consistently generated the lowest AOV across channels ($207 in 2022), indicating that its growing order contribution was concentrated in comparatively lower-value baskets. In contrast, Affiliate consistently generated the highest AOV ($359 in 2022), while its order share fell to just ~2%, highlighting a high-value but low-scale channel with potential for further growth, subject to scalability and unit-economics validation.
 
@@ -173,7 +173,7 @@ Regional revenue trajectories moved broadly in tandem throughout the period, wit
 <img width="1502" height="755" alt="image" src="https://github.com/user-attachments/assets/845bfaff-1279-4dc8-929e-c57de5c35f69" />
 
 
-#### 2. North America Enova's Scale Anchor
+#### 2. North America: Enova's Scale Anchor
 North America remained Enova's largest region throughout the period, contributing ~49-55% of annual revenue and 51-53% of annual order volume. In 2022, NA generated ~$2.7M from ~10.1K orders, nearly twice EMEA's scale, the second-largest region. LATAM remained the smallest market, contributing approximately 5-6% of annual revenue throughout the period.
 
 **The North America Fortress: 2022 Regional Market Share Snapshot**
@@ -185,7 +185,7 @@ North America remained Enova's largest region throughout the period, contributin
 | APAC | $620K | 13% | 2.2K | 12% |
 | LATAM | $256K | 5% | 1.3K | 7% |
 
-#### 3. Regional AOV Divergence: APAC Resilience vs. LATAM Deterioration
+#### 3. Regional AOV Divergence: APAC AOV Resilience vs. LATAM Deterioration
 The regional AOV ranking shifted materially after 2019. APAC moved from the lowest AOV in 2019 ($247) to the highest in 2020 ($375) and retained the top annual AOV position through 2022. At $283 in 2022, APAC remained 14.6% above its 2019 baseline and was the only region to finish above its pre-COVID level. In contrast, LATAM declined from $270 to $193 over the same period, a 28.5% drop and the lowest regional annual AOV observed in the dataset.
 
 <img width="1378" height="754" alt="image" src="https://github.com/user-attachments/assets/0ae1a792-46af-4f84-8ad8-c64e4637b9e4" />
@@ -218,7 +218,8 @@ The Affiliate channel consistently generated Enova’s highest yearly AOV, reach
 # Recommendations: Executive Summary
 To maximize long-term profitability and address core stakeholder objectives, we must pivot from volume-chasing acquisition toward strict capital efficiency via four strategic shifts:
 
-* **Capital & Regional Optimization:** Reallocate active acquisition budgets from seasonal demand troughs to high-intent seasonal peaks, and conditionally shift capital from contracting markets (LATAM, pending structural diagnostic) to our highest-AOV APAC premium engine.
+* **Seasonality?:** Reallocate active acquisition budgets from seasonal demand troughs to high-intent seasonal peaks, and conditionally shift capital from contracting markets (LATAM, pending structural diagnostic) to our highest-AOV APAC premium engine.
+* **Regional Portfolio Optimization:** Leverage North America's scale through basket-value expansion, validate APAC's high-AOV opportunity before testing incremental investment, and conduct a time-boxed constant-currency diagnostic in LATAM before reallocating marginal acquisition budget.
 * **Margin Protection & Risk Mitigation:** Diversify extreme product concentration through strategic catalog expansion, mandate return root-cause analysis to stop capital bleed from premium hardware, and deprioritize margin-eroding site-wide promotions in favor of strategic checkout cross-sells and bundles. 
 * **Loyalty Optimization & Retention:** Test a phased redesign of the Loyalty Program to protect margins and improve repeat purchasing by reducing reliance on aggressive sign-up discounts, shifting stronger financial incentives toward the second purchase, replacing mass emails with behavior-driven lifecycle campaigns, and streamlining enrollment via 1-click registration.
 * **Channel Optimization & Data Integrity:** Prioritize attribution-quality improvements by addressing Direct and Unknown attribution gaps, diagnose the drivers of Email's persistently low AOV, and test incremental investment in the consistently high-AOV Affiliate channel, subject to validation of scalability and acquisition economics.
@@ -272,7 +273,7 @@ Highlight program benefits directly within the checkout flow to capture returnin
 Given NA's position as Enova's largest market and its 2022 AOV remaining below the 2019 baseline, test basket-expansion strategies such as complementary cross-sells, targeted bundles, and checkout product recommendations. Measure attach rate, conversion, AOV, incremental revenue, and margin against a defined NA control baseline before broader rollout.
 
 **2. APAC: Validating and Testing the High-AOV Opportunity:**
-Decompose APAC's sustained AOV leadership by country, FX exposure, product mix, basket composition, pricing and promotions, and marketing channel mix to identify the drivers associated with its higher basket value. If market-level acquisition economics, contribution margin, and scalability support expansion, test incremental investment in the strongest APAC segments.Evaluate whether validated APAC drivers, such as specific product bundles, categories, or channel strategies, can be tested in NA and EMEA where the same products and relevant customer segments are present.
+Decompose APAC's sustained AOV leadership by country, FX exposure, product mix, basket composition, pricing and promotions where available, and marketing channel mix to identify the drivers associated with its higher basket value. If market-level acquisition economics, contribution margin, and scalability support expansion, test incremental investment in the strongest APAC segments. Test whether validated APAC basket-value drivers can be replicated in comparable NA and EMEA segments.
 
 **3. LATAM: Time-Boxed AOV Diagnostic Before Capital Reallocation:**
 * **Phase 1 - Diagnostic:** Conduct a time-boxed country-level constant-currency analysis using transaction date, currency, local price, USD price, and historical FX rates to separate potential currency-translation effects from underlying basket-value changes. Decompose the remaining AOV deterioration  by product mix, basket composition, pricing and promotions where available, and marketing channel.
