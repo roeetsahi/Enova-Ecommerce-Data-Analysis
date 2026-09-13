@@ -269,7 +269,7 @@ Highlight program benefits directly within the checkout flow to capture returnin
 
 ### Regions
 **1. North America: Leveraging Scale to Expand Basket Value:**
-Given NA's position as Enova's largest market and its 2022 AOV of $268 remaining below the $281 2019 baseline, test basket-expansion strategies such as complementary cross-sells, targeted bundles, and checkout product recommendations. Measure attach rate, conversion, AOV, incremental revenue, and margin against the existing NA baseline before broader rollout.
+Given NA's position as Enova's largest market and its 2022 AOV remaining below the 2019 baseline, test basket-expansion strategies such as complementary cross-sells, targeted bundles, and checkout product recommendations. Measure attach rate, conversion, AOV, incremental revenue, and margin against a defined NA control baseline before broader rollout.
 
 **2. Scaling the APAC Premium Engine & Playbook Development:**
 Prioritize acquisition budgets toward APAC to capitalize on its highest-AOV status. Leverage the underutilized Affiliate channel (tech reviewers) to attract high-intent buyers for premium hardware. Analyze APAC’s successful product/marketing mix to create a replicable "Premium Playbook" for EMEA and NA.
