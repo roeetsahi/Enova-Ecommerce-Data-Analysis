@@ -271,12 +271,12 @@ Highlight program benefits directly within the checkout flow to capture returnin
 **1. North America: Leveraging Scale to Expand Basket Value:**
 Given NA's position as Enova's largest market and its 2022 AOV remaining below the 2019 baseline, test basket-expansion strategies such as complementary cross-sells, targeted bundles, and checkout product recommendations. Measure attach rate, conversion, AOV, incremental revenue, and margin against a defined NA control baseline before broader rollout.
 
-**2. Scaling the APAC Premium Engine & Playbook Development:**
-Prioritize acquisition budgets toward APAC to capitalize on its highest-AOV status. Leverage the underutilized Affiliate channel (tech reviewers) to attract high-intent buyers for premium hardware. Analyze APAC’s successful product/marketing mix to create a replicable "Premium Playbook" for EMEA and NA.
+**2. APAC: Validating and Testing the High-AOV Opportunity:**
+Decompose APAC's sustained AOV leadership by country, FX exposure, product mix, basket composition, pricing and promotions, and marketing channel mix to identify the drivers associated with its higher basket value. If market-level acquisition economics, contribution margin, and scalability support expansion, test incremental investment in the strongest APAC segments.Evaluate whether validated APAC drivers, such as specific product bundles, categories, or channel strategies, can be tested in NA and EMEA where the same products and relevant customer segments are present.
 
 **3. LATAM: Time-Boxed AOV Diagnostic Before Capital Reallocation:**
-* **Phase 1 - Diagnostic:** Isolate the 2022 macroeconomic FX (foreign exchange) erosion. Quantify if the remaining AOV decline stems from internal failures (aggressive discounting) or external structural shifts (eroded purchasing power).
-* **Phase 2 - Capital Allocation:** If the contraction is structural with no operational quick-fix, freeze LATAM's proactive acquisition spend and reallocate this capital to scale APAC's premium engine.
+* **Phase 1 - Diagnostic:** Conduct a time-boxed country-level constant-currency analysis using transaction date, currency, local price, USD price, and historical FX rates to separate potential currency-translation effects from underlying basket-value changes. Decompose the remaining AOV deterioration  by product mix, basket composition, pricing and promotions where available, and marketing channel.
+* **Phase 2 - Capital Allocation:** If constant-currency performance and market-level economics remain weak after addressable commercial drivers are evaluated, limit incremental acquisition investment in LATAM, maintain a controlled test budget, and reallocate marginal acquisition budget toward better-validated regional opportunities. If the decline is linked to addressable pricing, product, or channel factors, address them and re-test before broader budget changes.
 
 ### Marketing Channels
 **1. Resolving Attribution Blind Spots Across Direct & Unknown:**
