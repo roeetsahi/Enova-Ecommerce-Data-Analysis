@@ -173,8 +173,8 @@ Regional analysis reveals near-perfect seasonal synchronization, confirming that
 <img width="1502" height="755" alt="image" src="https://github.com/user-attachments/assets/845bfaff-1279-4dc8-929e-c57de5c35f69" />
 
 
-#### 2. The North America Fortress: NA Consistently Drives Over 50% of Global Revenue and Order Volume
-North America acts as the company's absolute anchor, consistently capturing over 50% of global revenue and volume annually. This dominance peaked in 2022, with NA driving ~55% of global revenue ($2.7M) and accounting for ~53% of total orders (10.1K) - nearly double the scale of EMEA, the company's second-largest region. In stark contrast, LATAM consistently lags as the smallest regional market, stagnating at just ~5% of global revenue.
+#### 2. North America Enova's Scale Anchor
+North America remained Enova's largest region throughout the period, contributing ~49-55% of annual revenue and 51-53% of annual order volume. In 2022, NA generated ~$2.7M from ~10.1K orders, nearly twice EMEA's scale, the second-largest region. LATAM remained the smallest market, contributing approximately 5-6% of annual revenue throughout the period.
 
 **The North America Fortress: 2022 Regional Market Share Snapshot**
 
