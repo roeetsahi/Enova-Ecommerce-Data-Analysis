@@ -167,7 +167,7 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
 ###  Regional Dynamics
 
 #### 1. Broad Regional Co-Movement with LATAM Deviations
-Regional revenue trajectories moved broadly in tandem throughout the period, with North America, EMEA, and APAC showing strong alignment in monthly movements and recurring seasonal peaks and troughs. This pattern extended to the broader business cycle, with all four regions expanding sharply in 2020 and contracting again in 2022. LATAM generally followed the same direction but exhibited weaker month-to-month alignment and more frequent deviations from the common seasonal pattern.
+Regional revenue trajectories moved broadly in tandem throughout the period, with North America, EMEA, and APAC showing strong alignment in monthly movements and recurring seasonal peaks and troughs. This pattern extended to the broader business cycle, with all four regions expanding sharply in 2020 and contracting in 2022. LATAM generally followed the same direction but exhibited weaker alignment in month-over-month percentage changes and more frequent deviations from the common seasonal pattern.
 
 
 <img width="1502" height="755" alt="image" src="https://github.com/user-attachments/assets/845bfaff-1279-4dc8-929e-c57de5c35f69" />
