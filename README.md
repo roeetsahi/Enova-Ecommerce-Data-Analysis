@@ -268,8 +268,8 @@ Replace generic mass mailings with personalized Lifecycle Flows to reduce potent
 Highlight program benefits directly within the checkout flow to capture returning guest shoppers. Test rapid-enrollment options such as Google/Apple Login with a one-click marketing opt-in to reduce enrollment friction.
 
 ### Regions
-**1. North America: Leveraging Massive Volume to Drive Cart Value:**
-Implement strategic, one-click cross-sell bundles at checkout to drive immediate AOV lift per transaction and capitalize on NA's massive traffic volume, addressing the erosion of NA's AOV below its pre-pandemic baseline.
+**1. North America: Leveraging Scale to Expand Basket Value:**
+Given NA's position as Enova's largest market and its 2022 AOV of $268 remaining below the $281 2019 baseline, test basket-expansion strategies such as complementary cross-sells, targeted bundles, and checkout product recommendations. Measure attach rate, conversion, AOV, incremental revenue, and margin against the existing NA baseline before broader rollout.
 
 **2. Scaling the APAC Premium Engine & Playbook Development:**
 Prioritize acquisition budgets toward APAC to capitalize on its highest-AOV status. Leverage the underutilized Affiliate channel (tech reviewers) to attract high-intent buyers for premium hardware. Analyze APAC’s successful product/marketing mix to create a replicable "Premium Playbook" for EMEA and NA.
