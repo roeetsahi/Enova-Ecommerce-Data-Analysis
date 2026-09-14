@@ -248,8 +248,9 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 Analyze multi-item orders to distinguish standalone accessory purchases from accessories attached to higher-ticket products and identify the strongest product affinities. Test targeted cross-sells and bundles around validated pairings, measuring attach rate, AOV, conversion, incremental revenue, and contribution margin against a control baseline. 
 
 
-**3. Liquidating & Delisting Bose Headphones:**
-With near-zero demand for the Bose SoundSport, liquidate remaining inventory and permanently delist the SKU to eliminate overhead and free up warehouse capacity. 
+**3. Evaluating iPhone Strategic Fit:**
+Diagnose whether iPhone's persistent sub-1% revenue contribution reflects pricing competitiveness, assortment breadth, stock availability, product-page traffic and conversion, competitive positioning, or genuinely weak customer demand.
+If the diagnostic identifies viable demand and unit economics, test targeted cross-selling to relevant MacBook and AirPods customers and selected ecosystem bundles, measuring conversion, attach rate, AOV, incremental revenue, and contribution margin before broader investment. 
 
 **4. Mitigating Returns via Root Cause Analysis:**
 Implement a mandatory 'Return Reason' field to enable robust Root Cause Analysis. Insights will unlock targeted operational fixes:
