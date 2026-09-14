@@ -114,7 +114,7 @@ Enova also exhibited two recurring cooling-off periods. October revenues consist
 
 ###  Product Performance
 
-#### 1. Severe Product Concentration Risk
+#### 1. High SKU Concentration Across Revenue and Item Volume
 Just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently drive ~85% of annual revenue. Similarly, on the operational side, over 85% of annual unit volume comes from a nearly identical, narrow subset (Gaming Monitor, AirPods, and Samsung Cables). This extreme lack of diversification makes the enterprise highly vulnerable to supply chain disruptions, price wars, and heavy vendor concentration. 
 
 #### 2. Accessories: High Volume, Low Yield
