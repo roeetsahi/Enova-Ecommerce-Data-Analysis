@@ -244,10 +244,9 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 * **Leverage Samsung Brand Trust:** Capitalize on the growing, high-volume demand for Samsung accessories by introducing premium, higher-margin Samsung hardware (laptops, smartphones). *Implementation Note: Test via a Dropshipping or 3P Marketplace model first to validate demand.*
 * **Diversify Ecosystem Peripherals:** Based on site search demand, introduce complementary accessories for customized cross-selling: Input Devices (keyboards, mice), Connectivity & Audio (Apple cables, Samsung earbuds), and Workspace Essentials (microphones, laptop bags).
 
-**2. Reviving iPhone Growth: Ecosystem Bundles & Cross-Selling**
-* **Pricing Audit:** Ensure iPhone pricing aligns with market standards to remove baseline purchase barriers.
-* **Targeted CRM Cross-Selling:** Deploy campaigns targeting past MacBook and AirPods buyers to drive mobile sales.
-* **Ecosystem Bundles:** Launch margin-safe accessory bundles (e.g., iPhone + 50% off charger and case) paired with BNPL and Trade-in.
+**2. Evaluating Accessories as Basket Builders**
+Analyze multi-item orders to distinguish standalone accessory purchases from accessories attached to higher-ticket products and identify the strongest product affinities. Test targeted cross-sells and bundles around validated pairings, measuring attach rate, AOV, conversion, incremental revenue, and contribution margin against a control baseline. 
+
 
 **3. Liquidating & Delisting Bose Headphones:**
 With near-zero demand for the Bose SoundSport, liquidate remaining inventory and permanently delist the SKU to eliminate overhead and free up warehouse capacity. 
