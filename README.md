@@ -132,8 +132,8 @@ Apple AirPods and MacBook Air together contributed roughly half of Enova's annua
 | 🟢 **Apple Ecosystem** (AirPods & MacBook) | $1.89M | $2.27M | **49.9%** |
 | 🔴 **Apple iPhone** | $34K | $30K | **0.7%** |
 
-#### 4. The High Cost of Premium Returns
-While the ~12% return rates for MacBook Air and ThinkPad laptops align with industry benchmarks, their high retail prices drain over $1.1M in refunded value, causing substantial margin erosion. Additionally, despite a healthy ~6% return rate, the 27in Gaming Monitor's massive order volume drives another ~$643K in refunds.
+#### 4. Return Exposure Concentrated in Core Products
+MacBook Air and ThinkPad recorded the highest return rates in the catalog at ~11-12%, generating a combined ~$1.13M in refunded merchandise value. The Gaming Monitor added another ~$643K despite a lower ~6% return rate, while AirPods generated ~$430K amid substantially higher item volume. Together, these four products accounted for ~$2.2M, or ~98% of all recorded refunded merchandise value.
 
 <img width="1381" height="740" alt="image" src="https://github.com/user-attachments/assets/489ee6ea-ac30-4268-8ea6-de4d9408a860" />
 
