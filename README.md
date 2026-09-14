@@ -170,7 +170,7 @@ Throughout the 2020-2022 period, despite Loyalty members' velocity advantage, th
 Regional revenue trajectories moved broadly in tandem throughout the period, with North America, EMEA, and APAC showing strong alignment in monthly movements and recurring seasonal peaks and troughs. This pattern extended to the broader business cycle, with all four regions expanding sharply in 2020 and contracting in 2022. LATAM generally followed the same direction but exhibited weaker alignment in month-over-month percentage changes and more frequent deviations from the common seasonal pattern.
 
 
-<img width="1502" height="755" alt="image" src="https://github.com/user-attachments/assets/845bfaff-1279-4dc8-929e-c57de5c35f69" />
+<img width="1437" height="766" alt="image" src="https://github.com/user-attachments/assets/884201fd-8e83-44c8-afe8-d486f66fbb37" />
 
 
 #### 2. North America: Enova's Scale Anchor
@@ -207,7 +207,8 @@ Email expanded consistently year-over-year, doubling its share of order volume f
 #### 4. Affiliate: High AOV, Declining Scale
 The Affiliate channel consistently generated Enova’s highest yearly AOV, reaching $359 in 2022, 24% above its $289 pre-COVID baseline. However, order volume fell ~40% from the 2019 baseline to just 379 orders in 2022, reducing its revenue share from ~5% to 3%. This combination of consistently high basket value and declining scale highlights a potential growth opportunity, subject to validation of channel scalability, acquisition economics, and partner-level performance before additional investment.
 
-<img width="970" height="746" alt="image" src="https://github.com/user-attachments/assets/5d336cbd-5d0e-4630-bc2c-4feaaf0bde62" />
+<img width="970" height="746" alt="image" src="https://github.com/user-attachments/assets/15290638-a7c8-4953-b586-6965d8b9e2cf" />
+
 
 
 
