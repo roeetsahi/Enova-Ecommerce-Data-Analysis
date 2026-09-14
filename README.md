@@ -148,7 +148,7 @@ The Loyalty Program evolved from a marginal initiative (yielding a single-digit 
 #### 2. The AOV Inflection: Emerging Loyalty Premium
 Following non-member AOV dominance through mid-2021, Q3 2021 marked an inflection point where Loyalty members began achieving a higher AOV than non-members. Across 2022 overall, members posted a $274 AOV, an 11% premium over non-members ($247). However, the quarterly breakdown shows this advantage was not sustained through year-end, with non-members again outpacing Loyalty in Q4 ($300 vs. $267). 
 
-<img width="1381" height="758" alt="image" src="https://github.com/user-attachments/assets/70968ec4-4130-4a05-9515-b779861dff2d" />
+<img width="1442" height="756" alt="image" src="https://github.com/user-attachments/assets/9a5d69f8-0715-4355-b053-0c80fc260ec2" />
 
 
 #### 3. The Member Velocity Advantage in Buying Cycles
