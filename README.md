@@ -115,7 +115,7 @@ Enova also exhibited two recurring cooling-off periods. October revenues consist
 ###  Product Performance
 
 #### 1. High SKU Concentration Across Revenue and Item Volume
-Just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently drive ~85% of annual revenue. Similarly, on the operational side, over 85% of annual unit volume comes from a nearly identical, narrow subset (Gaming Monitor, AirPods, and Samsung Cables). This extreme lack of diversification makes the enterprise highly vulnerable to supply chain disruptions, price wars, and heavy vendor concentration. 
+Just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently generated ~85% of annual revenue. Item volume was similarly concentrated, with three products (Gaming Monitor, AirPods, and Samsung Charging Cable) accounting for at least ~84% annually. This concentration increases exposure to product-specific changes in demand, availability, pricing, or competitive conditions. 
 
 #### 2. Accessories: High Volume, Low Yield
 The Accessories category (Samsung Cables and Webcams) generates high unit volume with minimal financial return. In 2020, these items drove 21.5% of unit volume but only 2% of revenue. By 2022, this operational drag widened, consuming 32% of total volume for just 4% of revenue. This high-volume, low-yield profile inflates logistics overhead with negligible financial impact.
