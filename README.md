@@ -218,7 +218,7 @@ The Affiliate channel consistently generated Enova’s highest yearly AOV, reach
 # Recommendations: Executive Summary
 To maximize long-term profitability and address core stakeholder objectives, we must pivot from volume-chasing acquisition toward strict capital efficiency via four strategic shifts:
 
-* **Seasonality?:** Reallocate active acquisition budgets from seasonal demand troughs to high-intent seasonal peaks, and conditionally shift capital from contracting markets (LATAM, pending structural diagnostic) to our highest-AOV APAC premium engine.
+* **Seasonal Revenue Optimization:** Prioritize basket expansion over broad discounting during the December peak, diagnose the missing 2022 September peak before scaling targeted September demand-capture strategies, and use recurring October and February troughs for targeted retention and inventory-focused initiatives.
 * **Regional Portfolio Optimization:** Leverage North America's scale through basket-value expansion, validate the drivers and economics behind APAC's high AOV before testing incremental investment, and use a time-boxed constant-currency diagnostic in LATAM to guide marginal acquisition-budget reallocation.
 * **Margin Protection & Risk Mitigation:** Diversify extreme product concentration through strategic catalog expansion, mandate return root-cause analysis to stop capital bleed from premium hardware, and deprioritize margin-eroding site-wide promotions in favor of strategic checkout cross-sells and bundles. 
 * **Loyalty Optimization & Retention:** Test a phased redesign of the Loyalty Program to protect margins and improve repeat purchasing by reducing reliance on aggressive sign-up discounts, shifting stronger financial incentives toward the second purchase, replacing mass emails with behavior-driven lifecycle campaigns, and streamlining enrollment via 1-click registration.
@@ -229,7 +229,6 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 # Recommendations: Strategic Deep Dive
 
 ### Overall Sales Trends: Seasonality & Promotional Strategy
-*Strategic Direction: Test incremental acquisition investment during historically stronger seasonal peaks, while focusing recurring demand troughs on owned retention channels and inventory-focused initiatives.*
 
 **A. Optimizing Peak Seasons (Maximizing AOV & Margins)**
 * **December Peak - Optimization via Basket Expansion:** Given December's historically strongest revenue performance amid holiday-season demand, test basket-expansion tactics before relying on broad site-wide discounts. Evaluate strategic bundles, targeted cross-sells, and up-sells based on their impact on conversion, AOV, incremental revenue, and margin.
