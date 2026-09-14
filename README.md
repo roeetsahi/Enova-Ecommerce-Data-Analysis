@@ -124,8 +124,8 @@ Samsung Charging Cables and Webcams accounted for 21.5% of item volume but only 
 <img width="1294" height="688" alt="image" src="https://github.com/user-attachments/assets/57217228-2c79-470a-a223-7d3806263d8a" />
 
 
-#### 3. High Apple Reliance and Zero Mobile Penetration
-While the Apple ecosystem dominates the business, driving ~50% of total revenue, the enterprise entirely misses the core mobile market. For four consecutive years, iPhone sales have flatlined at <1% of total revenue, highlighting a massive missed cross-selling opportunity.
+#### 3. Apple Ecosystem Concentration with Minimal iPhone Contribution
+Apple AirPods and MacBook Air together contributed roughly half of Enova's annual revenue on average, while iPhone remained below 1% throughout the period, generating just ~$30K in 2022.
 
 | Product Category | 2019 Revenue | 2022 Revenue | 4-Year Avg. Revenue Share |
 | :--- | :---: | :---: | :---: |
