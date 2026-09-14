@@ -112,7 +112,7 @@ Enova also exhibited two recurring cooling-off periods. October revenues consist
 <br>
 <br>
 
-###  Product Performance
+###  Product Catalog Performance
 
 #### 1. High SKU Concentration Across Revenue and Item Volume
 Just three SKUs (Gaming Monitor, Apple AirPods, and MacBook Air) consistently generated ~85% of annual revenue. Item volume was similarly concentrated, with three products (Gaming Monitor, AirPods, and Samsung Charging Cable) accounting for at least ~84% annually. This concentration increases exposure to product-specific changes in demand, availability, pricing, or competitive conditions. 
@@ -135,7 +135,6 @@ Apple AirPods and MacBook Air together contributed roughly half of Enova's annua
 #### 4. Return Exposure Concentrated in Core Products
 MacBook Air and ThinkPad recorded the highest return rates in the catalog at ~11-12%, generating a combined ~$1.13M in refunded merchandise value. The Gaming Monitor added another ~$643K despite a lower ~6% return rate, while AirPods generated ~$430K amid substantially higher item volume. Together, these four products accounted for ~$2.2M, or ~98% of all recorded refunded merchandise value.
 
-<img width="1381" height="740" alt="image" src="https://github.com/user-attachments/assets/489ee6ea-ac30-4268-8ea6-de4d9408a860" />
 <img width="1392" height="732" alt="image" src="https://github.com/user-attachments/assets/60a8c749-e962-4d42-ba07-57dea7c6c880" />
 
 
