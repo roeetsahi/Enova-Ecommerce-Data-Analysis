@@ -240,9 +240,8 @@ To maximize long-term profitability and address core stakeholder objectives, we 
 * **February Inventory Liquidation:** Use the recurring February trough as a potential post-holiday clearance window where inventory data confirms aging or excess stock. Test early-access liquidation offers for Loyalty members before a broader release, measuring sell-through, incremental revenue, and margin.
 
 ### Products
-**1. Mitigating Concentration Risk via Catalog Expansion**
-* **Leverage Samsung Brand Trust:** Capitalize on the growing, high-volume demand for Samsung accessories by introducing premium, higher-margin Samsung hardware (laptops, smartphones). *Implementation Note: Test via a Dropshipping or 3P Marketplace model first to validate demand.*
-* **Diversify Ecosystem Peripherals:** Based on site search demand, introduce complementary accessories for customized cross-selling: Input Devices (keyboards, mice), Connectivity & Audio (Apple cables, Samsung earbuds), and Workspace Essentials (microphones, laptop bags).
+**1. Reducing SKU Concentration Through Evidence-Based Catalog Expansion**
+Use existing purchase behavior, basket affinity, site-search demand where available, product-page engagement, and external category-demand data to identify adjacent product and category opportunities that complement Enova's core SKUs. Prioritize candidates with demonstrated customer interest, then test selected additions through limited-inventory, dropship, or third-party marketplace pilots where operationally feasible. Measure conversion, incremental revenue, contribution margin, inventory turnover, and impact on revenue concentration before broader catalog expansion. As part of the same assortment review, evaluate near-zero-demand SKUs such as Bose SoundSport for discontinuation if no strategic or economic rationale supports continued assortment.
 
 **2. Evaluating Accessories as Basket Builders**
 Analyze multi-item orders to distinguish standalone accessory purchases from accessories attached to higher-ticket products and identify the strongest product affinities. Test targeted cross-sells and bundles around validated pairings, measuring attach rate, AOV, conversion, incremental revenue, and contribution margin against a control baseline. 
@@ -252,10 +251,8 @@ Analyze multi-item orders to distinguish standalone accessory purchases from acc
 Diagnose whether iPhone's persistent sub-1% revenue contribution reflects pricing competitiveness, assortment breadth, stock availability, product-page traffic and conversion, competitive positioning, or genuinely weak customer demand.
 If the diagnostic identifies viable demand and unit economics, test targeted cross-selling to relevant MacBook and AirPods customers and selected ecosystem bundles, measuring conversion, attach rate, AOV, incremental revenue, and contribution margin before broader investment. 
 
-**4. Mitigating Returns via Root Cause Analysis:**
-Implement a mandatory 'Return Reason' field to enable robust Root Cause Analysis. Insights will unlock targeted operational fixes:
-* **PDP Enrichment:** Upgrading Product Detail Pages with high-resolution imagery and granular specs if returns stem from an 'expectation gap'.
-* **Packaging Upgrades:** Reinforcing transit packaging if transit damage is identified as a primary driver.
+**4. Reducing Return Exposure Through Root-Cause Analysis:**
+Implement structured item-level return-reason capture and analyze return rate and refunded value by SKU, return reason, purchase period, region and fulfillment characteristics where available. Prioritize investigation of the four core products responsible for ~98% of refunded value, while distinguishing high-rate products such as MacBook Air and ThinkPad from high-volume exposure in the Gaming Monitor and AirPods. Use identified root causes to deploy targeted interventions, such as PDP/specification improvements for confirmed expectation or compatibility-related returns, packaging or fulfillment changes where transit damage is identified, and supplier-quality escalation where product defects are confirmed. Measure post-intervention return rates and refunded value against a pre-change baseline.
 
 ### Loyalty Program
 **1. Testing Second-Purchase Financial Incentives:**
