@@ -17,14 +17,14 @@ This project analyzes the company's 2019–2022 historical data to uncover actio
 </details>
 
 ## About the Data & Methodology
-Enova's database structure, as seen below, consists of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`, with a total of over 108,000 order-line records.
+Enova's analytical data model consists of four source tables: orders, customers, geo_lookup, and order_status, containing more than 108,000 order-line records across approximately 93,000 distinct orders.
 
 <p align="center">
 <img width="785" height="440" alt="ERD2" src="https://github.com/user-attachments/assets/a48c8279-bd20-4611-83f3-e86b58fb1210" />
 </p>
 
-**Data Governance & Integrity:**
-To ensure high data integrity and prevent analytical bias, a rigorous data cleaning process was executed prior to analysis. Please review the **[Data Cleaning & Preparation Log](data-cleaning-log.md)** for the complete methodology. 
+**Data Quality & Integrity:**
+To reduce data-quality risk and minimize avoidable analytical bias, the source data was validated, standardized, and transformed prior to analysis. Please review the **[Data Cleaning & Preparation Log](data-cleaning-log.md)** for the complete methodology. 
 
 ---
 
