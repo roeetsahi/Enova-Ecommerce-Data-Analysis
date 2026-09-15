@@ -192,27 +192,47 @@ ORDER BY month_year ASC;
 
 
 
--- 8. Data Governance & Architecture: Creating a new deduplicated table by applying strict row-level partitioning across all columns.
--- Note: Due to granularity limitations (lack of LINE_ITEM_ID / QUANTITY), this full-column partition safely removes logging duplicates without dropping valid multi-item orders.
--- (For a full technical and business explanation, see the Data Quality Issue Log).
+-- 8. Data Quality Diagnostic: Potential Duplicate Rows
+-- Identifies exact duplicate-like records for investigation only.
+-- No records are removed because the source lacks LINE_ITEM_ID and QUANTITY,
+-- so repeated identical rows cannot be reliably distinguished from legitimate
+-- purchases of multiple identical items.
+-- If a reliable LINE_ITEM_ID were available and unique within each order,
+-- ORDER_ID + LINE_ITEM_ID would provide the preferred duplicate-validation key.
 
-CREATE TABLE orders_final AS
-SELECT *
-FROM (
-    SELECT *,
+WITH duplicate_candidates AS (
+    SELECT
+        *,
         ROW_NUMBER() OVER (
             PARTITION BY
-                USER_ID, ORDER_ID, PURCHASE_DATE, PURCHASE_MONTH_YEAR,
-                SHIP_DATE, DELIVERY_DATE, REFUND_DATE, REFUNDED,
-                DAYS_TO_SHIP, TRANSIT_TIME, RETURN_WINDOW,
-                PRODUCT_NAME, PRODUCT_ID, USD_PRICE, LOCAL_PRICE,
-                CURRENCY, PURCHASE_PLATFORM, MARKETING_CHANNEL,
-                ACCOUNT_CREATION_METHOD, COUNTRY_CODE, REGION,
-                LOYALTY_PROGRAM, CREATED_ON
+                USER_ID,
+                ORDER_ID,
+                PURCHASE_DATE,
+                PURCHASE_MONTH_YEAR,
+                SHIP_DATE,
+                DELIVERY_DATE,
+                REFUND_DATE,
+                REFUNDED,
+                DAYS_TO_SHIP,
+                TRANSIT_TIME,
+                RETURN_WINDOW,
+                PRODUCT_NAME,
+                PRODUCT_ID,
+                USD_PRICE,
+                LOCAL_PRICE,
+                CURRENCY,
+                PURCHASE_PLATFORM,
+                MARKETING_CHANNEL,
+                ACCOUNT_CREATION_METHOD,
+                COUNTRY_CODE,
+                REGION,
+                LOYALTY_PROGRAM,
+                CREATED_ON
             ORDER BY ORDER_ID
-        ) as rn
-    FROM orders -- The original raw table.
-) sub
-WHERE rn = 1;
+        ) AS duplicate_rank
+    FROM orders
+)
 
-ALTER TABLE orders_final DROP COLUMN rn;
+SELECT *
+FROM duplicate_candidates
+WHERE duplicate_rank > 1;
