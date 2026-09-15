@@ -7,7 +7,7 @@ Below is a summary of the key data transformations, categorized by their busines
 * **Timestamp Resolution:** Renamed `_TS` columns (e.g., `PURCHASE_TS` to `PURCHASE_DATE`) as they lacked hourly granularity, and standardized the format to MM/DD/YYYY across all dates.
 * **Text Consistency:** Standardized inconsistent naming conventions in `PRODUCT_NAME` (e.g., uniforming "27in 4K gaming monitor") and `REGION` (mapping "North America" to "NA").
 
-## 2. Critical Data Integrity & Architecture Fixes
+## 2. Data Quality Findings & Analytical Limitations
 * **Deduplication:** Applied strict row-level deduplication using a SQL CTE and `ROW_NUMBER()` window function, partitioned by all columns to safely collapse identical logging retries. *(Note: This aggressive partitioning was required to resolve a broken granularity issue detailed in the Excel Issue Log linked at the bottom of this page).* 
 * **SCD Loyalty Ambiguity (Look-Ahead Bias Prevention):** Addressed users with fluctuating loyalty statuses by adopting a Dual-Attribution approach. Financial metrics were attributed to the point-in-time status, while behavioral metrics utilized an "Ever-Member" cohort logic to preserve tracking integrity.
 * **Account Creation Anomalies:** Identified users with overwritten `CREATED_ON` timestamps. Retained original values but excluded this field from time-based analyses to prevent misleading Lifetime Value (LTV) and Cohort Retention metrics.
@@ -26,5 +26,5 @@ To facilitate advanced pivot analysis and dashboard visualizations, several core
 
 ### Deep-Dive Issue Log & Dataset
 
-* **[Data Quality Issue Log (Excel)](./Enova_Issue_Log.xlsx)** - An in-depth breakdown of anomalies, magnitude percentages, unresolvable issues, and cross-functional team escalations.
+* **[Data Quality Issue Log (Excel)](./Enova_Issue_Log.xlsx)** - A detailed record of data anomalies, issue magnitude, analytical impact, resolution decisions, and recommended production owners and escalation paths.
 * **[Enova Raw and Cleaned Data (XLSB)](./Enova_Raw_and_Cleaned_Data.xlsb)** - Contains the original RAW data alongside the final, cleaned dataset ready for analysis.
