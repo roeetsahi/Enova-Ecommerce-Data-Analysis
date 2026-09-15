@@ -100,6 +100,9 @@ Although 2022’s total revenue reached $4.96M, 28% above the 2019 pre-COVID bas
 | **Q4 Revenue** | $1.18M | $649K | 🔴 -45% |
 | **Annual AOV** | $270 | $261 | 🔴 -3% |
 
+<br>
+
+
 #### Seasonality & Recurring Patterns
 
 #### 4. The "Dual-Peak" Cycle (Sep & Dec) & 2022 Anomaly
