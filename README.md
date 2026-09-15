@@ -80,7 +80,8 @@ Against the backdrop of global COVID-19 lockdowns and the broader shift toward r
 <br>
 <br>
 
-<img width="1345" height="757" alt="image" src="https://github.com/user-attachments/assets/654c257a-7136-4d53-b9e3-ae2af0a1dfd0" />
+<img width="1382" height="752" alt="image" src="https://github.com/user-attachments/assets/12b28577-6401-4cc7-b116-ef48fcf5d65b" />
+
 
 
 #### 2. The 2021-2022 Post-Surge Contraction
