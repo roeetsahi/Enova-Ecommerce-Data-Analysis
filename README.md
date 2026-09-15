@@ -3,7 +3,7 @@
 ## Project Background
 Founded in 2018, Enova Electronics is a global e-commerce company selling consumer technology hardware and accessories.
 
-This project analyzes the company's 2019–2022 historical data to uncover actionable insights and develop business recommendations addressing core stakeholder questions across sales trends, product catalog performance, loyalty program effectiveness, regional performance, and marketing channel optimization.
+This project analyzes the company's 2019–2022 historical data to address core stakeholder questions across sales trends, product catalog performance, loyalty program effectiveness, regional performance, and marketing channel optimization by uncovering actionable insights and developing business recommendations.
 <details>
 <summary><b>Stakeholder Objectives</b></summary>
 <br>
@@ -24,7 +24,7 @@ Enova's analytical data model consists of four source tables: orders, customers,
 </p>
 
 **Data Quality & Integrity:**
-To reduce data-quality risk and minimize avoidable analytical bias, the source data was validated, standardized, and transformed prior to analysis. Please review the **[Data Cleaning & Preparation Log](data-cleaning-log.md)** for the complete methodology. 
+To reduce data-quality risk and minimize avoidable analytical bias, the source data was validated, standardized, and transformed prior to analysis. Please review the **[Data Cleaning & Preparation Log](data-cleaning-log.md)** for the complete methodology, analytical limitations, and documented assumptions.
 
 ---
 
