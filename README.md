@@ -50,6 +50,8 @@ To reduce data-quality risk and minimize avoidable analytical bias, the source d
 # Executive Summary - Overview of Findings
 
 <img width="1407" height="177" alt="image" src="https://github.com/user-attachments/assets/fcffd680-5654-4f09-bdc1-a24c0a149443" />
+<img width="1407" height="177" alt="image" src="https://github.com/user-attachments/assets/ea3fa54d-9596-43f4-bb5f-b2145f6b7704" />
+
 
 
 
