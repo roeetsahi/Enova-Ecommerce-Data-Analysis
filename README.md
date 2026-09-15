@@ -49,7 +49,6 @@ To reduce data-quality risk and minimize avoidable analytical bias, the source d
 
 # Executive Summary - Overview of Findings
 
-<img width="1407" height="177" alt="image" src="https://github.com/user-attachments/assets/fcffd680-5654-4f09-bdc1-a24c0a149443" />
 <img width="1636" height="145" alt="image" src="https://github.com/user-attachments/assets/b0e9f894-de77-47b6-b5b1-2d3968508d3f" />
 
 
@@ -91,13 +90,14 @@ Beginning in April 2021, revenue entered a sustained contraction, recording 21 c
 <img width="1296" height="718" alt="image" src="https://github.com/user-attachments/assets/158637ec-72a0-48df-8ca8-71fe23c2000b" />
 
 
-#### 3. Deceptive 2022 Growth Against 2019 Baseline
-Although 2022’s total revenue remained above the pre-COVID 2019 baseline, this surplus was entirely front-loaded in Q1. Amid the Omicron wave, Q1 2022 revenue was 91% above Q1 2019. However, as the year progressed alongside post-pandemic normalization and mounting macroeconomic headwinds, this early advantage eroded. By Q4, sales had dropped 45% compared to Q4 2019, marking Q4 2022 as the lowest-performing quarter in the four-year period ($648K). Furthermore, 2022's annual AOV regressed to $261, falling below the 2019 baseline of $270, indicating materially weaker year-end sales performance entering 2023 than in the comparable 2019 pre-pandemic period.
+#### 3. 2022 Annual Performance Masked Sharp Year-End Deterioration vs. 2019
+Although 2022’s total revenue reached $4.96M, 28% above the 2019 pre-COVID baseline of $3.87M, the annual result masked a sharp deterioration through the year. Amid the Omicron wave, Q1 2022 revenue was 91% above Q1 2019. However, as the year progressed alongside post-pandemic normalization and mounting macroeconomic headwinds, this early advantage eroded. By Q4, sales had dropped 45% compared to Q4 2019, marking Q4 2022 as the lowest-performing quarter in the four-year period ($649K). Furthermore, 2022's annual AOV regressed to $261, falling below the 2019 baseline of $270. Enova entered 2023 with materially weaker sales performance than its pre-pandemic baseline, indicating that the pandemic-era revenue uplift had not been sustained.
 
 | Metric | 2019 (Baseline) | 2022 | Variance |
 | :--- | :---: | :---: | :---: |
+| **Annual Revenue** | $3.87M | $4.96M | 🟢 +28% |
 | **Q1 Revenue** | $884K | $1.69M | 🟢 +91% |
-| **Q4 Revenue** | $1.18M | $648K | 🔴 -45% |
+| **Q4 Revenue** | $1.18M | $649K | 🔴 -45% |
 | **Annual AOV** | $270 | $261 | 🔴 -3% |
 
 #### Seasonality & Recurring Patterns
