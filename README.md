@@ -108,7 +108,8 @@ The brand follows a recurring annual "Dual-Peak" pattern. December represents th
 #### 5. February and October Troughs
 Enova also exhibited two recurring cooling-off periods. October revenues consistently decline (averaging -31% vs. September),an understandable post-back-to-school/campus drop that also coincides with the run-up to Black Friday and holiday promotions. Similarly, February represents the bottom of the post-holiday trough, typically dropping 32% below January across 2019, 2021 and 2022. However, 2020 presented a stark anomaly where February revenue actually grew by 4% versus January, coinciding with the early stages of the COVID-19 disruption.
 
-<img width="1378" height="757" alt="image" src="https://github.com/user-attachments/assets/b9e35c1f-3c47-4ec6-a58c-de765011de8c" />
+<img width="1378" height="757" alt="image" src="https://github.com/user-attachments/assets/8d1ba935-1cc0-45ce-9072-6a0cbf60f412" />
+
 
 
 <br>
