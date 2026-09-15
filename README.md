@@ -179,7 +179,7 @@ Regional revenue trajectories moved broadly in tandem throughout the period, wit
 #### 2. North America: Enova's Scale Anchor
 North America remained Enova's largest region throughout the period, contributing ~49-55% of annual revenue and 51-53% of annual order volume. In 2022, NA generated ~$2.7M from ~10.1K orders, nearly twice EMEA's scale, the second-largest region. LATAM remained the smallest market, contributing approximately 5-6% of annual revenue throughout the period.
 
-**The North America Fortress: 2022 Regional Market Share Snapshot**
+**2022 Regional Scale Snapshot: North America Leads Revenue and Order Volume**
 
 | Region | Total Revenue | Revenue Share (%) | Total Orders | Order Vol. Share (%) |
 | :--- | :---: | :---: | :---: | :---: |
