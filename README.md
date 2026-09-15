@@ -1,10 +1,9 @@
 # Enova Electronics: Strategic Data Analysis & Actionable Recommendations
 
 ## Project Background
-Founded in 2018, Enova Electronics is a global e-commerce company selling popular tech hardware and accessories worldwide.
+Founded in 2018, Enova Electronics is a global e-commerce company selling consumer technology hardware and accessories.
 
-To leverage the company's previously underutilized historical data (2019–2022), this project was initiated to uncover insights and deliver actionable recommendations that directly address core stakeholder requests (detailed below) across sales trends, product performance, loyalty program effectiveness, regional dynamics, and marketing channel optimization.
-
+This project analyzes the company's 2019–2022 historical data to uncover actionable insights and develop business recommendations addressing core stakeholder questions across sales trends, product catalog performance, loyalty program effectiveness, regional performance, and marketing channel optimization.
 <details>
 <summary><b>Stakeholder Objectives</b></summary>
 <br>
