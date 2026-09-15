@@ -8,9 +8,10 @@ Below is a summary of the key data transformations, categorized by their busines
 * **Text Consistency:** Standardized inconsistent naming conventions in `PRODUCT_NAME` (e.g., uniforming "27in 4K gaming monitor") and `REGION` (mapping "North America" to "NA").
 
 ## 2. Data Quality Findings & Analytical Limitations
-* **Deduplication:** Applied strict row-level deduplication using a SQL CTE and `ROW_NUMBER()` window function, partitioned by all columns to safely collapse identical logging retries. *(Note: This aggressive partitioning was required to resolve a broken granularity issue detailed in the Excel Issue Log linked at the bottom of this page).* 
-* **SCD Loyalty Ambiguity (Look-Ahead Bias Prevention):** Addressed users with fluctuating loyalty statuses by adopting a Dual-Attribution approach. Financial metrics were attributed to the point-in-time status, while behavioral metrics utilized an "Ever-Member" cohort logic to preserve tracking integrity.
-* **Account Creation Anomalies:** Identified users with overwritten `CREATED_ON` timestamps. Retained original values but excluded this field from time-based analyses to prevent misleading Lifetime Value (LTV) and Cohort Retention metrics.
+* **Duplicate & Grain Assessment:** Identified 15,196 exact duplicate-like records (14.05% of the dataset). Because the source data lacks both a LINE_ITEM_ID and QUANTITY field, identical rows cannot be reliably distinguished from legitimate repeated-item quantities. No records were removed from the analytical dataset. A SQL ROW_NUMBER() diagnostic was used to isolate duplicate candidates for source-system validation before any production deduplication. 
+* **Loyalty Status Attribution (SCD Limitation):** Mixed loyalty values were observed across transactions for 1,026 users. Financial reporting used the loyalty status recorded on each transaction, while behavioral comparisons used a separately defined retrospective Ever-Member cohort. The two analytical views were kept separate because no effective-dated membership history (e.g., SCD Type 2) was available.
+* **Account Creation Date Integrity:** dentified users with multiple conflicting CREATED_ON values, indicating that the field does not behave as a reliable immutable account-creation timestamp. The affected records were retained to avoid biasing otherwise valid transactional analysis. However, the unreliable timestamp prevented reliable customer-tenure analyses such as time-to-conversion, Lifetime Value (LTV), and cohort retention.
+
 
 ## 3. Handling Missing Data & Tracking Gaps
 * **Attribution Consolidation:** Consolidated missing records in `MARKETING_CHANNEL` and `ACCOUNT_CREATION_METHOD` into a unified 'UNKNOWN' category to preserve ground-truth tracking gaps. 
