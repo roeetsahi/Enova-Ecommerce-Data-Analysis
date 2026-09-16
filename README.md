@@ -224,7 +224,7 @@ The Affiliate channel consistently generated Enova’s highest yearly AOV, reach
 ---
 
 # Recommendations: Executive Summary
-To maximize long-term profitability and address core stakeholder objectives, we must pivot from volume-chasing acquisition toward strict capital efficiency via four strategic shifts:
+To address the core stakeholder objectives, the analysis supports five strategic priorities focused on revenue optimization, regional decision-making, catalog performance, customer retention, and marketing channel performance and attribution quality:
 
 * **Seasonal Revenue Optimization:** Prioritize basket expansion over broad discounting during the December peak, diagnose the missing 2022 September peak before scaling targeted September demand-capture strategies, and use recurring October and February troughs for targeted retention and inventory-focused initiatives.
 * **Regional Portfolio Optimization:** Leverage North America's scale through basket-value expansion, validate the drivers and economics behind APAC's high AOV before testing incremental investment, and use a time-boxed constant-currency diagnostic in LATAM to guide marginal acquisition-budget reallocation.
