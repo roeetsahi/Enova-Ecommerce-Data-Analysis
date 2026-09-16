@@ -20,7 +20,7 @@ Below is a summary of the key data transformations, categorized by their busines
 ## 4. Data Augmentation & Feature Engineering 
 To facilitate advanced pivot analysis and dashboard visualizations, several core dimensions were engineered:
 * **Binary Classification:** Created a boolean `REFUNDED` flag (1/0) based on the presence of a refund date, streamlining the calculation of refund rates across different operational dimensions.
-* **Operational KPIs:** Engineered new duration metrics including `DAYS_TO_SHIP` (Ship Date - Purchase Date) and `RETURN_WINDOW` (Refund Date - Delivery Date) to allow for deeper operational analysis.
+* **Operational Duration Features:** Engineered DAYS_TO_SHIP and RETURN_WINDOW for exploratory analysis. Implausible values were identified in a small share of DAYS_TO_SHIP and ~5% of RETURN_WINDOW records. As operational timing analysis was outside the stakeholder scope, these metrics were not used in final findings pending source validation.
 * **Dimensional Lookups:** Enriched the core transactional dataset by importing complete `REGION` and `COUNTRY_NAME` dimensions via XLOOKUP from mapping tables.
 
 ---
