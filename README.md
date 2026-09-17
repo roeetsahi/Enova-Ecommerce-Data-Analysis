@@ -84,14 +84,14 @@ Against the backdrop of global COVID-19 lockdowns and the broader shift toward r
 
 
 #### 2. The 2021-2022 Post-Surge Contraction
-Beginning in April 2021, revenue entered a sustained contraction, recording 21 consecutive months of YoY declines through the very end of 2022, culminating in a 46% annual revenue decline, from ~$9.13M in 2021 to ~$4.96M in 2022. The contraction coincided with post-pandemic normalization and a materially different 2022 macroeconomic environment, including elevated inflation, rising interest rates and a broader return to in-store shopping. Monthly revenue ultimately reached a four-year low of ~$178K in October 2022.
+Beginning in April 2021, revenue entered a sustained contraction, recording 21 consecutive months of YoY declines through the end of 2022, with annual revenue ultimately falling 46% from ~$9.13M in 2021 to ~$4.96M in 2022. The contraction coincided with post-pandemic normalization and a materially different 2022 macroeconomic environment, including elevated inflation, rising interest rates and a broader return to in-store shopping. Monthly revenue ultimately reached a four-year low of ~$178K in October 2022.
 
 
 <img width="1296" height="718" alt="image" src="https://github.com/user-attachments/assets/158637ec-72a0-48df-8ca8-71fe23c2000b" />
 
 
 #### 3. 2022 Annual Performance Masked Sharp Year-End Deterioration vs. 2019
-Although 2022’s total revenue reached $4.96M, 28% above the 2019 pre-COVID baseline of $3.87M, the annual result masked a sharp deterioration through the year. Amid the Omicron wave, Q1 2022 revenue was 91% above Q1 2019. However, as the year progressed alongside post-pandemic normalization and mounting macroeconomic headwinds, this early advantage eroded. By Q4, sales had dropped 45% compared to Q4 2019, marking Q4 2022 as the lowest-performing quarter in the four-year period ($649K). Furthermore, 2022's annual AOV regressed to $261, falling below the 2019 baseline of $270. Taken together, the Q4 and AOV deterioration indicate that 2022's annual revenue total overstated the strength of the business exiting the year, and that the pandemic-era uplift had not been sustained.
+Although 2022’s total revenue reached $4.96M, 28% above the 2019 pre-COVID baseline of $3.87M, the annual result masked a sharp deterioration through the year. Amid the Omicron wave, Q1 2022 revenue was 91% above Q1 2019. However, as the year progressed alongside post-pandemic normalization and mounting macroeconomic headwinds, this early advantage eroded. By Q4, sales had dropped 45% compared to Q4 2019, marking Q4 2022 as the lowest-performing quarter in the four-year period ($649K). Furthermore, 2022's annual AOV regressed to $261, falling below the 2019 baseline of $270. Taken together, the Q4 and AOV deterioration indicate that 2022's annual revenue total masked the weakness of the business exiting the year, and that the pandemic-era uplift had not been sustained.
 
 | Metric | 2019 (Baseline) | 2022 | Variance |
 | :--- | :---: | :---: | :---: |
