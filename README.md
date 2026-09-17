@@ -54,7 +54,7 @@ To reduce data-quality risk and minimize avoidable analytical bias, the source d
 
 
 
-**Between 2019 and 2022, Enova Electronics generated approximately $28M in total sales across ~93,000 orders, with an overall Average Order Value (AOV) of $303. Amid COVID-era shifts toward remote work, distance learning, and e-commerce, 2020 revenue scaled by 163% year-over-year to ~$10.2M. However, beginning in Q2 2021, the business entered a sustained contraction, recording 21 consecutive months of YoY revenue declines through the end of 2022.**
+**Between 2019 and 2022, Enova Electronics generated approximately $28M in total sales across ~93,000 orders, with an overall Average Order Value (AOV) of $303. Amid COVID-era shifts toward remote work, remote learning, and accelerated e-commerce adoption, 2020 revenue scaled by 163% year-over-year to ~$10.2M. However, beginning in Q2 2021, the business entered a sustained contraction, recording 21 consecutive months of YoY revenue declines through the end of 2022.**
 **While total 2022 revenue remained above the 2019 pre-pandemic baseline, momentum weakened sharply by year-end. Q4 2022 sales fell 45% below Q4 2019, indicating materially weaker year-end sales performance entering 2023 than in the comparable 2019 pre-pandemic period.**
 <br>
 <br>
@@ -73,7 +73,7 @@ To reduce data-quality risk and minimize avoidable analytical bias, the source d
 ### Overall Sales Trends & Seasonality
 
 #### 1. The 2020 Historic Expansion
-Against the backdrop of global COVID-19 lockdowns and the broader shift toward remote work, distance learning, and e-commerce, Enova experienced an unprecedented expansion in 2020. Compared to the 2019 baseline, total annual revenue scaled by 163% to ~$10.2M, powered by "Dual-Engine" growth: order volume doubled to ~29K, and AOV surged by 30% to $351. Notably, this dominance was absolute across the timeline - every single month of 2020 outperformed its 2019 counterpart across all primary KPIs, culminating in a four-year monthly revenue peak of $1.25M in December. 
+Against the backdrop of global COVID-19 lockdowns and the broader shift toward remote work, remote learning, and accelerated e-commerce adoption, Enova experienced an unprecedented expansion in 2020. Compared to the 2019 baseline, total annual revenue scaled by 163% to ~$10.2M, powered by "Dual-Engine" growth: order volume doubled to ~29K, and AOV surged by 30% to $351. Notably, this dominance was absolute across the timeline - every single month of 2020 outperformed its 2019 counterpart across all primary KPIs, culminating in a four-year monthly revenue peak of $1.25M in December. 
 
 <img width="1379" height="167" alt="image" src="https://github.com/user-attachments/assets/e1119a29-6ddc-49a7-8dff-019b59839801" />
 <br>
@@ -84,14 +84,14 @@ Against the backdrop of global COVID-19 lockdowns and the broader shift toward r
 
 
 #### 2. The 2021-2022 Post-Surge Contraction
-Beginning in April 2021, revenue entered a sustained contraction, recording 21 consecutive months of YoY declines through the very end of 2022, culminating in a severe 46% annual revenue drop versus 2021. The contraction coincided with post-pandemic normalization and a materially different 2022 macroeconomic environment, including elevated inflation, rising interest rates and a broader return to in-store shopping. Monthly revenue ultimately reached a four-year low of ~$178K in October 2022.
+Beginning in April 2021, revenue entered a sustained contraction, recording 21 consecutive months of YoY declines through the very end of 2022, culminating in a 46% annual revenue decline, from ~$9.13M in 2021 to ~$4.96M in 2022. The contraction coincided with post-pandemic normalization and a materially different 2022 macroeconomic environment, including elevated inflation, rising interest rates and a broader return to in-store shopping. Monthly revenue ultimately reached a four-year low of ~$178K in October 2022.
 
 
 <img width="1296" height="718" alt="image" src="https://github.com/user-attachments/assets/158637ec-72a0-48df-8ca8-71fe23c2000b" />
 
 
 #### 3. 2022 Annual Performance Masked Sharp Year-End Deterioration vs. 2019
-Although 2022’s total revenue reached $4.96M, 28% above the 2019 pre-COVID baseline of $3.87M, the annual result masked a sharp deterioration through the year. Amid the Omicron wave, Q1 2022 revenue was 91% above Q1 2019. However, as the year progressed alongside post-pandemic normalization and mounting macroeconomic headwinds, this early advantage eroded. By Q4, sales had dropped 45% compared to Q4 2019, marking Q4 2022 as the lowest-performing quarter in the four-year period ($649K). Furthermore, 2022's annual AOV regressed to $261, falling below the 2019 baseline of $270. Enova entered 2023 with materially weaker sales performance than its pre-pandemic baseline, indicating that the pandemic-era revenue uplift had not been sustained.
+Although 2022’s total revenue reached $4.96M, 28% above the 2019 pre-COVID baseline of $3.87M, the annual result masked a sharp deterioration through the year. Amid the Omicron wave, Q1 2022 revenue was 91% above Q1 2019. However, as the year progressed alongside post-pandemic normalization and mounting macroeconomic headwinds, this early advantage eroded. By Q4, sales had dropped 45% compared to Q4 2019, marking Q4 2022 as the lowest-performing quarter in the four-year period ($649K). Furthermore, 2022's annual AOV regressed to $261, falling below the 2019 baseline of $270. Taken together, the Q4 and AOV deterioration indicate that 2022's annual revenue total overstated the strength of the business exiting the year, and that the pandemic-era uplift had not been sustained.
 
 | Metric | 2019 (Baseline) | 2022 | Variance |
 | :--- | :---: | :---: | :---: |
@@ -109,7 +109,7 @@ Although 2022’s total revenue reached $4.96M, 28% above the 2019 pre-COVID bas
 The brand follows a recurring annual "Dual-Peak" pattern. December represents the primary peak, delivering an average 46% revenue increase from the October trough, consistent with holiday-season demand. September represents a secondary peak, aligning with the back-to-school/campus demand and major annual tech launches. However, 2022 broke this pattern. While 2019-2021 averaged a 23% increase from July to September, the 2022 September spike completely vanished, contracting by 13.5% over the same period. 
 
 #### 5. February and October Troughs
-Enova also exhibited two recurring cooling-off periods. October revenues consistently decline (averaging -31% vs. September),an understandable post-back-to-school/campus drop that also coincides with the run-up to Black Friday and holiday promotions. Similarly, February represents the bottom of the post-holiday trough, typically dropping 32% below January across 2019, 2021 and 2022. However, 2020 presented a stark anomaly where February revenue actually grew by 4% versus January, coinciding with the early stages of the COVID-19 disruption.
+Enova also exhibited two recurring cooling-off periods. October revenues consistently decline (averaging -31% vs. September), an understandable post-back-to-school/campus drop that also coincides with the run-up to Black Friday and holiday promotions. Similarly, February represents the bottom of the post-holiday trough, typically dropping 32% below January across 2019, 2021 and 2022. However, 2020 presented a stark anomaly where February revenue actually grew by 4% versus January, coinciding with the early stages of the COVID-19 disruption.
 
 <img width="1378" height="757" alt="image" src="https://github.com/user-attachments/assets/8d1ba935-1cc0-45ce-9072-6a0cbf60f412" />
 
